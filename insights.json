@@ -1,14 +1,52 @@
 {
-  "updated_at": 1724633402,
+  "updated_at": 1724633461,
   "data": {
     "today": {
       "top_songs": [
+        {
+          "_id": "0Ybbi9VQ4g7lavEN4ZTzB1",
+          "count": 1,
+          "details": {
+            "id": "0Ybbi9VQ4g7lavEN4ZTzB1",
+            "progress": 99.72575757575758,
+            "duration_ms": 198000,
+            "playing": true,
+            "name": "\u6cd5\u87ba\u8a71",
+            "preview_url": "https://p.scdn.co/mp3-preview/85c3f582f03347d1488f461ac37046a355a0065f?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u7406\u82bd",
+                "id": "1rFELoNfdLOYWPwtrBN6zS"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u6cd5\u87ba\u8a71",
+              "id": "01za03FALE9HYd1mg7ZidE",
+              "release_date": "2021-01-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724633080207
+          }
+        },
         {
           "_id": "4BQDsKhTfd2JX1M2ajkOJu",
           "count": 1,
           "details": {
             "id": "4BQDsKhTfd2JX1M2ajkOJu",
-            "progress": 69.41991156914146,
+            "progress": 99.75473375111102,
             "duration_ms": 177766,
             "playing": true,
             "name": "\u30c1\u30e5\u30fc\u30a4\u30f3\u30fb\u30c7\u30a3\u30b9\u30b3",
@@ -88,19 +126,19 @@
           }
         },
         {
-          "_id": "0Ybbi9VQ4g7lavEN4ZTzB1",
+          "_id": "4Co1OjIiGp0Fa5yr7rndy1",
           "count": 1,
           "details": {
-            "id": "0Ybbi9VQ4g7lavEN4ZTzB1",
-            "progress": 99.72575757575758,
-            "duration_ms": 198000,
+            "id": "4Co1OjIiGp0Fa5yr7rndy1",
+            "progress": 3.4872828811790213,
+            "duration_ms": 112093,
             "playing": true,
-            "name": "\u6cd5\u87ba\u8a71",
-            "preview_url": "https://p.scdn.co/mp3-preview/85c3f582f03347d1488f461ac37046a355a0065f?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "Heart 111",
+            "preview_url": "https://p.scdn.co/mp3-preview/04210fc9d3a09b7bb02d7d76bd083bc4c0421048?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "\u7406\u82bd",
-                "id": "1rFELoNfdLOYWPwtrBN6zS"
+                "name": "\u3086\u30fc\u308a",
+                "id": "5qUT9YBghleRCXg0WifEzf"
               }
             ],
             "context": {
@@ -112,35 +150,21 @@
               "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
             },
             "album": {
-              "name": "\u6cd5\u87ba\u8a71",
-              "id": "01za03FALE9HYd1mg7ZidE",
-              "release_date": "2021-01-20",
+              "name": "Heart 111",
+              "id": "4qnIGMmBfj8fqtZYgTbJ25",
+              "release_date": "2024-04-10",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
+                "url": "https://i.scdn.co/image/ab67616d0000b27398ade5dafb5a9ef269f9d877",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1724633080207
+            "time": 1724633456708
           }
         }
       ],
       "top_albums": [
-        {
-          "_id": "585o5gifFloGibjfoanTXW",
-          "count": 1,
-          "details": {
-            "name": "\u30a2\u30df",
-            "id": "585o5gifFloGibjfoanTXW",
-            "release_date": "2022-05-22",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ff1e6121ebabfd775faeee46",
-              "width": 640
-            }
-          }
-        },
         {
           "_id": "5halVD4PFLhrdjnJuxTAgH",
           "count": 1,
@@ -151,6 +175,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27343d0e7d31682ba44277656f0",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4qnIGMmBfj8fqtZYgTbJ25",
+          "count": 1,
+          "details": {
+            "name": "Heart 111",
+            "id": "4qnIGMmBfj8fqtZYgTbJ25",
+            "release_date": "2024-04-10",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27398ade5dafb5a9ef269f9d877",
               "width": 640
             }
           }
@@ -168,17 +206,23 @@
               "width": 640
             }
           }
+        },
+        {
+          "_id": "585o5gifFloGibjfoanTXW",
+          "count": 1,
+          "details": {
+            "name": "\u30a2\u30df",
+            "id": "585o5gifFloGibjfoanTXW",
+            "release_date": "2022-05-22",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff1e6121ebabfd775faeee46",
+              "width": 640
+            }
+          }
         }
       ],
       "top_artists": [
-        {
-          "_id": "1rFELoNfdLOYWPwtrBN6zS",
-          "count": 1,
-          "details": {
-            "name": "\u7406\u82bd",
-            "id": "1rFELoNfdLOYWPwtrBN6zS"
-          }
-        },
         {
           "_id": "6LesPuO1nhgJ2acJ4MjyBI",
           "count": 1,
@@ -196,6 +240,14 @@
           }
         },
         {
+          "_id": "7awsMAHbAIxGXzwOOxme2B",
+          "count": 1,
+          "details": {
+            "name": "ayaho",
+            "id": "7awsMAHbAIxGXzwOOxme2B"
+          }
+        },
+        {
           "_id": "7ctyyNnO9O2dDD8bHjkCAh",
           "count": 1,
           "details": {
@@ -204,18 +256,26 @@
           }
         },
         {
-          "_id": "7awsMAHbAIxGXzwOOxme2B",
+          "_id": "5qUT9YBghleRCXg0WifEzf",
           "count": 1,
           "details": {
-            "name": "ayaho",
-            "id": "7awsMAHbAIxGXzwOOxme2B"
+            "name": "\u3086\u30fc\u308a",
+            "id": "5qUT9YBghleRCXg0WifEzf"
+          }
+        },
+        {
+          "_id": "1rFELoNfdLOYWPwtrBN6zS",
+          "count": 1,
+          "details": {
+            "name": "\u7406\u82bd",
+            "id": "1rFELoNfdLOYWPwtrBN6zS"
           }
         }
       ],
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 489830.0
+          "listened_ms": 547664.0
         }
       ]
     },
@@ -1056,19 +1116,19 @@
           }
         },
         {
-          "_id": "0RYhK96jFmOZQJuAsaaAMx",
+          "_id": "6CIQOFf01zQ9qJaqhD6rlH",
           "count": 1,
           "details": {
-            "id": "0RYhK96jFmOZQJuAsaaAMx",
-            "progress": 99.32441475835081,
-            "duration_ms": 313802,
+            "id": "6CIQOFf01zQ9qJaqhD6rlH",
+            "progress": 99.43522012578616,
+            "duration_ms": 159000,
             "playing": true,
-            "name": "\u305d\u3057\u3066\u767d\u306b\u9084\u308b",
-            "preview_url": "https://p.scdn.co/mp3-preview/f8d7195e3f32f78ab7ecf62470eed56718ef8bfc?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+            "preview_url": "https://p.scdn.co/mp3-preview/d9d5096bbe39330875f08e34f52c41130d7dc454?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+                "name": "DECO*27",
+                "id": "7kZTWx6cRLc0TSRPq1XBMP"
               }
             ],
             "context": {
@@ -1080,17 +1140,17 @@
               "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
             },
             "album": {
-              "name": "\u8272\u5f69",
-              "id": "49ELlmc6ykxao1ovjxl57b",
-              "release_date": "2024-03-27",
+              "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+              "id": "6VlacW4pQH4G97p8vsOJNS",
+              "release_date": "2023-05-20",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d",
+                "url": "https://i.scdn.co/image/ab67616d0000b273183b7a8494d8947e07343ad2",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1724587901021
+            "time": 1724591225687
           }
         },
         {
@@ -1149,6 +1209,44 @@
             },
             "success": true,
             "time": 1724589412340
+          }
+        },
+        {
+          "_id": "0RYhK96jFmOZQJuAsaaAMx",
+          "count": 1,
+          "details": {
+            "id": "0RYhK96jFmOZQJuAsaaAMx",
+            "progress": 99.32441475835081,
+            "duration_ms": 313802,
+            "playing": true,
+            "name": "\u305d\u3057\u3066\u767d\u306b\u9084\u308b",
+            "preview_url": "https://p.scdn.co/mp3-preview/f8d7195e3f32f78ab7ecf62470eed56718ef8bfc?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u8272\u5f69",
+              "id": "49ELlmc6ykxao1ovjxl57b",
+              "release_date": "2024-03-27",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724587901021
           }
         },
         {
@@ -1287,44 +1385,6 @@
             },
             "success": true,
             "time": 1724590829758
-          }
-        },
-        {
-          "_id": "6CIQOFf01zQ9qJaqhD6rlH",
-          "count": 1,
-          "details": {
-            "id": "6CIQOFf01zQ9qJaqhD6rlH",
-            "progress": 99.43522012578616,
-            "duration_ms": 159000,
-            "playing": true,
-            "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
-            "preview_url": "https://p.scdn.co/mp3-preview/d9d5096bbe39330875f08e34f52c41130d7dc454?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "DECO*27",
-                "id": "7kZTWx6cRLc0TSRPq1XBMP"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
-              "id": "6VlacW4pQH4G97p8vsOJNS",
-              "release_date": "2023-05-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273183b7a8494d8947e07343ad2",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724591225687
           }
         },
         {
@@ -4540,20 +4600,6 @@
           }
         },
         {
-          "_id": "0r2X927CHzHzyCLojLAxg8",
-          "count": 1,
-          "details": {
-            "name": "GA-TAN GO-TON",
-            "id": "0r2X927CHzHzyCLojLAxg8",
-            "release_date": "2024-04-02",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e39ac75688ef5800721b6e74",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "3CM6XVo41OSyfplg443RRj",
           "count": 1,
           "details": {
@@ -4577,6 +4623,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2733bcd755a5992996b85aaa3b6",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0r2X927CHzHzyCLojLAxg8",
+          "count": 1,
+          "details": {
+            "name": "GA-TAN GO-TON",
+            "id": "0r2X927CHzHzyCLojLAxg8",
+            "release_date": "2024-04-02",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e39ac75688ef5800721b6e74",
               "width": 640
             }
           }
@@ -5536,11 +5596,11 @@
           }
         },
         {
-          "_id": "5V4VtQwk2WtMZd93CdYxvh",
+          "_id": "4TaSvnT5o4REFwhqfrmK27",
           "count": 1,
           "details": {
-            "name": "harha",
-            "id": "5V4VtQwk2WtMZd93CdYxvh"
+            "name": "imase",
+            "id": "4TaSvnT5o4REFwhqfrmK27"
           }
         },
         {
@@ -5552,11 +5612,11 @@
           }
         },
         {
-          "_id": "4TaSvnT5o4REFwhqfrmK27",
+          "_id": "5V4VtQwk2WtMZd93CdYxvh",
           "count": 1,
           "details": {
-            "name": "imase",
-            "id": "4TaSvnT5o4REFwhqfrmK27"
+            "name": "harha",
+            "id": "5V4VtQwk2WtMZd93CdYxvh"
           }
         },
         {
@@ -6884,44 +6944,6 @@
           }
         },
         {
-          "_id": "5buKZ6bEgWF5kA8Vmqp4JH",
-          "count": 1,
-          "details": {
-            "id": "5buKZ6bEgWF5kA8Vmqp4JH",
-            "progress": 100,
-            "duration_ms": 108506,
-            "playing": true,
-            "name": "Flickering Shadows of Trees",
-            "preview_url": "https://p.scdn.co/mp3-preview/4b1b35fafeeacfb081cc8d03542f6a8479fdc175?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724031260286
-          }
-        },
-        {
           "_id": "5IPpsjsivn5HPrMnX2CE0M",
           "count": 1,
           "details": {
@@ -6957,6 +6979,44 @@
             },
             "success": true,
             "time": 1724031369743
+          }
+        },
+        {
+          "_id": "5buKZ6bEgWF5kA8Vmqp4JH",
+          "count": 1,
+          "details": {
+            "id": "5buKZ6bEgWF5kA8Vmqp4JH",
+            "progress": 100,
+            "duration_ms": 108506,
+            "playing": true,
+            "name": "Flickering Shadows of Trees",
+            "preview_url": "https://p.scdn.co/mp3-preview/4b1b35fafeeacfb081cc8d03542f6a8479fdc175?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724031260286
           }
         },
         {
@@ -8898,44 +8958,6 @@
           }
         },
         {
-          "_id": "2SEu1M6MtSaPLvyp3M5TPp",
-          "count": 1,
-          "details": {
-            "id": "2SEu1M6MtSaPLvyp3M5TPp",
-            "progress": 100,
-            "duration_ms": 81826,
-            "playing": true,
-            "name": "Tangled Vines",
-            "preview_url": "https://p.scdn.co/mp3-preview/cd5f927281a64959a1851f51e2134c0833288505?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724036771680
-          }
-        },
-        {
           "_id": "08trw9f8slch0SG8BLt2Kt",
           "count": 1,
           "details": {
@@ -8971,6 +8993,44 @@
             },
             "success": true,
             "time": 1724035767352
+          }
+        },
+        {
+          "_id": "2SEu1M6MtSaPLvyp3M5TPp",
+          "count": 1,
+          "details": {
+            "id": "2SEu1M6MtSaPLvyp3M5TPp",
+            "progress": 100,
+            "duration_ms": 81826,
+            "playing": true,
+            "name": "Tangled Vines",
+            "preview_url": "https://p.scdn.co/mp3-preview/cd5f927281a64959a1851f51e2134c0833288505?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724036771680
           }
         },
         {
@@ -9536,22 +9596,6 @@
           }
         },
         {
-          "_id": "77Qvx17FzuZhak8dkrLoFb",
-          "count": 1,
-          "details": {
-            "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
-            "id": "77Qvx17FzuZhak8dkrLoFb"
-          }
-        },
-        {
-          "_id": "07pEX75youkNlopUfdiZuh",
-          "count": 1,
-          "details": {
-            "name": "\u5317\u6751\u7950\u4f5c(\u91ce\u5cf6\u88d5\u53f2)",
-            "id": "07pEX75youkNlopUfdiZuh"
-          }
-        },
-        {
           "_id": "2ToyjwadiLVF81P6d4POtQ",
           "count": 1,
           "details": {
@@ -9573,6 +9617,22 @@
           "details": {
             "name": "\u9ad8\u9808\u7adc\u5150(\u9593\u5cf6\u6df3\u53f8)",
             "id": "2oM1fvFvrxmfI90P4N9HuH"
+          }
+        },
+        {
+          "_id": "77Qvx17FzuZhak8dkrLoFb",
+          "count": 1,
+          "details": {
+            "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
+            "id": "77Qvx17FzuZhak8dkrLoFb"
+          }
+        },
+        {
+          "_id": "07pEX75youkNlopUfdiZuh",
+          "count": 1,
+          "details": {
+            "name": "\u5317\u6751\u7950\u4f5c(\u91ce\u5cf6\u88d5\u53f2)",
+            "id": "07pEX75youkNlopUfdiZuh"
           }
         }
       ],
