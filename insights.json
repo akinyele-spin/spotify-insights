@@ -1,52 +1,14 @@
 {
-  "updated_at": 1724633342,
+  "updated_at": 1724633402,
   "data": {
     "today": {
       "top_songs": [
-        {
-          "_id": "0Ybbi9VQ4g7lavEN4ZTzB1",
-          "count": 1,
-          "details": {
-            "id": "0Ybbi9VQ4g7lavEN4ZTzB1",
-            "progress": 99.72575757575758,
-            "duration_ms": 198000,
-            "playing": true,
-            "name": "\u6cd5\u87ba\u8a71",
-            "preview_url": "https://p.scdn.co/mp3-preview/85c3f582f03347d1488f461ac37046a355a0065f?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u7406\u82bd",
-                "id": "1rFELoNfdLOYWPwtrBN6zS"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "\u6cd5\u87ba\u8a71",
-              "id": "01za03FALE9HYd1mg7ZidE",
-              "release_date": "2021-01-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724633080207
-          }
-        },
         {
           "_id": "4BQDsKhTfd2JX1M2ajkOJu",
           "count": 1,
           "details": {
             "id": "4BQDsKhTfd2JX1M2ajkOJu",
-            "progress": 35.15014119685429,
+            "progress": 69.41991156914146,
             "duration_ms": 177766,
             "playing": true,
             "name": "\u30c1\u30e5\u30fc\u30a4\u30f3\u30fb\u30c7\u30a3\u30b9\u30b3",
@@ -124,19 +86,57 @@
             "success": true,
             "time": 1724632909321
           }
+        },
+        {
+          "_id": "0Ybbi9VQ4g7lavEN4ZTzB1",
+          "count": 1,
+          "details": {
+            "id": "0Ybbi9VQ4g7lavEN4ZTzB1",
+            "progress": 99.72575757575758,
+            "duration_ms": 198000,
+            "playing": true,
+            "name": "\u6cd5\u87ba\u8a71",
+            "preview_url": "https://p.scdn.co/mp3-preview/85c3f582f03347d1488f461ac37046a355a0065f?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u7406\u82bd",
+                "id": "1rFELoNfdLOYWPwtrBN6zS"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u6cd5\u87ba\u8a71",
+              "id": "01za03FALE9HYd1mg7ZidE",
+              "release_date": "2021-01-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724633080207
+          }
         }
       ],
       "top_albums": [
         {
-          "_id": "01za03FALE9HYd1mg7ZidE",
+          "_id": "585o5gifFloGibjfoanTXW",
           "count": 1,
           "details": {
-            "name": "\u6cd5\u87ba\u8a71",
-            "id": "01za03FALE9HYd1mg7ZidE",
-            "release_date": "2021-01-20",
+            "name": "\u30a2\u30df",
+            "id": "585o5gifFloGibjfoanTXW",
+            "release_date": "2022-05-22",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
+              "url": "https://i.scdn.co/image/ab67616d0000b273ff1e6121ebabfd775faeee46",
               "width": 640
             }
           }
@@ -156,21 +156,29 @@
           }
         },
         {
-          "_id": "585o5gifFloGibjfoanTXW",
+          "_id": "01za03FALE9HYd1mg7ZidE",
           "count": 1,
           "details": {
-            "name": "\u30a2\u30df",
-            "id": "585o5gifFloGibjfoanTXW",
-            "release_date": "2022-05-22",
+            "name": "\u6cd5\u87ba\u8a71",
+            "id": "01za03FALE9HYd1mg7ZidE",
+            "release_date": "2021-01-20",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ff1e6121ebabfd775faeee46",
+              "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
               "width": 640
             }
           }
         }
       ],
       "top_artists": [
+        {
+          "_id": "1rFELoNfdLOYWPwtrBN6zS",
+          "count": 1,
+          "details": {
+            "name": "\u7406\u82bd",
+            "id": "1rFELoNfdLOYWPwtrBN6zS"
+          }
+        },
         {
           "_id": "6LesPuO1nhgJ2acJ4MjyBI",
           "count": 1,
@@ -188,14 +196,6 @@
           }
         },
         {
-          "_id": "7awsMAHbAIxGXzwOOxme2B",
-          "count": 1,
-          "details": {
-            "name": "ayaho",
-            "id": "7awsMAHbAIxGXzwOOxme2B"
-          }
-        },
-        {
           "_id": "7ctyyNnO9O2dDD8bHjkCAh",
           "count": 1,
           "details": {
@@ -204,18 +204,18 @@
           }
         },
         {
-          "_id": "1rFELoNfdLOYWPwtrBN6zS",
+          "_id": "7awsMAHbAIxGXzwOOxme2B",
           "count": 1,
           "details": {
-            "name": "\u7406\u82bd",
-            "id": "1rFELoNfdLOYWPwtrBN6zS"
+            "name": "ayaho",
+            "id": "7awsMAHbAIxGXzwOOxme2B"
           }
         }
       ],
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 428910.0
+          "listened_ms": 489830.0
         }
       ]
     },
@@ -614,6 +614,48 @@
           }
         },
         {
+          "_id": "4ceZ7lQr6uBi5EUPzCSocY",
+          "count": 2,
+          "details": {
+            "id": "4ceZ7lQr6uBi5EUPzCSocY",
+            "progress": 98.79295395427373,
+            "duration_ms": 175304,
+            "playing": true,
+            "name": "\u30d6\u30eb\u30fc\u30ca\u30a4\u30c8\u30c0\u30fc\u30ea\u30f3",
+            "preview_url": "https://p.scdn.co/mp3-preview/83addee701b12ad4287d441c920c42f55117fc54?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u660e\u900f",
+                "id": "71e65rSv8Dh3bfWNPQ1V1Q"
+              },
+              {
+                "name": "maeshima soshi",
+                "id": "4O49GHbECmNppFvzK0WZXf"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u30d6\u30eb\u30fc\u30ca\u30a4\u30c8\u30c0\u30fc\u30ea\u30f3",
+              "id": "4gYBihOhJ4LwOazK1bCp4E",
+              "release_date": "2024-06-26",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f601548a9f59a61c89ba4d22",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724552061000
+          }
+        },
+        {
           "_id": "5YzPYZKg94yEOgSlODzfK1",
           "count": 2,
           "details": {
@@ -691,48 +733,6 @@
             },
             "success": true,
             "time": 1724551636178
-          }
-        },
-        {
-          "_id": "4ceZ7lQr6uBi5EUPzCSocY",
-          "count": 2,
-          "details": {
-            "id": "4ceZ7lQr6uBi5EUPzCSocY",
-            "progress": 98.79295395427373,
-            "duration_ms": 175304,
-            "playing": true,
-            "name": "\u30d6\u30eb\u30fc\u30ca\u30a4\u30c8\u30c0\u30fc\u30ea\u30f3",
-            "preview_url": "https://p.scdn.co/mp3-preview/83addee701b12ad4287d441c920c42f55117fc54?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u660e\u900f",
-                "id": "71e65rSv8Dh3bfWNPQ1V1Q"
-              },
-              {
-                "name": "maeshima soshi",
-                "id": "4O49GHbECmNppFvzK0WZXf"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "\u30d6\u30eb\u30fc\u30ca\u30a4\u30c8\u30c0\u30fc\u30ea\u30f3",
-              "id": "4gYBihOhJ4LwOazK1bCp4E",
-              "release_date": "2024-06-26",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f601548a9f59a61c89ba4d22",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724552061000
           }
         },
         {
@@ -3794,44 +3794,6 @@
           }
         },
         {
-          "_id": "3xsFZOyd6mfrjZT1Sf4nXR",
-          "count": 1,
-          "details": {
-            "id": "3xsFZOyd6mfrjZT1Sf4nXR",
-            "progress": 99.67747120278597,
-            "duration_ms": 186650,
-            "playing": true,
-            "name": "Caffeine",
-            "preview_url": "https://p.scdn.co/mp3-preview/c6fdf1436d851104d9c2b1e02ad235f93453824c?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "DUSTCELL",
-                "id": "6Rs4z6XgltEI01UlDlu98B"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Caffeine",
-              "id": "74G9k4IlA4yjydeNlxOE7a",
-              "release_date": "2023-05-17",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273926b353f274bdaaac4ca029b",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724591038122
-          }
-        },
-        {
           "_id": "7eUt3Ed2PSocfPSVaNhAEI",
           "count": 1,
           "details": {
@@ -3905,6 +3867,44 @@
             },
             "success": true,
             "time": 1724588214369
+          }
+        },
+        {
+          "_id": "3xsFZOyd6mfrjZT1Sf4nXR",
+          "count": 1,
+          "details": {
+            "id": "3xsFZOyd6mfrjZT1Sf4nXR",
+            "progress": 99.67747120278597,
+            "duration_ms": 186650,
+            "playing": true,
+            "name": "Caffeine",
+            "preview_url": "https://p.scdn.co/mp3-preview/c6fdf1436d851104d9c2b1e02ad235f93453824c?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "DUSTCELL",
+                "id": "6Rs4z6XgltEI01UlDlu98B"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Caffeine",
+              "id": "74G9k4IlA4yjydeNlxOE7a",
+              "release_date": "2023-05-17",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273926b353f274bdaaac4ca029b",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724591038122
           }
         },
         {
@@ -4540,6 +4540,20 @@
           }
         },
         {
+          "_id": "0r2X927CHzHzyCLojLAxg8",
+          "count": 1,
+          "details": {
+            "name": "GA-TAN GO-TON",
+            "id": "0r2X927CHzHzyCLojLAxg8",
+            "release_date": "2024-04-02",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e39ac75688ef5800721b6e74",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "3CM6XVo41OSyfplg443RRj",
           "count": 1,
           "details": {
@@ -4563,20 +4577,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2733bcd755a5992996b85aaa3b6",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "0r2X927CHzHzyCLojLAxg8",
-          "count": 1,
-          "details": {
-            "name": "GA-TAN GO-TON",
-            "id": "0r2X927CHzHzyCLojLAxg8",
-            "release_date": "2024-04-02",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e39ac75688ef5800721b6e74",
               "width": 640
             }
           }
@@ -4890,20 +4890,6 @@
           }
         },
         {
-          "_id": "2OXwORzPU4tm1Skiv6l9KT",
-          "count": 1,
-          "details": {
-            "name": "Kirari Remixes (Asia Edition)",
-            "id": "2OXwORzPU4tm1Skiv6l9KT",
-            "release_date": "2022-01-14",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "0YctLRNgYmoGvZJYuwNUT3",
           "count": 1,
           "details": {
@@ -4913,6 +4899,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27344a5056987ff6ed5dd90d469",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "2OXwORzPU4tm1Skiv6l9KT",
+          "count": 1,
+          "details": {
+            "name": "Kirari Remixes (Asia Edition)",
+            "id": "2OXwORzPU4tm1Skiv6l9KT",
+            "release_date": "2022-01-14",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4",
               "width": 640
             }
           }
@@ -5536,11 +5536,11 @@
           }
         },
         {
-          "_id": "4TaSvnT5o4REFwhqfrmK27",
+          "_id": "5V4VtQwk2WtMZd93CdYxvh",
           "count": 1,
           "details": {
-            "name": "imase",
-            "id": "4TaSvnT5o4REFwhqfrmK27"
+            "name": "harha",
+            "id": "5V4VtQwk2WtMZd93CdYxvh"
           }
         },
         {
@@ -5552,11 +5552,11 @@
           }
         },
         {
-          "_id": "5V4VtQwk2WtMZd93CdYxvh",
+          "_id": "4TaSvnT5o4REFwhqfrmK27",
           "count": 1,
           "details": {
-            "name": "harha",
-            "id": "5V4VtQwk2WtMZd93CdYxvh"
+            "name": "imase",
+            "id": "4TaSvnT5o4REFwhqfrmK27"
           }
         },
         {
@@ -6922,44 +6922,6 @@
           }
         },
         {
-          "_id": "03TcsyimsEIUx9gwJCduej",
-          "count": 1,
-          "details": {
-            "id": "03TcsyimsEIUx9gwJCduej",
-            "progress": 99.86647276573241,
-            "duration_ms": 151280,
-            "playing": true,
-            "name": "Sleepless Night",
-            "preview_url": "https://p.scdn.co/mp3-preview/95bb2b128f820a7f22293644fbe3d22931a2ab0c?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724033081636
-          }
-        },
-        {
           "_id": "5IPpsjsivn5HPrMnX2CE0M",
           "count": 1,
           "details": {
@@ -6995,6 +6957,44 @@
             },
             "success": true,
             "time": 1724031369743
+          }
+        },
+        {
+          "_id": "03TcsyimsEIUx9gwJCduej",
+          "count": 1,
+          "details": {
+            "id": "03TcsyimsEIUx9gwJCduej",
+            "progress": 99.86647276573241,
+            "duration_ms": 151280,
+            "playing": true,
+            "name": "Sleepless Night",
+            "preview_url": "https://p.scdn.co/mp3-preview/95bb2b128f820a7f22293644fbe3d22931a2ab0c?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724033081636
           }
         },
         {
@@ -7872,44 +7872,6 @@
           }
         },
         {
-          "_id": "2vm27flqW9k6cyBxbh5UJg",
-          "count": 1,
-          "details": {
-            "id": "2vm27flqW9k6cyBxbh5UJg",
-            "progress": 99.54071023358165,
-            "duration_ms": 99066,
-            "playing": true,
-            "name": "Speechless Sorrows",
-            "preview_url": "https://p.scdn.co/mp3-preview/9e7c1bee50df7307ea918854173dd9496cd690d6?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724035964400
-          }
-        },
-        {
           "_id": "0DPedrjZdMWNlkml11HRbf",
           "count": 1,
           "details": {
@@ -7986,44 +7948,6 @@
           }
         },
         {
-          "_id": "1peJBlcYVoRJHU4LMpkNvs",
-          "count": 1,
-          "details": {
-            "id": "1peJBlcYVoRJHU4LMpkNvs",
-            "progress": 100,
-            "duration_ms": 125613,
-            "playing": true,
-            "name": "Bustling Streets",
-            "preview_url": "https://p.scdn.co/mp3-preview/06068117fcb764abf7857018da6bb1ccd1f7e044?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724032955973
-          }
-        },
-        {
           "_id": "4vZ0zP2UOy8vSJjobfGox1",
           "count": 1,
           "details": {
@@ -8062,6 +7986,44 @@
           }
         },
         {
+          "_id": "1peJBlcYVoRJHU4LMpkNvs",
+          "count": 1,
+          "details": {
+            "id": "1peJBlcYVoRJHU4LMpkNvs",
+            "progress": 100,
+            "duration_ms": 125613,
+            "playing": true,
+            "name": "Bustling Streets",
+            "preview_url": "https://p.scdn.co/mp3-preview/06068117fcb764abf7857018da6bb1ccd1f7e044?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724032955973
+          }
+        },
+        {
           "_id": "6wFF70f3MHyP7XSmRNmLkT",
           "count": 1,
           "details": {
@@ -8097,6 +8059,44 @@
             },
             "success": true,
             "time": 1724035513532
+          }
+        },
+        {
+          "_id": "2vm27flqW9k6cyBxbh5UJg",
+          "count": 1,
+          "details": {
+            "id": "2vm27flqW9k6cyBxbh5UJg",
+            "progress": 99.54071023358165,
+            "duration_ms": 99066,
+            "playing": true,
+            "name": "Speechless Sorrows",
+            "preview_url": "https://p.scdn.co/mp3-preview/9e7c1bee50df7307ea918854173dd9496cd690d6?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724035964400
           }
         },
         {
@@ -8898,44 +8898,6 @@
           }
         },
         {
-          "_id": "08trw9f8slch0SG8BLt2Kt",
-          "count": 1,
-          "details": {
-            "id": "08trw9f8slch0SG8BLt2Kt",
-            "progress": 100,
-            "duration_ms": 106213,
-            "playing": true,
-            "name": "Lost in Sweet Gentle Breezes",
-            "preview_url": "https://p.scdn.co/mp3-preview/c7bb32c3d9a67bee989e3ff9fb498c3dba0611d7?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724035767352
-          }
-        },
-        {
           "_id": "2SEu1M6MtSaPLvyp3M5TPp",
           "count": 1,
           "details": {
@@ -8971,6 +8933,44 @@
             },
             "success": true,
             "time": 1724036771680
+          }
+        },
+        {
+          "_id": "08trw9f8slch0SG8BLt2Kt",
+          "count": 1,
+          "details": {
+            "id": "08trw9f8slch0SG8BLt2Kt",
+            "progress": 100,
+            "duration_ms": 106213,
+            "playing": true,
+            "name": "Lost in Sweet Gentle Breezes",
+            "preview_url": "https://p.scdn.co/mp3-preview/c7bb32c3d9a67bee989e3ff9fb498c3dba0611d7?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724035767352
           }
         },
         {
@@ -9536,11 +9536,11 @@
           }
         },
         {
-          "_id": "4i10xM25xPTHoaXMfVhZLh",
+          "_id": "77Qvx17FzuZhak8dkrLoFb",
           "count": 1,
           "details": {
-            "name": "\u9022\u5742\u5927\u6cb3(\u91d8\u5bae\u7406\u6075)",
-            "id": "4i10xM25xPTHoaXMfVhZLh"
+            "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
+            "id": "77Qvx17FzuZhak8dkrLoFb"
           }
         },
         {
@@ -9560,19 +9560,19 @@
           }
         },
         {
+          "_id": "4i10xM25xPTHoaXMfVhZLh",
+          "count": 1,
+          "details": {
+            "name": "\u9022\u5742\u5927\u6cb3(\u91d8\u5bae\u7406\u6075)",
+            "id": "4i10xM25xPTHoaXMfVhZLh"
+          }
+        },
+        {
           "_id": "2oM1fvFvrxmfI90P4N9HuH",
           "count": 1,
           "details": {
             "name": "\u9ad8\u9808\u7adc\u5150(\u9593\u5cf6\u6df3\u53f8)",
             "id": "2oM1fvFvrxmfI90P4N9HuH"
-          }
-        },
-        {
-          "_id": "77Qvx17FzuZhak8dkrLoFb",
-          "count": 1,
-          "details": {
-            "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
-            "id": "77Qvx17FzuZhak8dkrLoFb"
           }
         }
       ],
