@@ -1,5 +1,5 @@
 {
-  "updated_at": 1724917502,
+  "updated_at": 1724917802,
   "data": {
     "today": {
       "top_songs": [
@@ -793,6 +793,37 @@
           }
         },
         {
+          "_id": "4T91hzWAs6QAY6S9SPOE8z",
+          "count": 1,
+          "details": {
+            "id": "4T91hzWAs6QAY6S9SPOE8z",
+            "progress": 47.64196841601531,
+            "duration_ms": 250760,
+            "playing": true,
+            "name": "\u6625\u590f\u79cb\u51ac",
+            "preview_url": "https://p.scdn.co/mp3-preview/32c86e604916c649d10136ff749e6708b276ce38?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Little Glee Monster",
+                "id": "2N19kPGlqKY8GiyE4DkAtp"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "Joyful Monster",
+              "id": "7q7PwTvocTRkcCrEk6RG8y",
+              "release_date": "2017-01-06",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724293613001
+          }
+        },
+        {
           "_id": "1GKx2QlBo2IeXK9ecJniQy",
           "count": 1,
           "details": {
@@ -836,37 +867,6 @@
             },
             "success": true,
             "time": 1724331655300
-          }
-        },
-        {
-          "_id": "4T91hzWAs6QAY6S9SPOE8z",
-          "count": 1,
-          "details": {
-            "id": "4T91hzWAs6QAY6S9SPOE8z",
-            "progress": 47.64196841601531,
-            "duration_ms": 250760,
-            "playing": true,
-            "name": "\u6625\u590f\u79cb\u51ac",
-            "preview_url": "https://p.scdn.co/mp3-preview/32c86e604916c649d10136ff749e6708b276ce38?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Little Glee Monster",
-                "id": "2N19kPGlqKY8GiyE4DkAtp"
-              }
-            ],
-            "context": null,
-            "album": {
-              "name": "Joyful Monster",
-              "id": "7q7PwTvocTRkcCrEk6RG8y",
-              "release_date": "2017-01-06",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724293613001
           }
         },
         {
@@ -1152,44 +1152,6 @@
           }
         },
         {
-          "_id": "5gC05nKXqYfl1caS4TyUaA",
-          "count": 1,
-          "details": {
-            "id": "5gC05nKXqYfl1caS4TyUaA",
-            "progress": 99.54898807393921,
-            "duration_ms": 254317,
-            "playing": true,
-            "name": "\u307e\u3061\u307c\u3046\u3051",
-            "preview_url": "https://p.scdn.co/mp3-preview/3d54cd6c26556056b0fd28deed566c2618caa2d2?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-                "id": "4kpQdAU7yPjqtiJsFcBTBb"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
-              },
-              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1",
-              "type": "playlist",
-              "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
-            },
-            "album": {
-              "name": "\u307e\u3061\u307c\u3046\u3051",
-              "id": "4Bvh3x89Fpb5GU3KhWEZxI",
-              "release_date": "2021-10-27",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2736367d8b1ae0770c2ffc836c2",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724332118404
-          }
-        },
-        {
           "_id": "4AzAystm373Dl9LX78wdiR",
           "count": 1,
           "details": {
@@ -1225,6 +1187,44 @@
             },
             "success": true,
             "time": 1724292204636
+          }
+        },
+        {
+          "_id": "5gC05nKXqYfl1caS4TyUaA",
+          "count": 1,
+          "details": {
+            "id": "5gC05nKXqYfl1caS4TyUaA",
+            "progress": 99.54898807393921,
+            "duration_ms": 254317,
+            "playing": true,
+            "name": "\u307e\u3061\u307c\u3046\u3051",
+            "preview_url": "https://p.scdn.co/mp3-preview/3d54cd6c26556056b0fd28deed566c2618caa2d2?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+                "id": "4kpQdAU7yPjqtiJsFcBTBb"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
+              },
+              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1",
+              "type": "playlist",
+              "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+            },
+            "album": {
+              "name": "\u307e\u3061\u307c\u3046\u3051",
+              "id": "4Bvh3x89Fpb5GU3KhWEZxI",
+              "release_date": "2021-10-27",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2736367d8b1ae0770c2ffc836c2",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724332118404
           }
         },
         {
@@ -2804,44 +2804,6 @@
           }
         },
         {
-          "_id": "22bp6FL6mzqtGDB5nJHLMn",
-          "count": 1,
-          "details": {
-            "id": "22bp6FL6mzqtGDB5nJHLMn",
-            "progress": 15.711138142342385,
-            "duration_ms": 261426,
-            "playing": true,
-            "name": "\u30ef\u30f3\u30c0\u30fc\u30c9\u30e9\u30a4\u30d6",
-            "preview_url": "https://p.scdn.co/mp3-preview/5b554fb2d01fbbe2240bb9d04e565dac43930532?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "ORESAMA",
-                "id": "6kgXeMO4kd68uf4oEFHRS1"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/0ZvbnqzR73YKnjiEkDIuZf"
-              },
-              "href": "https://api.spotify.com/v1/albums/0ZvbnqzR73YKnjiEkDIuZf",
-              "type": "album",
-              "uri": "spotify:album:0ZvbnqzR73YKnjiEkDIuZf"
-            },
-            "album": {
-              "name": "Hi-Fi POPS",
-              "id": "0ZvbnqzR73YKnjiEkDIuZf",
-              "release_date": "2018-04-11",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d1a0f4e7d50dd66f451c66bd",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724293763257
-          }
-        },
-        {
           "_id": "2trg5QP7LvutSwDmApo7JN",
           "count": 1,
           "details": {
@@ -2880,34 +2842,41 @@
           }
         },
         {
-          "_id": "0BhoPeHmFc2WZSPp2DI7oD",
+          "_id": "22bp6FL6mzqtGDB5nJHLMn",
           "count": 1,
           "details": {
-            "id": "0BhoPeHmFc2WZSPp2DI7oD",
-            "progress": 72.10262721966777,
-            "duration_ms": 258372,
+            "id": "22bp6FL6mzqtGDB5nJHLMn",
+            "progress": 15.711138142342385,
+            "duration_ms": 261426,
             "playing": true,
-            "name": "\u611b\u3057\u3066\u611b\u3057\u3066\u611b\u3057\u3066",
-            "preview_url": "https://p.scdn.co/mp3-preview/a51fdd9c9cc58f9fa456c4ace6ab40e062a3473b?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u30ef\u30f3\u30c0\u30fc\u30c9\u30e9\u30a4\u30d6",
+            "preview_url": "https://p.scdn.co/mp3-preview/5b554fb2d01fbbe2240bb9d04e565dac43930532?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "Ado",
-                "id": "6mEQK9m2krja6X1cfsAjfl"
+                "name": "ORESAMA",
+                "id": "6kgXeMO4kd68uf4oEFHRS1"
               }
             ],
-            "context": null,
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0ZvbnqzR73YKnjiEkDIuZf"
+              },
+              "href": "https://api.spotify.com/v1/albums/0ZvbnqzR73YKnjiEkDIuZf",
+              "type": "album",
+              "uri": "spotify:album:0ZvbnqzR73YKnjiEkDIuZf"
+            },
             "album": {
-              "name": "Ado \"Ready For My Show Playlist\"",
-              "id": "31LvSRXGPVhYs2EZFK0BEU",
-              "release_date": "2024-02-06",
+              "name": "Hi-Fi POPS",
+              "id": "0ZvbnqzR73YKnjiEkDIuZf",
+              "release_date": "2018-04-11",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731b1310c35fad57bc85027f19",
+                "url": "https://i.scdn.co/image/ab67616d0000b273d1a0f4e7d50dd66f451c66bd",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1724295772157
+            "time": 1724293763257
           }
         },
         {
@@ -2949,41 +2918,72 @@
           }
         },
         {
-          "_id": "26GW1dAtZ9Ya1GB7bbB9aO",
+          "_id": "3nVNebPEhKrE3V3CLgGO5x",
           "count": 1,
           "details": {
-            "id": "26GW1dAtZ9Ya1GB7bbB9aO",
-            "progress": 99.37864707153663,
-            "duration_ms": 185080,
+            "id": "3nVNebPEhKrE3V3CLgGO5x",
+            "progress": 0.7638655462184873,
+            "duration_ms": 238000,
             "playing": true,
-            "name": "\u4e94\u6708\u306f\u82b1\u7dd1\u9752\u306e\u7a93\u8fba\u304b\u3089",
-            "preview_url": "https://p.scdn.co/mp3-preview/147bb8ea3e5c6f5a9e8a0958229fcc19e7cd291f?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
+            "preview_url": null,
             "artists": [
               {
-                "name": "\u30e8\u30eb\u30b7\u30ab",
-                "id": "4UK2Lzi6fBfUi9rpDt6cik"
+                "name": "CHiCO with HoneyWorks",
+                "id": "7qpGWSiolU9E5WbkvTaMDd"
               }
             ],
             "context": {
               "external_urls": {
-                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
+                "spotify": "https://open.spotify.com/collection/tracks"
               },
-              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1",
-              "type": "playlist",
-              "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
             },
             "album": {
-              "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
-              "id": "4b9nOSXSf1LROzgfYFxdxI",
-              "release_date": "2019-04-10",
+              "name": "Watashiwo Someru Aino Uta",
+              "id": "1yY3wlXZTzgqRVsxo06yuv",
+              "release_date": "2016",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c",
+                "url": "https://i.scdn.co/image/ab67616d0000b273bacd156d8d480baa4d4e4a87",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1724331221399
+            "time": 1724292099646
+          }
+        },
+        {
+          "_id": "0BhoPeHmFc2WZSPp2DI7oD",
+          "count": 1,
+          "details": {
+            "id": "0BhoPeHmFc2WZSPp2DI7oD",
+            "progress": 72.10262721966777,
+            "duration_ms": 258372,
+            "playing": true,
+            "name": "\u611b\u3057\u3066\u611b\u3057\u3066\u611b\u3057\u3066",
+            "preview_url": "https://p.scdn.co/mp3-preview/a51fdd9c9cc58f9fa456c4ace6ab40e062a3473b?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Ado",
+                "id": "6mEQK9m2krja6X1cfsAjfl"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "Ado \"Ready For My Show Playlist\"",
+              "id": "31LvSRXGPVhYs2EZFK0BEU",
+              "release_date": "2024-02-06",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731b1310c35fad57bc85027f19",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724295772157
           }
         },
         {
@@ -3025,41 +3025,41 @@
           }
         },
         {
-          "_id": "3nVNebPEhKrE3V3CLgGO5x",
+          "_id": "26GW1dAtZ9Ya1GB7bbB9aO",
           "count": 1,
           "details": {
-            "id": "3nVNebPEhKrE3V3CLgGO5x",
-            "progress": 0.7638655462184873,
-            "duration_ms": 238000,
+            "id": "26GW1dAtZ9Ya1GB7bbB9aO",
+            "progress": 99.37864707153663,
+            "duration_ms": 185080,
             "playing": true,
-            "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
-            "preview_url": null,
+            "name": "\u4e94\u6708\u306f\u82b1\u7dd1\u9752\u306e\u7a93\u8fba\u304b\u3089",
+            "preview_url": "https://p.scdn.co/mp3-preview/147bb8ea3e5c6f5a9e8a0958229fcc19e7cd291f?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "CHiCO with HoneyWorks",
-                "id": "7qpGWSiolU9E5WbkvTaMDd"
+                "name": "\u30e8\u30eb\u30b7\u30ab",
+                "id": "4UK2Lzi6fBfUi9rpDt6cik"
               }
             ],
             "context": {
               "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
               },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1",
+              "type": "playlist",
+              "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
             },
             "album": {
-              "name": "Watashiwo Someru Aino Uta",
-              "id": "1yY3wlXZTzgqRVsxo06yuv",
-              "release_date": "2016",
+              "name": "\u3060\u304b\u3089\u50d5\u306f\u97f3\u697d\u3092\u8f9e\u3081\u305f",
+              "id": "4b9nOSXSf1LROzgfYFxdxI",
+              "release_date": "2019-04-10",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273bacd156d8d480baa4d4e4a87",
+                "url": "https://i.scdn.co/image/ab67616d0000b273b1b3b83ffee5925197e7ef2c",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1724292099646
+            "time": 1724331221399
           }
         },
         {
@@ -5053,20 +5053,6 @@
           }
         },
         {
-          "_id": "3BnM7AuvYkREVqNTPIxTRH",
-          "count": 1,
-          "details": {
-            "name": "\u5275\u4f5c",
-            "id": "3BnM7AuvYkREVqNTPIxTRH",
-            "release_date": "2021-01-26",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "19lHiyOZ8bwKoVZ1wJveZP",
           "count": 1,
           "details": {
@@ -5076,6 +5062,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27347023836372736eb1b202a63",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "3BnM7AuvYkREVqNTPIxTRH",
+          "count": 1,
+          "details": {
+            "name": "\u5275\u4f5c",
+            "id": "3BnM7AuvYkREVqNTPIxTRH",
+            "release_date": "2021-01-26",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c513b72cb7fdbe7ddb3f41c7",
               "width": 640
             }
           }
@@ -5463,19 +5463,19 @@
           }
         },
         {
-          "_id": "56TyClNQ0oVZLhK2V9KhA6",
-          "count": 1,
-          "details": {
-            "name": "ZAQ",
-            "id": "56TyClNQ0oVZLhK2V9KhA6"
-          }
-        },
-        {
           "_id": "7lZauDnRoAC3kmaYae2opv",
           "count": 1,
           "details": {
             "name": "Dabin",
             "id": "7lZauDnRoAC3kmaYae2opv"
+          }
+        },
+        {
+          "_id": "56TyClNQ0oVZLhK2V9KhA6",
+          "count": 1,
+          "details": {
+            "name": "ZAQ",
+            "id": "56TyClNQ0oVZLhK2V9KhA6"
           }
         },
         {
@@ -5639,19 +5639,19 @@
           }
         },
         {
-          "_id": "1I24D95GZP1Nr9hVsiOLmw",
-          "count": 1,
-          "details": {
-            "name": "\u3053\u306f\u306a\u3089\u3080",
-            "id": "1I24D95GZP1Nr9hVsiOLmw"
-          }
-        },
-        {
           "_id": "5htVtReJ3NAwcAdxdHpim3",
           "count": 1,
           "details": {
             "name": "ClariS",
             "id": "5htVtReJ3NAwcAdxdHpim3"
+          }
+        },
+        {
+          "_id": "1I24D95GZP1Nr9hVsiOLmw",
+          "count": 1,
+          "details": {
+            "name": "\u3053\u306f\u306a\u3089\u3080",
+            "id": "1I24D95GZP1Nr9hVsiOLmw"
           }
         },
         {
@@ -5759,6 +5759,14 @@
           }
         },
         {
+          "_id": "7qpGWSiolU9E5WbkvTaMDd",
+          "count": 1,
+          "details": {
+            "name": "CHiCO with HoneyWorks",
+            "id": "7qpGWSiolU9E5WbkvTaMDd"
+          }
+        },
+        {
           "_id": "2j00CVYTPx6q9ANbmB2keb",
           "count": 1,
           "details": {
@@ -5772,14 +5780,6 @@
           "details": {
             "name": "Kenshi Yonezu",
             "id": "1snhtMLeb2DYoMOcVbb8iB"
-          }
-        },
-        {
-          "_id": "7qpGWSiolU9E5WbkvTaMDd",
-          "count": 1,
-          "details": {
-            "name": "CHiCO with HoneyWorks",
-            "id": "7qpGWSiolU9E5WbkvTaMDd"
           }
         },
         {
@@ -5888,6 +5888,82 @@
     },
     "month": {
       "top_songs": [
+        {
+          "_id": "5aIVCx5tnk0ntmdiinnYvw",
+          "count": 1,
+          "details": {
+            "id": "5aIVCx5tnk0ntmdiinnYvw",
+            "progress": 9.516865995855285,
+            "duration_ms": 200255,
+            "playing": true,
+            "name": "Water",
+            "preview_url": "https://p.scdn.co/mp3-preview/92479d43666b31ca72b7e2a4fad74568f98ee41e?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Tyla",
+                "id": "3SozjO3Lat463tQICI9LcE"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Water",
+              "id": "22sXXkKgjEuawIFL1e1tRw",
+              "release_date": "2023-07-28",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1722303682688
+          }
+        },
+        {
+          "_id": "2Dzzhb1oV5ckgOjWZLraIB",
+          "count": 1,
+          "details": {
+            "id": "2Dzzhb1oV5ckgOjWZLraIB",
+            "progress": 3.063528385077096,
+            "duration_ms": 197093,
+            "playing": true,
+            "name": "Overdose",
+            "preview_url": "https://p.scdn.co/mp3-preview/aba42c9d80b1af30f96f21290fe6ab022a7d5566?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "natori",
+                "id": "6WmXWHmfBMhupyIs8MSqtu"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Overdose",
+              "id": "1ieXthJ9zXRWqTU8ROAeJa",
+              "release_date": "2022-09-07",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1722303612249
+          }
+        },
         {
           "_id": "1zwZ26A7OA5wTrA3FejCLL",
           "count": 1,
@@ -6089,82 +6165,6 @@
             "success": true,
             "time": 1722357650836
           }
-        },
-        {
-          "_id": "5aIVCx5tnk0ntmdiinnYvw",
-          "count": 1,
-          "details": {
-            "id": "5aIVCx5tnk0ntmdiinnYvw",
-            "progress": 9.516865995855285,
-            "duration_ms": 200255,
-            "playing": true,
-            "name": "Water",
-            "preview_url": "https://p.scdn.co/mp3-preview/92479d43666b31ca72b7e2a4fad74568f98ee41e?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Tyla",
-                "id": "3SozjO3Lat463tQICI9LcE"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Water",
-              "id": "22sXXkKgjEuawIFL1e1tRw",
-              "release_date": "2023-07-28",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1722303682688
-          }
-        },
-        {
-          "_id": "2Dzzhb1oV5ckgOjWZLraIB",
-          "count": 1,
-          "details": {
-            "id": "2Dzzhb1oV5ckgOjWZLraIB",
-            "progress": 3.063528385077096,
-            "duration_ms": 197093,
-            "playing": true,
-            "name": "Overdose",
-            "preview_url": "https://p.scdn.co/mp3-preview/aba42c9d80b1af30f96f21290fe6ab022a7d5566?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "natori",
-                "id": "6WmXWHmfBMhupyIs8MSqtu"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Overdose",
-              "id": "1ieXthJ9zXRWqTU8ROAeJa",
-              "release_date": "2022-09-07",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1722303612249
-          }
         }
       ],
       "top_albums": [
@@ -6277,6 +6277,30 @@
           }
         },
         {
+          "_id": "4w7hVnrigmbR8fHUtt6rLr",
+          "count": 1,
+          "details": {
+            "name": "\u672a\u6765\u53e4\u4ee3\u697d\u56e3",
+            "id": "4w7hVnrigmbR8fHUtt6rLr"
+          }
+        },
+        {
+          "_id": "3ONGmday8YN8AkbsRk01iL",
+          "count": 1,
+          "details": {
+            "name": "Lojay",
+            "id": "3ONGmday8YN8AkbsRk01iL"
+          }
+        },
+        {
+          "_id": "687cZJR45JO7jhk1LHIbgq",
+          "count": 1,
+          "details": {
+            "name": "Tems",
+            "id": "687cZJR45JO7jhk1LHIbgq"
+          }
+        },
+        {
           "_id": "408vMm7y1227ASq7GmWygZ",
           "count": 1,
           "details": {
@@ -6314,30 +6338,6 @@
           "details": {
             "name": "natori",
             "id": "6WmXWHmfBMhupyIs8MSqtu"
-          }
-        },
-        {
-          "_id": "4w7hVnrigmbR8fHUtt6rLr",
-          "count": 1,
-          "details": {
-            "name": "\u672a\u6765\u53e4\u4ee3\u697d\u56e3",
-            "id": "4w7hVnrigmbR8fHUtt6rLr"
-          }
-        },
-        {
-          "_id": "3ONGmday8YN8AkbsRk01iL",
-          "count": 1,
-          "details": {
-            "name": "Lojay",
-            "id": "3ONGmday8YN8AkbsRk01iL"
-          }
-        },
-        {
-          "_id": "687cZJR45JO7jhk1LHIbgq",
-          "count": 1,
-          "details": {
-            "name": "Tems",
-            "id": "687cZJR45JO7jhk1LHIbgq"
           }
         }
       ],
