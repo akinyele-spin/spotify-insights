@@ -1,5 +1,5 @@
 {
-  "updated_at": 1724969402,
+  "updated_at": 1724969701,
   "data": {
     "today": {
       "top_songs": [
@@ -2994,6 +2994,48 @@
           }
         },
         {
+          "_id": "4BQDsKhTfd2JX1M2ajkOJu",
+          "count": 1,
+          "details": {
+            "id": "4BQDsKhTfd2JX1M2ajkOJu",
+            "progress": 24.343237739500243,
+            "duration_ms": 177766,
+            "playing": true,
+            "name": "\u30c1\u30e5\u30fc\u30a4\u30f3\u30fb\u30c7\u30a3\u30b9\u30b3",
+            "preview_url": "https://p.scdn.co/mp3-preview/61f7d9118fd1832a5820da997f010c083178cff7?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u82b1\u8b5c",
+                "id": "2c32JruIkUyfdycHmhIph4"
+              },
+              {
+                "name": "\u30c4\u30df\u30ad",
+                "id": "7ctyyNnO9O2dDD8bHjkCAh"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u30c1\u30e5\u30fc\u30a4\u30f3\u30fb\u30c7\u30a3\u30b9\u30b3",
+              "id": "5halVD4PFLhrdjnJuxTAgH",
+              "release_date": "2024-08-21",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27343d0e7d31682ba44277656f0",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724969459079
+          }
+        },
+        {
           "_id": "2DVpwLtzDfCjiIh5vYSeb7",
           "count": 1,
           "details": {
@@ -3154,14 +3196,14 @@
           }
         },
         {
-          "_id": "5cZoupMHyi9H9NDGSZnPtU",
+          "_id": "5dnSMlFXRgbrwqUe04O748",
           "count": 1,
           "details": {
-            "id": "5cZoupMHyi9H9NDGSZnPtU",
-            "progress": 0.9475925910023787,
-            "duration_ms": 232906,
+            "id": "5dnSMlFXRgbrwqUe04O748",
+            "progress": 100,
+            "duration_ms": 225586,
             "playing": true,
-            "name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
+            "name": "1/f",
             "preview_url": null,
             "artists": [
               {
@@ -3188,7 +3230,7 @@
               }
             },
             "success": true,
-            "time": 1724943472107
+            "time": 1724943246741
           }
         },
         {
@@ -3230,44 +3272,6 @@
           }
         },
         {
-          "_id": "5dnSMlFXRgbrwqUe04O748",
-          "count": 1,
-          "details": {
-            "id": "5dnSMlFXRgbrwqUe04O748",
-            "progress": 100,
-            "duration_ms": 225586,
-            "playing": true,
-            "name": "1/f",
-            "preview_url": null,
-            "artists": [
-              {
-                "name": "ClariS",
-                "id": "5htVtReJ3NAwcAdxdHpim3"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/79UgEZdQY1mcCM44BAGAB4"
-              },
-              "href": "https://api.spotify.com/v1/albums/79UgEZdQY1mcCM44BAGAB4",
-              "type": "album",
-              "uri": "spotify:album:79UgEZdQY1mcCM44BAGAB4"
-            },
-            "album": {
-              "name": "Fairy Party",
-              "id": "79UgEZdQY1mcCM44BAGAB4",
-              "release_date": "2018-11-21",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27313b3b5eb6e96806664c9ae6c",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724943246741
-          }
-        },
-        {
           "_id": "5YoS9hGWudRj5dQ24wL6x5",
           "count": 1,
           "details": {
@@ -3303,6 +3307,44 @@
             },
             "success": true,
             "time": 1724948088785
+          }
+        },
+        {
+          "_id": "5cZoupMHyi9H9NDGSZnPtU",
+          "count": 1,
+          "details": {
+            "id": "5cZoupMHyi9H9NDGSZnPtU",
+            "progress": 0.9475925910023787,
+            "duration_ms": 232906,
+            "playing": true,
+            "name": "\u30d2\u30c8\u30ea\u30b4\u30c8",
+            "preview_url": null,
+            "artists": [
+              {
+                "name": "ClariS",
+                "id": "5htVtReJ3NAwcAdxdHpim3"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/79UgEZdQY1mcCM44BAGAB4"
+              },
+              "href": "https://api.spotify.com/v1/albums/79UgEZdQY1mcCM44BAGAB4",
+              "type": "album",
+              "uri": "spotify:album:79UgEZdQY1mcCM44BAGAB4"
+            },
+            "album": {
+              "name": "Fairy Party",
+              "id": "79UgEZdQY1mcCM44BAGAB4",
+              "release_date": "2018-11-21",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27313b3b5eb6e96806664c9ae6c",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724943472107
           }
         },
         {
@@ -3880,20 +3922,6 @@
           }
         },
         {
-          "_id": "0YEXSnsuivV6ygUzw1Odse",
-          "count": 3,
-          "details": {
-            "name": "\u79c1\u7684",
-            "id": "0YEXSnsuivV6ygUzw1Odse",
-            "release_date": "2024-05-01",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735001139306912d5768813c90",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "10gtDo5NX1O0clKC2A6UJq",
           "count": 3,
           "details": {
@@ -3903,6 +3931,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27374866c0f206e603d8021435d",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0YEXSnsuivV6ygUzw1Odse",
+          "count": 3,
+          "details": {
+            "name": "\u79c1\u7684",
+            "id": "0YEXSnsuivV6ygUzw1Odse",
+            "release_date": "2024-05-01",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735001139306912d5768813c90",
               "width": 640
             }
           }
@@ -3978,20 +4020,6 @@
           }
         },
         {
-          "_id": "3DiyycE2ZmGL2B0DtWBr8R",
-          "count": 2,
-          "details": {
-            "name": "ASU",
-            "id": "3DiyycE2ZmGL2B0DtWBr8R",
-            "release_date": "2023-04-19",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27341293d0fb563fc87b6802d1f",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "01za03FALE9HYd1mg7ZidE",
           "count": 2,
           "details": {
@@ -4001,6 +4029,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27340e19e4dbed8243ad7969732",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "3DiyycE2ZmGL2B0DtWBr8R",
+          "count": 2,
+          "details": {
+            "name": "ASU",
+            "id": "3DiyycE2ZmGL2B0DtWBr8R",
+            "release_date": "2023-04-19",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27341293d0fb563fc87b6802d1f",
               "width": 640
             }
           }
@@ -4020,15 +4062,15 @@
           }
         },
         {
-          "_id": "08qSxeaiv9QZi5laREu3fW",
+          "_id": "6TVZQX6iQjbbvNR7evXoM7",
           "count": 1,
           "details": {
-            "name": "\u30e9\u30d4\u30b9\u306e\u304a\u4eba\u5f62",
-            "id": "08qSxeaiv9QZi5laREu3fW",
-            "release_date": "2023-09-20",
+            "name": "\u7121\u7aae\u30d7\u30e9\u30c8\u30cb\u30c3\u30af",
+            "id": "6TVZQX6iQjbbvNR7evXoM7",
+            "release_date": "2023-04-09",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732e59e1c68995fe0386cea228",
+              "url": "https://i.scdn.co/image/ab67616d0000b2738216ce1065d06696316d91f3",
               "width": 640
             }
           }
@@ -4043,6 +4085,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2736dd9e6ec81c345c2cc158cb1",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "5halVD4PFLhrdjnJuxTAgH",
+          "count": 1,
+          "details": {
+            "name": "\u30c1\u30e5\u30fc\u30a4\u30f3\u30fb\u30c7\u30a3\u30b9\u30b3",
+            "id": "5halVD4PFLhrdjnJuxTAgH",
+            "release_date": "2024-08-21",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27343d0e7d31682ba44277656f0",
               "width": 640
             }
           }
@@ -4118,20 +4174,6 @@
           }
         },
         {
-          "_id": "0pwKZ2Co716xFzj8fmJU2r",
-          "count": 1,
-          "details": {
-            "name": "Higher",
-            "id": "0pwKZ2Co716xFzj8fmJU2r",
-            "release_date": "2022-09-23",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732b3cabc2f8fe7e29ad07aee3",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "23X1FWXcw6J8UBhcjhgJAz",
           "count": 1,
           "details": {
@@ -4141,6 +4183,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2730f8bc141d5e6a7813dcd0f10",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0pwKZ2Co716xFzj8fmJU2r",
+          "count": 1,
+          "details": {
+            "name": "Higher",
+            "id": "0pwKZ2Co716xFzj8fmJU2r",
+            "release_date": "2022-09-23",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732b3cabc2f8fe7e29ad07aee3",
               "width": 640
             }
           }
@@ -4426,6 +4482,20 @@
           }
         },
         {
+          "_id": "1qQzpjBNcxoc1lWos4QHOU",
+          "count": 1,
+          "details": {
+            "name": "toumeiseisai",
+            "id": "1qQzpjBNcxoc1lWos4QHOU",
+            "release_date": "2018-10-26",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734ed7dbfcb5bf3d27707d25ee",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "0aYunc3nelpAKlZbf8MYDB",
           "count": 1,
           "details": {
@@ -4454,20 +4524,6 @@
           }
         },
         {
-          "_id": "1qQzpjBNcxoc1lWos4QHOU",
-          "count": 1,
-          "details": {
-            "name": "toumeiseisai",
-            "id": "1qQzpjBNcxoc1lWos4QHOU",
-            "release_date": "2018-10-26",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734ed7dbfcb5bf3d27707d25ee",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7e50ytl8w63oodD8YLpsQy",
           "count": 1,
           "details": {
@@ -4477,6 +4533,48 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273cd5e05527ee580cb683196a3",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "7BaxtD6gYvwURQT6mEFg1z",
+          "count": 1,
+          "details": {
+            "name": "KAMITSUBAKI x Monark Collaboration Album\u300cAwake\u300d",
+            "id": "7BaxtD6gYvwURQT6mEFg1z",
+            "release_date": "2021-10-20",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27379d736842a6dbb61d5d0aba3",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "08qSxeaiv9QZi5laREu3fW",
+          "count": 1,
+          "details": {
+            "name": "\u30e9\u30d4\u30b9\u306e\u304a\u4eba\u5f62",
+            "id": "08qSxeaiv9QZi5laREu3fW",
+            "release_date": "2023-09-20",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732e59e1c68995fe0386cea228",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "35E0MDN8ZAAl2y3UjoNSSm",
+          "count": 1,
+          "details": {
+            "name": "\u5e7d",
+            "id": "35E0MDN8ZAAl2y3UjoNSSm",
+            "release_date": "2024-02-07",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d318b2dd4b1e5030b23f9785",
               "width": 640
             }
           }
@@ -4510,20 +4608,6 @@
           }
         },
         {
-          "_id": "35E0MDN8ZAAl2y3UjoNSSm",
-          "count": 1,
-          "details": {
-            "name": "\u5e7d",
-            "id": "35E0MDN8ZAAl2y3UjoNSSm",
-            "release_date": "2024-02-07",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d318b2dd4b1e5030b23f9785",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "2qS9iAAsYxMdyuHZTNI8WO",
           "count": 1,
           "details": {
@@ -4533,34 +4617,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273ca93412eed73c3790fe458d8",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "6TVZQX6iQjbbvNR7evXoM7",
-          "count": 1,
-          "details": {
-            "name": "\u7121\u7aae\u30d7\u30e9\u30c8\u30cb\u30c3\u30af",
-            "id": "6TVZQX6iQjbbvNR7evXoM7",
-            "release_date": "2023-04-09",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738216ce1065d06696316d91f3",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "7BaxtD6gYvwURQT6mEFg1z",
-          "count": 1,
-          "details": {
-            "name": "KAMITSUBAKI x Monark Collaboration Album\u300cAwake\u300d",
-            "id": "7BaxtD6gYvwURQT6mEFg1z",
-            "release_date": "2021-10-20",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27379d736842a6dbb61d5d0aba3",
               "width": 640
             }
           }
@@ -4609,18 +4665,10 @@
         },
         {
           "_id": "2c32JruIkUyfdycHmhIph4",
-          "count": 15,
+          "count": 16,
           "details": {
             "name": "\u82b1\u8b5c",
             "id": "2c32JruIkUyfdycHmhIph4"
-          }
-        },
-        {
-          "_id": "2ksMoRs5T9ErEe5H7gxv7C",
-          "count": 8,
-          "details": {
-            "name": "HACHI",
-            "id": "2ksMoRs5T9ErEe5H7gxv7C"
           }
         },
         {
@@ -4632,11 +4680,11 @@
           }
         },
         {
-          "_id": "4WrbpHc8hLKQZkBGX8k1ay",
-          "count": 6,
+          "_id": "2ksMoRs5T9ErEe5H7gxv7C",
+          "count": 8,
           "details": {
-            "name": "VALIS",
-            "id": "4WrbpHc8hLKQZkBGX8k1ay"
+            "name": "HACHI",
+            "id": "2ksMoRs5T9ErEe5H7gxv7C"
           }
         },
         {
@@ -4656,6 +4704,14 @@
           }
         },
         {
+          "_id": "4WrbpHc8hLKQZkBGX8k1ay",
+          "count": 6,
+          "details": {
+            "name": "VALIS",
+            "id": "4WrbpHc8hLKQZkBGX8k1ay"
+          }
+        },
+        {
           "_id": "3kHVioJpVxlazAAKQ64pC1",
           "count": 5,
           "details": {
@@ -4672,6 +4728,14 @@
           }
         },
         {
+          "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
+          "count": 2,
+          "details": {
+            "name": "\u660e\u900f",
+            "id": "71e65rSv8Dh3bfWNPQ1V1Q"
+          }
+        },
+        {
           "_id": "6BzlN4V17m7ogeItP4CNN5",
           "count": 2,
           "details": {
@@ -4680,11 +4744,51 @@
           }
         },
         {
-          "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
-          "count": 2,
+          "_id": "52I9qA4Wh7DflQ92nnTBMs",
+          "count": 1,
           "details": {
-            "name": "\u660e\u900f",
-            "id": "71e65rSv8Dh3bfWNPQ1V1Q"
+            "name": "\u5b58\u6d41",
+            "id": "52I9qA4Wh7DflQ92nnTBMs"
+          }
+        },
+        {
+          "_id": "6GHr4rGFHGRUuzuCuxJA0f",
+          "count": 1,
+          "details": {
+            "name": "\u6e4a\u3042\u304f\u3042",
+            "id": "6GHr4rGFHGRUuzuCuxJA0f"
+          }
+        },
+        {
+          "_id": "6LesPuO1nhgJ2acJ4MjyBI",
+          "count": 1,
+          "details": {
+            "name": "\u548c\u306c\u304b",
+            "id": "6LesPuO1nhgJ2acJ4MjyBI"
+          }
+        },
+        {
+          "_id": "4cfKtwkefMW3aiXtxfw8w6",
+          "count": 1,
+          "details": {
+            "name": "Nomcebo Zikode",
+            "id": "4cfKtwkefMW3aiXtxfw8w6"
+          }
+        },
+        {
+          "_id": "22geWzdiGIPezlnNgoifJM",
+          "count": 1,
+          "details": {
+            "name": "niKu",
+            "id": "22geWzdiGIPezlnNgoifJM"
+          }
+        },
+        {
+          "_id": "2ITl7YzD1Hm6NVojBhKkOp",
+          "count": 1,
+          "details": {
+            "name": "Miisha Shimizu",
+            "id": "2ITl7YzD1Hm6NVojBhKkOp"
           }
         },
         {
@@ -4696,6 +4800,14 @@
           }
         },
         {
+          "_id": "16E27V4q0TPZXIriwMYTWV",
+          "count": 1,
+          "details": {
+            "name": "SANARI",
+            "id": "16E27V4q0TPZXIriwMYTWV"
+          }
+        },
+        {
           "_id": "1fYq3V8T7IStSwwMth3chB",
           "count": 1,
           "details": {
@@ -4704,19 +4816,35 @@
           }
         },
         {
-          "_id": "1m0fLOy3wFNcSpwKn75qJz",
+          "_id": "17cHGQw4BZUHgmKQNHNJ8P",
           "count": 1,
           "details": {
-            "name": "DAZBEE",
-            "id": "1m0fLOy3wFNcSpwKn75qJz"
+            "name": "\u6700\u7d42\u5b9a\u7406\u8ad6\u8005",
+            "id": "17cHGQw4BZUHgmKQNHNJ8P"
           }
         },
         {
-          "_id": "4rDjKnJ4UDzfROtTs37kDT",
+          "_id": "1E5hfn5BduN2nnoZCJmUVG",
           "count": 1,
           "details": {
-            "name": "\u9ebb\u5a46\u8c46\u8150",
-            "id": "4rDjKnJ4UDzfROtTs37kDT"
+            "name": "Victony",
+            "id": "1E5hfn5BduN2nnoZCJmUVG"
+          }
+        },
+        {
+          "_id": "5dWE3G7COO82G6vRy2Hpum",
+          "count": 1,
+          "details": {
+            "name": "\u9808\u7530\u666f\u51ea",
+            "id": "5dWE3G7COO82G6vRy2Hpum"
+          }
+        },
+        {
+          "_id": "3PRXdiVu8lUkeCKw4ZUX4B",
+          "count": 1,
+          "details": {
+            "name": "NOMELON NOLEMON",
+            "id": "3PRXdiVu8lUkeCKw4ZUX4B"
           }
         },
         {
@@ -4728,11 +4856,27 @@
           }
         },
         {
-          "_id": "52I9qA4Wh7DflQ92nnTBMs",
+          "_id": "4rDjKnJ4UDzfROtTs37kDT",
           "count": 1,
           "details": {
-            "name": "\u5b58\u6d41",
-            "id": "52I9qA4Wh7DflQ92nnTBMs"
+            "name": "\u9ebb\u5a46\u8c46\u8150",
+            "id": "4rDjKnJ4UDzfROtTs37kDT"
+          }
+        },
+        {
+          "_id": "1m0fLOy3wFNcSpwKn75qJz",
+          "count": 1,
+          "details": {
+            "name": "DAZBEE",
+            "id": "1m0fLOy3wFNcSpwKn75qJz"
+          }
+        },
+        {
+          "_id": "7ctyyNnO9O2dDD8bHjkCAh",
+          "count": 1,
+          "details": {
+            "name": "\u30c4\u30df\u30ad",
+            "id": "7ctyyNnO9O2dDD8bHjkCAh"
           }
         },
         {
@@ -4750,92 +4894,12 @@
             "name": "Ado",
             "id": "6mEQK9m2krja6X1cfsAjfl"
           }
-        },
-        {
-          "_id": "4cfKtwkefMW3aiXtxfw8w6",
-          "count": 1,
-          "details": {
-            "name": "Nomcebo Zikode",
-            "id": "4cfKtwkefMW3aiXtxfw8w6"
-          }
-        },
-        {
-          "_id": "6LesPuO1nhgJ2acJ4MjyBI",
-          "count": 1,
-          "details": {
-            "name": "\u548c\u306c\u304b",
-            "id": "6LesPuO1nhgJ2acJ4MjyBI"
-          }
-        },
-        {
-          "_id": "22geWzdiGIPezlnNgoifJM",
-          "count": 1,
-          "details": {
-            "name": "niKu",
-            "id": "22geWzdiGIPezlnNgoifJM"
-          }
-        },
-        {
-          "_id": "6GHr4rGFHGRUuzuCuxJA0f",
-          "count": 1,
-          "details": {
-            "name": "\u6e4a\u3042\u304f\u3042",
-            "id": "6GHr4rGFHGRUuzuCuxJA0f"
-          }
-        },
-        {
-          "_id": "17cHGQw4BZUHgmKQNHNJ8P",
-          "count": 1,
-          "details": {
-            "name": "\u6700\u7d42\u5b9a\u7406\u8ad6\u8005",
-            "id": "17cHGQw4BZUHgmKQNHNJ8P"
-          }
-        },
-        {
-          "_id": "5dWE3G7COO82G6vRy2Hpum",
-          "count": 1,
-          "details": {
-            "name": "\u9808\u7530\u666f\u51ea",
-            "id": "5dWE3G7COO82G6vRy2Hpum"
-          }
-        },
-        {
-          "_id": "1E5hfn5BduN2nnoZCJmUVG",
-          "count": 1,
-          "details": {
-            "name": "Victony",
-            "id": "1E5hfn5BduN2nnoZCJmUVG"
-          }
-        },
-        {
-          "_id": "2ITl7YzD1Hm6NVojBhKkOp",
-          "count": 1,
-          "details": {
-            "name": "Miisha Shimizu",
-            "id": "2ITl7YzD1Hm6NVojBhKkOp"
-          }
-        },
-        {
-          "_id": "3PRXdiVu8lUkeCKw4ZUX4B",
-          "count": 1,
-          "details": {
-            "name": "NOMELON NOLEMON",
-            "id": "3PRXdiVu8lUkeCKw4ZUX4B"
-          }
-        },
-        {
-          "_id": "16E27V4q0TPZXIriwMYTWV",
-          "count": 1,
-          "details": {
-            "name": "SANARI",
-            "id": "16E27V4q0TPZXIriwMYTWV"
-          }
         }
       ],
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 17275609.0
+          "listened_ms": 17375468.0
         }
       ]
     },
@@ -5973,37 +6037,6 @@
           }
         },
         {
-          "_id": "0BhoPeHmFc2WZSPp2DI7oD",
-          "count": 1,
-          "details": {
-            "id": "0BhoPeHmFc2WZSPp2DI7oD",
-            "progress": 72.10262721966777,
-            "duration_ms": 258372,
-            "playing": true,
-            "name": "\u611b\u3057\u3066\u611b\u3057\u3066\u611b\u3057\u3066",
-            "preview_url": "https://p.scdn.co/mp3-preview/a51fdd9c9cc58f9fa456c4ace6ab40e062a3473b?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Ado",
-                "id": "6mEQK9m2krja6X1cfsAjfl"
-              }
-            ],
-            "context": null,
-            "album": {
-              "name": "Ado \"Ready For My Show Playlist\"",
-              "id": "31LvSRXGPVhYs2EZFK0BEU",
-              "release_date": "2024-02-06",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731b1310c35fad57bc85027f19",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724295772157
-          }
-        },
-        {
           "_id": "5rRARE7QRnjOvZ4PMlFBqB",
           "count": 1,
           "details": {
@@ -6039,6 +6072,44 @@
             },
             "success": true,
             "time": 1724291740604
+          }
+        },
+        {
+          "_id": "3nVNebPEhKrE3V3CLgGO5x",
+          "count": 1,
+          "details": {
+            "id": "3nVNebPEhKrE3V3CLgGO5x",
+            "progress": 0.7638655462184873,
+            "duration_ms": 238000,
+            "playing": true,
+            "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
+            "preview_url": null,
+            "artists": [
+              {
+                "name": "CHiCO with HoneyWorks",
+                "id": "7qpGWSiolU9E5WbkvTaMDd"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Watashiwo Someru Aino Uta",
+              "id": "1yY3wlXZTzgqRVsxo06yuv",
+              "release_date": "2016",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273bacd156d8d480baa4d4e4a87",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724292099646
           }
         },
         {
@@ -6080,41 +6151,41 @@
           }
         },
         {
-          "_id": "3nVNebPEhKrE3V3CLgGO5x",
+          "_id": "3n4MLZyy29Cqpa2SNxGSWv",
           "count": 1,
           "details": {
-            "id": "3nVNebPEhKrE3V3CLgGO5x",
-            "progress": 0.7638655462184873,
-            "duration_ms": 238000,
+            "id": "3n4MLZyy29Cqpa2SNxGSWv",
+            "progress": 45.36990398237054,
+            "duration_ms": 254120,
             "playing": true,
-            "name": "\u30ce\u30b9\u30bf\u30eb\u30b8\u30c3\u30af\u30ec\u30a4\u30f3\u30d5\u30a9\u30fc\u30eb",
-            "preview_url": null,
+            "name": "\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f",
+            "preview_url": "https://p.scdn.co/mp3-preview/5f7c14c979dd4c02560c3704ad889e9a6c948c8d?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "CHiCO with HoneyWorks",
-                "id": "7qpGWSiolU9E5WbkvTaMDd"
+                "name": "Kalafina",
+                "id": "2otsTXVV2ZWZ8T5LPzsBhy"
               }
             ],
             "context": {
               "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
+                "spotify": "https://open.spotify.com/album/5PffrL3d7VY89x5AVvpr6e"
               },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+              "href": "https://api.spotify.com/v1/albums/5PffrL3d7VY89x5AVvpr6e",
+              "type": "album",
+              "uri": "spotify:album:5PffrL3d7VY89x5AVvpr6e"
             },
             "album": {
-              "name": "Watashiwo Someru Aino Uta",
-              "id": "1yY3wlXZTzgqRVsxo06yuv",
-              "release_date": "2016",
+              "name": "After Eden",
+              "id": "5PffrL3d7VY89x5AVvpr6e",
+              "release_date": "2011-09-21",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273bacd156d8d480baa4d4e4a87",
+                "url": "https://i.scdn.co/image/ab67616d0000b2737b2762f120f737f1cc500b6c",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1724292099646
+            "time": 1724291614603
           }
         },
         {
@@ -6218,44 +6289,6 @@
           }
         },
         {
-          "_id": "3n4MLZyy29Cqpa2SNxGSWv",
-          "count": 1,
-          "details": {
-            "id": "3n4MLZyy29Cqpa2SNxGSWv",
-            "progress": 45.36990398237054,
-            "duration_ms": 254120,
-            "playing": true,
-            "name": "\u8f1d\u304f\u7a7a\u306e\u9759\u5bc2\u306b\u306f",
-            "preview_url": "https://p.scdn.co/mp3-preview/5f7c14c979dd4c02560c3704ad889e9a6c948c8d?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Kalafina",
-                "id": "2otsTXVV2ZWZ8T5LPzsBhy"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/5PffrL3d7VY89x5AVvpr6e"
-              },
-              "href": "https://api.spotify.com/v1/albums/5PffrL3d7VY89x5AVvpr6e",
-              "type": "album",
-              "uri": "spotify:album:5PffrL3d7VY89x5AVvpr6e"
-            },
-            "album": {
-              "name": "After Eden",
-              "id": "5PffrL3d7VY89x5AVvpr6e",
-              "release_date": "2011-09-21",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737b2762f120f737f1cc500b6c",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724291614603
-          }
-        },
-        {
           "_id": "2trg5QP7LvutSwDmApo7JN",
           "count": 1,
           "details": {
@@ -6291,6 +6324,37 @@
             },
             "success": true,
             "time": 1724293548458
+          }
+        },
+        {
+          "_id": "0BhoPeHmFc2WZSPp2DI7oD",
+          "count": 1,
+          "details": {
+            "id": "0BhoPeHmFc2WZSPp2DI7oD",
+            "progress": 72.10262721966777,
+            "duration_ms": 258372,
+            "playing": true,
+            "name": "\u611b\u3057\u3066\u611b\u3057\u3066\u611b\u3057\u3066",
+            "preview_url": "https://p.scdn.co/mp3-preview/a51fdd9c9cc58f9fa456c4ace6ab40e062a3473b?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Ado",
+                "id": "6mEQK9m2krja6X1cfsAjfl"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "Ado \"Ready For My Show Playlist\"",
+              "id": "31LvSRXGPVhYs2EZFK0BEU",
+              "release_date": "2024-02-06",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731b1310c35fad57bc85027f19",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724295772157
           }
         },
         {
@@ -8156,6 +8220,37 @@
           }
         },
         {
+          "_id": "4T91hzWAs6QAY6S9SPOE8z",
+          "count": 1,
+          "details": {
+            "id": "4T91hzWAs6QAY6S9SPOE8z",
+            "progress": 47.64196841601531,
+            "duration_ms": 250760,
+            "playing": true,
+            "name": "\u6625\u590f\u79cb\u51ac",
+            "preview_url": "https://p.scdn.co/mp3-preview/32c86e604916c649d10136ff749e6708b276ce38?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Little Glee Monster",
+                "id": "2N19kPGlqKY8GiyE4DkAtp"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "Joyful Monster",
+              "id": "7q7PwTvocTRkcCrEk6RG8y",
+              "release_date": "2017-01-06",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724293613001
+          }
+        },
+        {
           "_id": "1GKx2QlBo2IeXK9ecJniQy",
           "count": 1,
           "details": {
@@ -8199,37 +8294,6 @@
             },
             "success": true,
             "time": 1724331655300
-          }
-        },
-        {
-          "_id": "4T91hzWAs6QAY6S9SPOE8z",
-          "count": 1,
-          "details": {
-            "id": "4T91hzWAs6QAY6S9SPOE8z",
-            "progress": 47.64196841601531,
-            "duration_ms": 250760,
-            "playing": true,
-            "name": "\u6625\u590f\u79cb\u51ac",
-            "preview_url": "https://p.scdn.co/mp3-preview/32c86e604916c649d10136ff749e6708b276ce38?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Little Glee Monster",
-                "id": "2N19kPGlqKY8GiyE4DkAtp"
-              }
-            ],
-            "context": null,
-            "album": {
-              "name": "Joyful Monster",
-              "id": "7q7PwTvocTRkcCrEk6RG8y",
-              "release_date": "2017-01-06",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724293613001
           }
         },
         {
@@ -8575,75 +8639,6 @@
           }
         },
         {
-          "_id": "35OFxGf830hTFgqaVyiITH",
-          "count": 1,
-          "details": {
-            "id": "35OFxGf830hTFgqaVyiITH",
-            "progress": 15.608159711069714,
-            "duration_ms": 280206,
-            "playing": true,
-            "name": "\u4e0d\u53ef\u89e3",
-            "preview_url": "https://p.scdn.co/mp3-preview/ba086ec38f27ee653be16f454df490274fb9d6e4?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u82b1\u8b5c",
-                "id": "2c32JruIkUyfdycHmhIph4"
-              }
-            ],
-            "context": null,
-            "album": {
-              "name": "\u89b3\u6e2c",
-              "id": "0V1BmWezVWcFC3hO3yFEPy",
-              "release_date": "2020-08-12",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b602f5a266b31f5fb6deaf9f",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724296198221
-          }
-        },
-        {
-          "_id": "24YLULSJcW2BVVUhjUek5t",
-          "count": 1,
-          "details": {
-            "id": "24YLULSJcW2BVVUhjUek5t",
-            "progress": 13.464410549729902,
-            "duration_ms": 251760,
-            "playing": true,
-            "name": "BEAUTIFUL\u2252SENTENCE - Zero Answer Question",
-            "preview_url": "https://p.scdn.co/mp3-preview/55b5cea990d003240ba0ce8f2ba00bc322064f79?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "ZAQ",
-                "id": "56TyClNQ0oVZLhK2V9KhA6"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "\u300c\u5287\u5834\u7248\u30c8\u30ea\u30cb\u30c6\u30a3\u30bb\u30d6\u30f3\u300d\u4e3b\u984c\u6b4c\u300cLast Proof\u300d",
-              "id": "1EXjrM7LJA24KVgvO5PMMC",
-              "release_date": "2017-01-25",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c96a4715868e858014c584df",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724292113224
-          }
-        },
-        {
           "_id": "4A1eCJDtbh7jty6VixOQhy",
           "count": 1,
           "details": {
@@ -8687,6 +8682,75 @@
             },
             "success": true,
             "time": 1724291428207
+          }
+        },
+        {
+          "_id": "24YLULSJcW2BVVUhjUek5t",
+          "count": 1,
+          "details": {
+            "id": "24YLULSJcW2BVVUhjUek5t",
+            "progress": 13.464410549729902,
+            "duration_ms": 251760,
+            "playing": true,
+            "name": "BEAUTIFUL\u2252SENTENCE - Zero Answer Question",
+            "preview_url": "https://p.scdn.co/mp3-preview/55b5cea990d003240ba0ce8f2ba00bc322064f79?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "ZAQ",
+                "id": "56TyClNQ0oVZLhK2V9KhA6"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u300c\u5287\u5834\u7248\u30c8\u30ea\u30cb\u30c6\u30a3\u30bb\u30d6\u30f3\u300d\u4e3b\u984c\u6b4c\u300cLast Proof\u300d",
+              "id": "1EXjrM7LJA24KVgvO5PMMC",
+              "release_date": "2017-01-25",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c96a4715868e858014c584df",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724292113224
+          }
+        },
+        {
+          "_id": "35OFxGf830hTFgqaVyiITH",
+          "count": 1,
+          "details": {
+            "id": "35OFxGf830hTFgqaVyiITH",
+            "progress": 15.608159711069714,
+            "duration_ms": 280206,
+            "playing": true,
+            "name": "\u4e0d\u53ef\u89e3",
+            "preview_url": "https://p.scdn.co/mp3-preview/ba086ec38f27ee653be16f454df490274fb9d6e4?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u82b1\u8b5c",
+                "id": "2c32JruIkUyfdycHmhIph4"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "\u89b3\u6e2c",
+              "id": "0V1BmWezVWcFC3hO3yFEPy",
+              "release_date": "2020-08-12",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b602f5a266b31f5fb6deaf9f",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724296198221
           }
         },
         {
@@ -10299,19 +10363,19 @@
           }
         },
         {
-          "_id": "6jCy1P04z78DNhIeHjzEC2",
-          "count": 1,
-          "details": {
-            "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
-            "id": "6jCy1P04z78DNhIeHjzEC2"
-          }
-        },
-        {
           "_id": "1snhtMLeb2DYoMOcVbb8iB",
           "count": 1,
           "details": {
             "name": "Kenshi Yonezu",
             "id": "1snhtMLeb2DYoMOcVbb8iB"
+          }
+        },
+        {
+          "_id": "6jCy1P04z78DNhIeHjzEC2",
+          "count": 1,
+          "details": {
+            "name": "\u6c34\u4e0a \u96db (CV: \u5927\u68ee\u65e5\u96c5)",
+            "id": "6jCy1P04z78DNhIeHjzEC2"
           }
         },
         {
@@ -10539,19 +10603,19 @@
           }
         },
         {
-          "_id": "26QVC80GmRRg4EbeTHs3H3",
-          "count": 1,
-          "details": {
-            "name": "\u672a\u5b8c\u6210\u30e2\u30ce\u30ed\u30fc\u30b0",
-            "id": "26QVC80GmRRg4EbeTHs3H3"
-          }
-        },
-        {
           "_id": "6mEQK9m2krja6X1cfsAjfl",
           "count": 1,
           "details": {
             "name": "Ado",
             "id": "6mEQK9m2krja6X1cfsAjfl"
+          }
+        },
+        {
+          "_id": "26QVC80GmRRg4EbeTHs3H3",
+          "count": 1,
+          "details": {
+            "name": "\u672a\u5b8c\u6210\u30e2\u30ce\u30ed\u30fc\u30b0",
+            "id": "26QVC80GmRRg4EbeTHs3H3"
           }
         },
         {
@@ -10603,19 +10667,19 @@
           }
         },
         {
-          "_id": "7lZauDnRoAC3kmaYae2opv",
-          "count": 1,
-          "details": {
-            "name": "Dabin",
-            "id": "7lZauDnRoAC3kmaYae2opv"
-          }
-        },
-        {
           "_id": "56TyClNQ0oVZLhK2V9KhA6",
           "count": 1,
           "details": {
             "name": "ZAQ",
             "id": "56TyClNQ0oVZLhK2V9KhA6"
+          }
+        },
+        {
+          "_id": "7lZauDnRoAC3kmaYae2opv",
+          "count": 1,
+          "details": {
+            "name": "Dabin",
+            "id": "7lZauDnRoAC3kmaYae2opv"
           }
         },
         {
@@ -10933,6 +10997,20 @@
       ],
       "top_albums": [
         {
+          "_id": "0D1Qm49Hq9cwYbRDeC1HGa",
+          "count": 1,
+          "details": {
+            "name": "Me & U",
+            "id": "0D1Qm49Hq9cwYbRDeC1HGa",
+            "release_date": "2023-10-05",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734dfcb8700811f123ed8eca16",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "7zx9F3ehp4NIcts4Tq0Oc8",
           "count": 1,
           "details": {
@@ -10961,6 +11039,34 @@
           }
         },
         {
+          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
+          "count": 1,
+          "details": {
+            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
+            "id": "5hdH3H4sjF4OoGsTyzPTLI",
+            "release_date": "2024-07-10",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4QUfYAgz2I7uypWpeTAWov",
+          "count": 1,
+          "details": {
+            "name": "\u9b54\u6cd5",
+            "id": "4QUfYAgz2I7uypWpeTAWov",
+            "release_date": "2020-12-16",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "1ieXthJ9zXRWqTU8ROAeJa",
           "count": 1,
           "details": {
@@ -10984,48 +11090,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "4QUfYAgz2I7uypWpeTAWov",
-          "count": 1,
-          "details": {
-            "name": "\u9b54\u6cd5",
-            "id": "4QUfYAgz2I7uypWpeTAWov",
-            "release_date": "2020-12-16",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
-          "count": 1,
-          "details": {
-            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
-            "id": "5hdH3H4sjF4OoGsTyzPTLI",
-            "release_date": "2024-07-10",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "0D1Qm49Hq9cwYbRDeC1HGa",
-          "count": 1,
-          "details": {
-            "name": "Me & U",
-            "id": "0D1Qm49Hq9cwYbRDeC1HGa",
-            "release_date": "2023-10-05",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734dfcb8700811f123ed8eca16",
               "width": 640
             }
           }
