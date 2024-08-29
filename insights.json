@@ -1,5 +1,5 @@
 {
-  "updated_at": 1724939102,
+  "updated_at": 1724939402,
   "data": {
     "today": {
       "top_songs": [
@@ -42,11 +42,49 @@
           }
         },
         {
+          "_id": "44PPBr9Erm49p5VxHKTnDx",
+          "count": 1,
+          "details": {
+            "id": "44PPBr9Erm49p5VxHKTnDx",
+            "progress": 89.24653223172102,
+            "duration_ms": 251026,
+            "playing": true,
+            "name": "Mountains",
+            "preview_url": "https://p.scdn.co/mp3-preview/786e931b140405e18a18525ec773aea15ebc574b?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Yuna",
+                "id": "3kHVioJpVxlazAAKQ64pC1"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/5n0fctl7UUnQwMKTU2cppt"
+              },
+              "href": "https://api.spotify.com/v1/albums/5n0fctl7UUnQwMKTU2cppt",
+              "type": "album",
+              "uri": "spotify:album:5n0fctl7UUnQwMKTU2cppt"
+            },
+            "album": {
+              "name": "Nocturnal (Deluxe Edition)",
+              "id": "5n0fctl7UUnQwMKTU2cppt",
+              "release_date": "2013-01-01",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735fb555955b3f4b991ceda5d9",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724939179814
+          }
+        },
+        {
           "_id": "1BwXRI7LNEOwGFp3SgNxbd",
           "count": 1,
           "details": {
             "id": "1BwXRI7LNEOwGFp3SgNxbd",
-            "progress": 68.01297648012977,
+            "progress": 99.70843471208435,
             "duration_ms": 246600,
             "playing": true,
             "name": "Falling",
@@ -83,7 +121,7 @@
       "top_albums": [
         {
           "_id": "5n0fctl7UUnQwMKTU2cppt",
-          "count": 1,
+          "count": 2,
           "details": {
             "name": "Nocturnal (Deluxe Edition)",
             "id": "5n0fctl7UUnQwMKTU2cppt",
@@ -112,26 +150,26 @@
       ],
       "top_artists": [
         {
+          "_id": "3kHVioJpVxlazAAKQ64pC1",
+          "count": 2,
+          "details": {
+            "name": "Yuna",
+            "id": "3kHVioJpVxlazAAKQ64pC1"
+          }
+        },
+        {
           "_id": "2ITl7YzD1Hm6NVojBhKkOp",
           "count": 1,
           "details": {
             "name": "Miisha Shimizu",
             "id": "2ITl7YzD1Hm6NVojBhKkOp"
           }
-        },
-        {
-          "_id": "3kHVioJpVxlazAAKQ64pC1",
-          "count": 1,
-          "details": {
-            "name": "Yuna",
-            "id": "3kHVioJpVxlazAAKQ64pC1"
-          }
         }
       ],
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 247339.0
+          "listened_ms": 549532.0
         }
       ]
     },
@@ -4651,20 +4689,6 @@
           }
         },
         {
-          "_id": "6TPhM7fNV68heKndka6F0Q",
-          "count": 1,
-          "details": {
-            "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
-            "id": "6TPhM7fNV68heKndka6F0Q",
-            "release_date": "2019-05-22",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f1548483d840e68d5d97f46e",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7EbxrhVmowRIpPfEuuVZb4",
           "count": 1,
           "details": {
@@ -4674,6 +4698,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2730184acdeb047dccc6dfc8940",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "6TPhM7fNV68heKndka6F0Q",
+          "count": 1,
+          "details": {
+            "name": "\u30a2\u30f3\u30c9\u30ed\u30a4\u30c9\u30ac\u30fc\u30eb",
+            "id": "6TPhM7fNV68heKndka6F0Q",
+            "release_date": "2019-05-22",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f1548483d840e68d5d97f46e",
               "width": 640
             }
           }
@@ -5523,19 +5561,19 @@
           }
         },
         {
-          "_id": "56TyClNQ0oVZLhK2V9KhA6",
-          "count": 1,
-          "details": {
-            "name": "ZAQ",
-            "id": "56TyClNQ0oVZLhK2V9KhA6"
-          }
-        },
-        {
           "_id": "7lZauDnRoAC3kmaYae2opv",
           "count": 1,
           "details": {
             "name": "Dabin",
             "id": "7lZauDnRoAC3kmaYae2opv"
+          }
+        },
+        {
+          "_id": "56TyClNQ0oVZLhK2V9KhA6",
+          "count": 1,
+          "details": {
+            "name": "ZAQ",
+            "id": "56TyClNQ0oVZLhK2V9KhA6"
           }
         },
         {
@@ -5699,19 +5737,19 @@
           }
         },
         {
-          "_id": "1I24D95GZP1Nr9hVsiOLmw",
-          "count": 1,
-          "details": {
-            "name": "\u3053\u306f\u306a\u3089\u3080",
-            "id": "1I24D95GZP1Nr9hVsiOLmw"
-          }
-        },
-        {
           "_id": "5htVtReJ3NAwcAdxdHpim3",
           "count": 1,
           "details": {
             "name": "ClariS",
             "id": "5htVtReJ3NAwcAdxdHpim3"
+          }
+        },
+        {
+          "_id": "1I24D95GZP1Nr9hVsiOLmw",
+          "count": 1,
+          "details": {
+            "name": "\u3053\u306f\u306a\u3089\u3080",
+            "id": "1I24D95GZP1Nr9hVsiOLmw"
           }
         },
         {
@@ -5811,14 +5849,6 @@
           }
         },
         {
-          "_id": "2j00CVYTPx6q9ANbmB2keb",
-          "count": 1,
-          "details": {
-            "name": "Yunomi",
-            "id": "2j00CVYTPx6q9ANbmB2keb"
-          }
-        },
-        {
           "_id": "0JqX5C4CiNps3qRGvlMLcf",
           "count": 1,
           "details": {
@@ -5832,6 +5862,14 @@
           "details": {
             "name": "CHiCO with HoneyWorks",
             "id": "7qpGWSiolU9E5WbkvTaMDd"
+          }
+        },
+        {
+          "_id": "2j00CVYTPx6q9ANbmB2keb",
+          "count": 1,
+          "details": {
+            "name": "Yunomi",
+            "id": "2j00CVYTPx6q9ANbmB2keb"
           }
         },
         {
@@ -5949,19 +5987,19 @@
     "month": {
       "top_songs": [
         {
-          "_id": "4nFrcGM7MY1mpoQCC7Kefj",
+          "_id": "2Dzzhb1oV5ckgOjWZLraIB",
           "count": 1,
           "details": {
-            "id": "4nFrcGM7MY1mpoQCC7Kefj",
-            "progress": 29.305206416668828,
-            "duration_ms": 192935,
+            "id": "2Dzzhb1oV5ckgOjWZLraIB",
+            "progress": 3.063528385077096,
+            "duration_ms": 197093,
             "playing": true,
-            "name": "Me & U",
-            "preview_url": "https://p.scdn.co/mp3-preview/75e145544b1f479d70b058d9ea5c6373ad6afdcd?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "Overdose",
+            "preview_url": "https://p.scdn.co/mp3-preview/aba42c9d80b1af30f96f21290fe6ab022a7d5566?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "Tems",
-                "id": "687cZJR45JO7jhk1LHIbgq"
+                "name": "natori",
+                "id": "6WmXWHmfBMhupyIs8MSqtu"
               }
             ],
             "context": {
@@ -5973,17 +6011,17 @@
               "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
             },
             "album": {
-              "name": "Me & U",
-              "id": "0D1Qm49Hq9cwYbRDeC1HGa",
-              "release_date": "2023-10-05",
+              "name": "Overdose",
+              "id": "1ieXthJ9zXRWqTU8ROAeJa",
+              "release_date": "2022-09-07",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734dfcb8700811f123ed8eca16",
+                "url": "https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1722303626411
+            "time": 1722303612249
           }
         },
         {
@@ -6026,6 +6064,86 @@
             },
             "success": true,
             "time": 1722357547932
+          }
+        },
+        {
+          "_id": "5aIVCx5tnk0ntmdiinnYvw",
+          "count": 1,
+          "details": {
+            "id": "5aIVCx5tnk0ntmdiinnYvw",
+            "progress": 9.516865995855285,
+            "duration_ms": 200255,
+            "playing": true,
+            "name": "Water",
+            "preview_url": "https://p.scdn.co/mp3-preview/92479d43666b31ca72b7e2a4fad74568f98ee41e?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Tyla",
+                "id": "3SozjO3Lat463tQICI9LcE"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Water",
+              "id": "22sXXkKgjEuawIFL1e1tRw",
+              "release_date": "2023-07-28",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1722303682688
+          }
+        },
+        {
+          "_id": "5YzPYZKg94yEOgSlODzfK1",
+          "count": 1,
+          "details": {
+            "id": "5YzPYZKg94yEOgSlODzfK1",
+            "progress": 60.65383267967155,
+            "duration_ms": 234066,
+            "playing": true,
+            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 - \u5d29\u58caRemix",
+            "preview_url": "https://p.scdn.co/mp3-preview/c7f5aa5a2f713adfff3cfed9ea73ed682b51039d?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u82b1\u8b5c",
+                "id": "2c32JruIkUyfdycHmhIph4"
+              },
+              {
+                "name": "Otome",
+                "id": "6lDhtdOHuApMDkvQWtDpdV"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0wo956h2SFUxvB0satQ3AH"
+              },
+              "href": "https://api.spotify.com/v1/albums/0wo956h2SFUxvB0satQ3AH",
+              "type": "album",
+              "uri": "spotify:album:0wo956h2SFUxvB0satQ3AH"
+            },
+            "album": {
+              "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
+              "id": "5hdH3H4sjF4OoGsTyzPTLI",
+              "release_date": "2024-07-10",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1722357650836
           }
         },
         {
@@ -6109,61 +6227,19 @@
           }
         },
         {
-          "_id": "5YzPYZKg94yEOgSlODzfK1",
+          "_id": "4nFrcGM7MY1mpoQCC7Kefj",
           "count": 1,
           "details": {
-            "id": "5YzPYZKg94yEOgSlODzfK1",
-            "progress": 60.65383267967155,
-            "duration_ms": 234066,
+            "id": "4nFrcGM7MY1mpoQCC7Kefj",
+            "progress": 29.305206416668828,
+            "duration_ms": 192935,
             "playing": true,
-            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 - \u5d29\u58caRemix",
-            "preview_url": "https://p.scdn.co/mp3-preview/c7f5aa5a2f713adfff3cfed9ea73ed682b51039d?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "Me & U",
+            "preview_url": "https://p.scdn.co/mp3-preview/75e145544b1f479d70b058d9ea5c6373ad6afdcd?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "\u82b1\u8b5c",
-                "id": "2c32JruIkUyfdycHmhIph4"
-              },
-              {
-                "name": "Otome",
-                "id": "6lDhtdOHuApMDkvQWtDpdV"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/0wo956h2SFUxvB0satQ3AH"
-              },
-              "href": "https://api.spotify.com/v1/albums/0wo956h2SFUxvB0satQ3AH",
-              "type": "album",
-              "uri": "spotify:album:0wo956h2SFUxvB0satQ3AH"
-            },
-            "album": {
-              "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
-              "id": "5hdH3H4sjF4OoGsTyzPTLI",
-              "release_date": "2024-07-10",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1722357650836
-          }
-        },
-        {
-          "_id": "5aIVCx5tnk0ntmdiinnYvw",
-          "count": 1,
-          "details": {
-            "id": "5aIVCx5tnk0ntmdiinnYvw",
-            "progress": 9.516865995855285,
-            "duration_ms": 200255,
-            "playing": true,
-            "name": "Water",
-            "preview_url": "https://p.scdn.co/mp3-preview/92479d43666b31ca72b7e2a4fad74568f98ee41e?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Tyla",
-                "id": "3SozjO3Lat463tQICI9LcE"
+                "name": "Tems",
+                "id": "687cZJR45JO7jhk1LHIbgq"
               }
             ],
             "context": {
@@ -6175,87 +6251,21 @@
               "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
             },
             "album": {
-              "name": "Water",
-              "id": "22sXXkKgjEuawIFL1e1tRw",
-              "release_date": "2023-07-28",
+              "name": "Me & U",
+              "id": "0D1Qm49Hq9cwYbRDeC1HGa",
+              "release_date": "2023-10-05",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e",
+                "url": "https://i.scdn.co/image/ab67616d0000b2734dfcb8700811f123ed8eca16",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1722303682688
-          }
-        },
-        {
-          "_id": "2Dzzhb1oV5ckgOjWZLraIB",
-          "count": 1,
-          "details": {
-            "id": "2Dzzhb1oV5ckgOjWZLraIB",
-            "progress": 3.063528385077096,
-            "duration_ms": 197093,
-            "playing": true,
-            "name": "Overdose",
-            "preview_url": "https://p.scdn.co/mp3-preview/aba42c9d80b1af30f96f21290fe6ab022a7d5566?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "natori",
-                "id": "6WmXWHmfBMhupyIs8MSqtu"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Overdose",
-              "id": "1ieXthJ9zXRWqTU8ROAeJa",
-              "release_date": "2022-09-07",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1722303612249
+            "time": 1722303626411
           }
         }
       ],
       "top_albums": [
-        {
-          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
-          "count": 1,
-          "details": {
-            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
-            "id": "5hdH3H4sjF4OoGsTyzPTLI",
-            "release_date": "2024-07-10",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "1ieXthJ9zXRWqTU8ROAeJa",
-          "count": 1,
-          "details": {
-            "name": "Overdose",
-            "id": "1ieXthJ9zXRWqTU8ROAeJa",
-            "release_date": "2022-09-07",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6",
-              "width": 640
-            }
-          }
-        },
         {
           "_id": "22sXXkKgjEuawIFL1e1tRw",
           "count": 1,
@@ -6271,29 +6281,15 @@
           }
         },
         {
-          "_id": "4QUfYAgz2I7uypWpeTAWov",
+          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
           "count": 1,
           "details": {
-            "name": "\u9b54\u6cd5",
-            "id": "4QUfYAgz2I7uypWpeTAWov",
-            "release_date": "2020-12-16",
+            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
+            "id": "5hdH3H4sjF4OoGsTyzPTLI",
+            "release_date": "2024-07-10",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "7zx9F3ehp4NIcts4Tq0Oc8",
-          "count": 1,
-          "details": {
-            "name": "LV N ATTN",
-            "id": "7zx9F3ehp4NIcts4Tq0Oc8",
-            "release_date": "2021-06-04",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f2a972ad9b4fa003caa00092",
+              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
               "width": 640
             }
           }
@@ -6313,6 +6309,20 @@
           }
         },
         {
+          "_id": "7zx9F3ehp4NIcts4Tq0Oc8",
+          "count": 1,
+          "details": {
+            "name": "LV N ATTN",
+            "id": "7zx9F3ehp4NIcts4Tq0Oc8",
+            "release_date": "2021-06-04",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f2a972ad9b4fa003caa00092",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "0wo956h2SFUxvB0satQ3AH",
           "count": 1,
           "details": {
@@ -6322,6 +6332,34 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273e95f19dc4da33e9ee099e5ee",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4QUfYAgz2I7uypWpeTAWov",
+          "count": 1,
+          "details": {
+            "name": "\u9b54\u6cd5",
+            "id": "4QUfYAgz2I7uypWpeTAWov",
+            "release_date": "2020-12-16",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "1ieXthJ9zXRWqTU8ROAeJa",
+          "count": 1,
+          "details": {
+            "name": "Overdose",
+            "id": "1ieXthJ9zXRWqTU8ROAeJa",
+            "release_date": "2022-09-07",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d29582617459e5bb81bd90a6",
               "width": 640
             }
           }
@@ -6337,19 +6375,19 @@
           }
         },
         {
-          "_id": "3ONGmday8YN8AkbsRk01iL",
-          "count": 1,
-          "details": {
-            "name": "Lojay",
-            "id": "3ONGmday8YN8AkbsRk01iL"
-          }
-        },
-        {
           "_id": "4w7hVnrigmbR8fHUtt6rLr",
           "count": 1,
           "details": {
             "name": "\u672a\u6765\u53e4\u4ee3\u697d\u56e3",
             "id": "4w7hVnrigmbR8fHUtt6rLr"
+          }
+        },
+        {
+          "_id": "3ONGmday8YN8AkbsRk01iL",
+          "count": 1,
+          "details": {
+            "name": "Lojay",
+            "id": "3ONGmday8YN8AkbsRk01iL"
           }
         },
         {
@@ -6361,19 +6399,19 @@
           }
         },
         {
-          "_id": "3SozjO3Lat463tQICI9LcE",
-          "count": 1,
-          "details": {
-            "name": "Tyla",
-            "id": "3SozjO3Lat463tQICI9LcE"
-          }
-        },
-        {
           "_id": "6lDhtdOHuApMDkvQWtDpdV",
           "count": 1,
           "details": {
             "name": "Otome",
             "id": "6lDhtdOHuApMDkvQWtDpdV"
+          }
+        },
+        {
+          "_id": "3SozjO3Lat463tQICI9LcE",
+          "count": 1,
+          "details": {
+            "name": "Tyla",
+            "id": "3SozjO3Lat463tQICI9LcE"
           }
         },
         {
