@@ -1,5 +1,5 @@
 {
-  "updated_at": 1725193801,
+  "updated_at": 1725194108,
   "data": {
     "today": {
       "top_songs": [],
@@ -4754,20 +4754,6 @@
           }
         },
         {
-          "_id": "4y9uzu1TPh8AdIHZnInEj6",
-          "count": 1,
-          "details": {
-            "name": "GSA",
-            "id": "4y9uzu1TPh8AdIHZnInEj6",
-            "release_date": "2024-05-22",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c21633de7bd4ea54586fac75",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "6TyquheH5JW6c5YuZ4ectA",
           "count": 1,
           "details": {
@@ -4777,6 +4763,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27351c697da13ab218a493fb964",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4y9uzu1TPh8AdIHZnInEj6",
+          "count": 1,
+          "details": {
+            "name": "GSA",
+            "id": "4y9uzu1TPh8AdIHZnInEj6",
+            "release_date": "2024-05-22",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273c21633de7bd4ea54586fac75",
               "width": 640
             }
           }
@@ -4866,20 +4866,6 @@
           }
         },
         {
-          "_id": "4hHgHqD2J1D4bvlzmzzCeT",
-          "count": 1,
-          "details": {
-            "name": "\u9b3c\u30ce\u5bb4",
-            "id": "4hHgHqD2J1D4bvlzmzzCeT",
-            "release_date": "2024-01-10",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ae11dedc17dfaca9d079f458",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "0SlZ8UoV2wgNqDZNMTpgD0",
           "count": 1,
           "details": {
@@ -4889,6 +4875,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2733bcd755a5992996b85aaa3b6",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4hHgHqD2J1D4bvlzmzzCeT",
+          "count": 1,
+          "details": {
+            "name": "\u9b3c\u30ce\u5bb4",
+            "id": "4hHgHqD2J1D4bvlzmzzCeT",
+            "release_date": "2024-01-10",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ae11dedc17dfaca9d079f458",
               "width": 640
             }
           }
@@ -6736,6 +6736,52 @@
           }
         },
         {
+          "_id": "3TPw3M2fOCX0v2Fd0VEbLF",
+          "count": 1,
+          "details": {
+            "id": "3TPw3M2fOCX0v2Fd0VEbLF",
+            "progress": 81.73855341738553,
+            "duration_ms": 226050,
+            "playing": true,
+            "name": "\u6b6f\u8eca",
+            "preview_url": "https://p.scdn.co/mp3-preview/b3eaff32098fc91966ca9a7c95bd8351f6b40e00?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u5e78\u795c",
+                "id": "1oM8EdalXNF4uSK5k2dzLh"
+              },
+              {
+                "name": "\u82b1\u8b5c",
+                "id": "2c32JruIkUyfdycHmhIph4"
+              },
+              {
+                "name": "V.W.P",
+                "id": "2WEdpSG62DEFsMhN4iw5P1"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "\u6b6f\u8eca",
+              "id": "40xZq0RgNblQauzftEGjJw",
+              "release_date": "2023-10-04",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27326c941432963f214caea7007",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1722625180596
+          }
+        },
+        {
           "_id": "3gUB2bwB7bdstJlQ9MHvC1",
           "count": 1,
           "details": {
@@ -6817,52 +6863,6 @@
             },
             "success": true,
             "time": 1722626210776
-          }
-        },
-        {
-          "_id": "3TPw3M2fOCX0v2Fd0VEbLF",
-          "count": 1,
-          "details": {
-            "id": "3TPw3M2fOCX0v2Fd0VEbLF",
-            "progress": 81.73855341738553,
-            "duration_ms": 226050,
-            "playing": true,
-            "name": "\u6b6f\u8eca",
-            "preview_url": "https://p.scdn.co/mp3-preview/b3eaff32098fc91966ca9a7c95bd8351f6b40e00?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u5e78\u795c",
-                "id": "1oM8EdalXNF4uSK5k2dzLh"
-              },
-              {
-                "name": "\u82b1\u8b5c",
-                "id": "2c32JruIkUyfdycHmhIph4"
-              },
-              {
-                "name": "V.W.P",
-                "id": "2WEdpSG62DEFsMhN4iw5P1"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "\u6b6f\u8eca",
-              "id": "40xZq0RgNblQauzftEGjJw",
-              "release_date": "2023-10-04",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27326c941432963f214caea7007",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1722625180596
           }
         },
         {
@@ -7084,44 +7084,6 @@
           }
         },
         {
-          "_id": "6ld6C3ToDrUafNF1SPLoEQ",
-          "count": 1,
-          "details": {
-            "id": "6ld6C3ToDrUafNF1SPLoEQ",
-            "progress": 99.67939038415194,
-            "duration_ms": 327813,
-            "playing": true,
-            "name": "soragamatteru",
-            "preview_url": "https://p.scdn.co/mp3-preview/8bed1f28b347e6c1945de97d4ae4bf47092378aa?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HACHI",
-                "id": "2ksMoRs5T9ErEe5H7gxv7C"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt"
-              },
-              "href": "https://api.spotify.com/v1/albums/4GKdTchAb3il8S28ibi9Xt",
-              "type": "album",
-              "uri": "spotify:album:4GKdTchAb3il8S28ibi9Xt"
-            },
-            "album": {
-              "name": "Close to heart",
-              "id": "4GKdTchAb3il8S28ibi9Xt",
-              "release_date": "2023-08-11",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c6e2e40ce5a2d90fbc24a1a9",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1722558634902
-          }
-        },
-        {
           "_id": "3JNSadS2THKFBNxKO5M2xo",
           "count": 1,
           "details": {
@@ -7157,6 +7119,44 @@
             },
             "success": true,
             "time": 1722609891745
+          }
+        },
+        {
+          "_id": "6ld6C3ToDrUafNF1SPLoEQ",
+          "count": 1,
+          "details": {
+            "id": "6ld6C3ToDrUafNF1SPLoEQ",
+            "progress": 99.67939038415194,
+            "duration_ms": 327813,
+            "playing": true,
+            "name": "soragamatteru",
+            "preview_url": "https://p.scdn.co/mp3-preview/8bed1f28b347e6c1945de97d4ae4bf47092378aa?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HACHI",
+                "id": "2ksMoRs5T9ErEe5H7gxv7C"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt"
+              },
+              "href": "https://api.spotify.com/v1/albums/4GKdTchAb3il8S28ibi9Xt",
+              "type": "album",
+              "uri": "spotify:album:4GKdTchAb3il8S28ibi9Xt"
+            },
+            "album": {
+              "name": "Close to heart",
+              "id": "4GKdTchAb3il8S28ibi9Xt",
+              "release_date": "2023-08-11",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c6e2e40ce5a2d90fbc24a1a9",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1722558634902
           }
         },
         {
@@ -11186,11 +11186,11 @@
           }
         },
         {
-          "_id": "4OfU76YhPU04wlmbVFFgTJ",
+          "_id": "7GBDKoYYinEfOirEzLlHPK",
           "count": 1,
           "details": {
-            "name": "ATARASHII GAKKO!",
-            "id": "4OfU76YhPU04wlmbVFFgTJ"
+            "name": "natsumi",
+            "id": "7GBDKoYYinEfOirEzLlHPK"
           }
         },
         {
@@ -11202,11 +11202,11 @@
           }
         },
         {
-          "_id": "7GBDKoYYinEfOirEzLlHPK",
+          "_id": "4OfU76YhPU04wlmbVFFgTJ",
           "count": 1,
           "details": {
-            "name": "natsumi",
-            "id": "7GBDKoYYinEfOirEzLlHPK"
+            "name": "ATARASHII GAKKO!",
+            "id": "4OfU76YhPU04wlmbVFFgTJ"
           }
         },
         {
@@ -11386,19 +11386,19 @@
           }
         },
         {
-          "_id": "5XaBNKQo65yYcjNA8wQPOk",
-          "count": 1,
-          "details": {
-            "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
-            "id": "5XaBNKQo65yYcjNA8wQPOk"
-          }
-        },
-        {
           "_id": "1k5LyiTCRzPjORzcgHqJxF",
           "count": 1,
           "details": {
             "name": "Kanaria",
             "id": "1k5LyiTCRzPjORzcgHqJxF"
+          }
+        },
+        {
+          "_id": "5XaBNKQo65yYcjNA8wQPOk",
+          "count": 1,
+          "details": {
+            "name": "\u5b9d\u9418\u30de\u30ea\u30f3",
+            "id": "5XaBNKQo65yYcjNA8wQPOk"
           }
         },
         {
