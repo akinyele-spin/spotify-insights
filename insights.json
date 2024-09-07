@@ -1,5 +1,5 @@
 {
-  "updated_at": 1725702001,
+  "updated_at": 1725702301,
   "data": {
     "today": {
       "top_songs": [],
@@ -2142,20 +2142,6 @@
           }
         },
         {
-          "_id": "1bJPGL99A3EOO8ZGvnShAI",
-          "count": 2,
-          "details": {
-            "name": "Makeinu",
-            "id": "1bJPGL99A3EOO8ZGvnShAI",
-            "release_date": "2022-07-02",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732baab8e843ad6419368ffd80",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7dadhbl044I5VImuYGBzuv",
           "count": 2,
           "details": {
@@ -2165,6 +2151,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2739a840c78ba075f7d36ed1ed5",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "1bJPGL99A3EOO8ZGvnShAI",
+          "count": 2,
+          "details": {
+            "name": "Makeinu",
+            "id": "1bJPGL99A3EOO8ZGvnShAI",
+            "release_date": "2022-07-02",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732baab8e843ad6419368ffd80",
               "width": 640
             }
           }
@@ -2820,19 +2820,19 @@
           }
         },
         {
-          "_id": "09bfsJNaKxdLPpxiX1kfwZ",
-          "count": 1,
-          "details": {
-            "name": "\u9999\u690e\u30e2\u30a4\u30df",
-            "id": "09bfsJNaKxdLPpxiX1kfwZ"
-          }
-        },
-        {
           "_id": "2JVKMrMR8PZohnjTIhY3Ks",
           "count": 1,
           "details": {
             "name": "Yunosuke",
             "id": "2JVKMrMR8PZohnjTIhY3Ks"
+          }
+        },
+        {
+          "_id": "09bfsJNaKxdLPpxiX1kfwZ",
+          "count": 1,
+          "details": {
+            "name": "\u9999\u690e\u30e2\u30a4\u30df",
+            "id": "09bfsJNaKxdLPpxiX1kfwZ"
           }
         },
         {
@@ -5080,44 +5080,6 @@
           }
         },
         {
-          "_id": "0gLr0HQFcSFULYvClS1Abf",
-          "count": 1,
-          "details": {
-            "id": "0gLr0HQFcSFULYvClS1Abf",
-            "progress": 1.8152559575963148,
-            "duration_ms": 230546,
-            "playing": true,
-            "name": "\u5168\u529b\u2606Summer!/\u30a2\u30db\u30ac\u30fc\u30eb",
-            "preview_url": "https://p.scdn.co/mp3-preview/a9517bedef06b94e48296558d3c9314e50df1954?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Studio Megaane",
-                "id": "1dLWNgNNvEstf1fRaOSU6b"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/333O6HhFDxy1OPwcu2Uqv9"
-              },
-              "href": "https://api.spotify.com/v1/albums/333O6HhFDxy1OPwcu2Uqv9",
-              "type": "album",
-              "uri": "spotify:album:333O6HhFDxy1OPwcu2Uqv9"
-            },
-            "album": {
-              "name": "2010's\u30a2\u30cb\u30e18bit vol.06",
-              "id": "333O6HhFDxy1OPwcu2Uqv9",
-              "release_date": "2019-07-12",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27363e643b3f01373597404fd15",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1723130732030
-          }
-        },
-        {
           "_id": "65DUeMw4riBUibAjktAnZD",
           "count": 1,
           "details": {
@@ -5165,6 +5127,44 @@
             },
             "success": true,
             "time": 1723075635865
+          }
+        },
+        {
+          "_id": "0gLr0HQFcSFULYvClS1Abf",
+          "count": 1,
+          "details": {
+            "id": "0gLr0HQFcSFULYvClS1Abf",
+            "progress": 1.8152559575963148,
+            "duration_ms": 230546,
+            "playing": true,
+            "name": "\u5168\u529b\u2606Summer!/\u30a2\u30db\u30ac\u30fc\u30eb",
+            "preview_url": "https://p.scdn.co/mp3-preview/a9517bedef06b94e48296558d3c9314e50df1954?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Studio Megaane",
+                "id": "1dLWNgNNvEstf1fRaOSU6b"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/333O6HhFDxy1OPwcu2Uqv9"
+              },
+              "href": "https://api.spotify.com/v1/albums/333O6HhFDxy1OPwcu2Uqv9",
+              "type": "album",
+              "uri": "spotify:album:333O6HhFDxy1OPwcu2Uqv9"
+            },
+            "album": {
+              "name": "2010's\u30a2\u30cb\u30e18bit vol.06",
+              "id": "333O6HhFDxy1OPwcu2Uqv9",
+              "release_date": "2019-07-12",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27363e643b3f01373597404fd15",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1723130732030
           }
         },
         {
@@ -5708,44 +5708,6 @@
           }
         },
         {
-          "_id": "53Uy2m8yielFV4bkGBybhZ",
-          "count": 1,
-          "details": {
-            "id": "53Uy2m8yielFV4bkGBybhZ",
-            "progress": 99.22443168457372,
-            "duration_ms": 233893,
-            "playing": true,
-            "name": "\u5168\u529b\u2606Summer!",
-            "preview_url": "https://p.scdn.co/mp3-preview/e31cfa09b3c3133c4482ffffff55aaa991267b26?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "angela",
-                "id": "2M1CLA7j3jwJNs1s90nzdL"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/7J912LJZvfnljtxFnHHo8f"
-              },
-              "href": "https://api.spotify.com/v1/albums/7J912LJZvfnljtxFnHHo8f",
-              "type": "album",
-              "uri": "spotify:album:7J912LJZvfnljtxFnHHo8f"
-            },
-            "album": {
-              "name": "Beyond",
-              "id": "7J912LJZvfnljtxFnHHo8f",
-              "release_date": "2017-12-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c19ab45ebe6bf64b2faf2324",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1723130754070
-          }
-        },
-        {
           "_id": "1lqV561QVNyDvpuiFjin8M",
           "count": 1,
           "details": {
@@ -5785,6 +5747,44 @@
             },
             "success": true,
             "time": 1723129910176
+          }
+        },
+        {
+          "_id": "53Uy2m8yielFV4bkGBybhZ",
+          "count": 1,
+          "details": {
+            "id": "53Uy2m8yielFV4bkGBybhZ",
+            "progress": 99.22443168457372,
+            "duration_ms": 233893,
+            "playing": true,
+            "name": "\u5168\u529b\u2606Summer!",
+            "preview_url": "https://p.scdn.co/mp3-preview/e31cfa09b3c3133c4482ffffff55aaa991267b26?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "angela",
+                "id": "2M1CLA7j3jwJNs1s90nzdL"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/7J912LJZvfnljtxFnHHo8f"
+              },
+              "href": "https://api.spotify.com/v1/albums/7J912LJZvfnljtxFnHHo8f",
+              "type": "album",
+              "uri": "spotify:album:7J912LJZvfnljtxFnHHo8f"
+            },
+            "album": {
+              "name": "Beyond",
+              "id": "7J912LJZvfnljtxFnHHo8f",
+              "release_date": "2017-12-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c19ab45ebe6bf64b2faf2324",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1723130754070
           }
         },
         {
@@ -6254,20 +6254,6 @@
           }
         },
         {
-          "_id": "0ywEDPSaZILN2h2FCCk1rr",
-          "count": 1,
-          "details": {
-            "name": "\u899a\u9192\u30d2\u30b9\u30c8\u30ea\u30a2(\u88cf\u4e16\u754c ver.)",
-            "id": "0ywEDPSaZILN2h2FCCk1rr",
-            "release_date": "2022-04-23",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273664bc5d7e4e1014aa8ba5cf9",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "1Ev6ESbAlszzgJQvtsyzEL",
           "count": 1,
           "details": {
@@ -6291,6 +6277,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2734372902cde27bc15c49ac9e7",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0ywEDPSaZILN2h2FCCk1rr",
+          "count": 1,
+          "details": {
+            "name": "\u899a\u9192\u30d2\u30b9\u30c8\u30ea\u30a2(\u88cf\u4e16\u754c ver.)",
+            "id": "0ywEDPSaZILN2h2FCCk1rr",
+            "release_date": "2022-04-23",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273664bc5d7e4e1014aa8ba5cf9",
               "width": 640
             }
           }
@@ -6380,20 +6380,6 @@
           }
         },
         {
-          "_id": "2Hcqkag1iqVc1wAuoIC4gG",
-          "count": 1,
-          "details": {
-            "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
-            "id": "2Hcqkag1iqVc1wAuoIC4gG",
-            "release_date": "2024-07-08",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27336048a0c0f6c364e7e931988",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "1Gi6ij4Jxc4qE35i3I0gqS",
           "count": 1,
           "details": {
@@ -6403,6 +6389,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "2Hcqkag1iqVc1wAuoIC4gG",
+          "count": 1,
+          "details": {
+            "name": "\u30b7\u30ab\u8272\u30c7\u30a4\u30ba",
+            "id": "2Hcqkag1iqVc1wAuoIC4gG",
+            "release_date": "2024-07-08",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27336048a0c0f6c364e7e931988",
               "width": 640
             }
           }
@@ -7010,6 +7010,14 @@
           }
         },
         {
+          "_id": "2WEdpSG62DEFsMhN4iw5P1",
+          "count": 1,
+          "details": {
+            "name": "V.W.P",
+            "id": "2WEdpSG62DEFsMhN4iw5P1"
+          }
+        },
+        {
           "_id": "4m8EQCzawO944K6vdFpxs0",
           "count": 1,
           "details": {
@@ -7023,14 +7031,6 @@
           "details": {
             "name": "LiSA",
             "id": "0blbVefuxOGltDBa00dspv"
-          }
-        },
-        {
-          "_id": "2WEdpSG62DEFsMhN4iw5P1",
-          "count": 1,
-          "details": {
-            "name": "V.W.P",
-            "id": "2WEdpSG62DEFsMhN4iw5P1"
           }
         },
         {
