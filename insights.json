@@ -1,5 +1,5 @@
 {
-  "updated_at": 1726320902,
+  "updated_at": 1726321201,
   "data": {
     "today": {
       "top_songs": [],
@@ -88,20 +88,6 @@
       ],
       "top_albums": [
         {
-          "_id": "7d4ruxnSzZwJNn4txVARK4",
-          "count": 1,
-          "details": {
-            "name": "\u6182\u3001\u71e6\u3005",
-            "id": "7d4ruxnSzZwJNn4txVARK4",
-            "release_date": "2024-08-28",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27332379128787e67577ca637f2",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "4F0wllHkkEl3OQni3SA2PR",
           "count": 1,
           "details": {
@@ -114,23 +100,37 @@
               "width": 640
             }
           }
+        },
+        {
+          "_id": "7d4ruxnSzZwJNn4txVARK4",
+          "count": 1,
+          "details": {
+            "name": "\u6182\u3001\u71e6\u3005",
+            "id": "7d4ruxnSzZwJNn4txVARK4",
+            "release_date": "2024-08-28",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27332379128787e67577ca637f2",
+              "width": 640
+            }
+          }
         }
       ],
       "top_artists": [
-        {
-          "_id": "4UK2Lzi6fBfUi9rpDt6cik",
-          "count": 1,
-          "details": {
-            "name": "\u30e8\u30eb\u30b7\u30ab",
-            "id": "4UK2Lzi6fBfUi9rpDt6cik"
-          }
-        },
         {
           "_id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
           "count": 1,
           "details": {
             "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
             "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+          }
+        },
+        {
+          "_id": "4UK2Lzi6fBfUi9rpDt6cik",
+          "count": 1,
+          "details": {
+            "name": "\u30e8\u30eb\u30b7\u30ab",
+            "id": "4UK2Lzi6fBfUi9rpDt6cik"
           }
         }
       ],
@@ -912,44 +912,6 @@
           }
         },
         {
-          "_id": "2PZR7FcWfSTlXr5lQgVZKd",
-          "count": 1,
-          "details": {
-            "id": "2PZR7FcWfSTlXr5lQgVZKd",
-            "progress": 99.3340425531915,
-            "duration_ms": 94000,
-            "playing": true,
-            "name": "\u590f\u9670\u3001\u30d4\u30a2\u30ce\u3092\u5f3e\u304f",
-            "preview_url": "https://p.scdn.co/mp3-preview/cde8d0e1a80c315b92475de79995dd67f23c5bd8?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u30e8\u30eb\u30b7\u30ab",
-                "id": "4UK2Lzi6fBfUi9rpDt6cik"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
-              },
-              "href": "https://api.spotify.com/v1/albums/4b9nOSXSf1LROzgfYFxdxI",
-              "type": "album",
-              "uri": "spotify:album:4b9nOSXSf1LROzgfYFxdxI"
-            },
-            "album": {
-              "name": "\u590f\u8349\u304c\u90aa\u9b54\u3092\u3059\u308b",
-              "id": "3o5yzVy1ZXMfyATfj9OjbV",
-              "release_date": "2017-06-28",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27318b1145d9883e5b140151fa9",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1723737925497
-          }
-        },
-        {
           "_id": "6N5JFGXQsrIfkQBbhg2EO7",
           "count": 1,
           "details": {
@@ -985,6 +947,44 @@
             },
             "success": true,
             "time": 1723731891817
+          }
+        },
+        {
+          "_id": "2PZR7FcWfSTlXr5lQgVZKd",
+          "count": 1,
+          "details": {
+            "id": "2PZR7FcWfSTlXr5lQgVZKd",
+            "progress": 99.3340425531915,
+            "duration_ms": 94000,
+            "playing": true,
+            "name": "\u590f\u9670\u3001\u30d4\u30a2\u30ce\u3092\u5f3e\u304f",
+            "preview_url": "https://p.scdn.co/mp3-preview/cde8d0e1a80c315b92475de79995dd67f23c5bd8?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30e8\u30eb\u30b7\u30ab",
+                "id": "4UK2Lzi6fBfUi9rpDt6cik"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4b9nOSXSf1LROzgfYFxdxI"
+              },
+              "href": "https://api.spotify.com/v1/albums/4b9nOSXSf1LROzgfYFxdxI",
+              "type": "album",
+              "uri": "spotify:album:4b9nOSXSf1LROzgfYFxdxI"
+            },
+            "album": {
+              "name": "\u590f\u8349\u304c\u90aa\u9b54\u3092\u3059\u308b",
+              "id": "3o5yzVy1ZXMfyATfj9OjbV",
+              "release_date": "2017-06-28",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27318b1145d9883e5b140151fa9",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1723737925497
           }
         },
         {
@@ -5964,20 +5964,6 @@
           }
         },
         {
-          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
-          "count": 1,
-          "details": {
-            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
-            "id": "5hdH3H4sjF4OoGsTyzPTLI",
-            "release_date": "2024-07-10",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "0SlZ8UoV2wgNqDZNMTpgD0",
           "count": 1,
           "details": {
@@ -5987,6 +5973,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2733bcd755a5992996b85aaa3b6",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
+          "count": 1,
+          "details": {
+            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
+            "id": "5hdH3H4sjF4OoGsTyzPTLI",
+            "release_date": "2024-07-10",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95",
               "width": 640
             }
           }
@@ -6020,20 +6020,6 @@
           }
         },
         {
-          "_id": "0aYunc3nelpAKlZbf8MYDB",
-          "count": 1,
-          "details": {
-            "name": "Remindful.One",
-            "id": "0aYunc3nelpAKlZbf8MYDB",
-            "release_date": "2022-01-25",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f768912e6775efdcf712dcce",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "4qvW52ziWHJyKchMGOyJgZ",
           "count": 1,
           "details": {
@@ -6043,6 +6029,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2734efbd3d3f7c96945d6527062",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0aYunc3nelpAKlZbf8MYDB",
+          "count": 1,
+          "details": {
+            "name": "Remindful.One",
+            "id": "0aYunc3nelpAKlZbf8MYDB",
+            "release_date": "2022-01-25",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f768912e6775efdcf712dcce",
               "width": 640
             }
           }
@@ -6230,15 +6230,15 @@
           }
         },
         {
-          "_id": "2DWUI5SnZmQfKM5NeUgpbx",
+          "_id": "0qcgUHCCNHbkv1Ej6yySyt",
           "count": 1,
           "details": {
-            "name": "Hachigatsu no Hotaru",
-            "id": "2DWUI5SnZmQfKM5NeUgpbx",
-            "release_date": "2021-08-28",
+            "name": "\u5f7c\u306f\u304d\u3063\u3068\u9b54\u6cd5\u3092\u4f7f\u3046\u3002",
+            "id": "0qcgUHCCNHbkv1Ej6yySyt",
+            "release_date": "2017-11-02",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2733997cbd5106814876bd88db8",
+              "url": "https://i.scdn.co/image/ab67616d0000b273fc82ab470776e6f723e6c487",
               "width": 640
             }
           }
@@ -6258,15 +6258,15 @@
           }
         },
         {
-          "_id": "0qcgUHCCNHbkv1Ej6yySyt",
+          "_id": "2DWUI5SnZmQfKM5NeUgpbx",
           "count": 1,
           "details": {
-            "name": "\u5f7c\u306f\u304d\u3063\u3068\u9b54\u6cd5\u3092\u4f7f\u3046\u3002",
-            "id": "0qcgUHCCNHbkv1Ej6yySyt",
-            "release_date": "2017-11-02",
+            "name": "Hachigatsu no Hotaru",
+            "id": "2DWUI5SnZmQfKM5NeUgpbx",
+            "release_date": "2021-08-28",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273fc82ab470776e6f723e6c487",
+              "url": "https://i.scdn.co/image/ab67616d0000b2733997cbd5106814876bd88db8",
               "width": 640
             }
           }
@@ -6942,6 +6942,14 @@
           }
         },
         {
+          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
+          "count": 3,
+          "details": {
+            "name": "Empty old City",
+            "id": "3RvUqTyR1WwQzNaGuBKnCY"
+          }
+        },
+        {
           "_id": "5XaBNKQo65yYcjNA8wQPOk",
           "count": 3,
           "details": {
@@ -6955,14 +6963,6 @@
           "details": {
             "name": "\u6700\u7d42\u5b9a\u7406\u8ad6\u8005",
             "id": "17cHGQw4BZUHgmKQNHNJ8P"
-          }
-        },
-        {
-          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
-          "count": 3,
-          "details": {
-            "name": "Empty old City",
-            "id": "3RvUqTyR1WwQzNaGuBKnCY"
           }
         },
         {
@@ -7038,14 +7038,6 @@
           }
         },
         {
-          "_id": "7ui2RoF4OYUgPGX937n5xQ",
-          "count": 1,
-          "details": {
-            "name": "sana",
-            "id": "7ui2RoF4OYUgPGX937n5xQ"
-          }
-        },
-        {
           "_id": "0m7tILDYjOZCFFVVGmI3io",
           "count": 1,
           "details": {
@@ -7078,6 +7070,14 @@
           }
         },
         {
+          "_id": "7EuEZrjIoRurVFLtItafTA",
+          "count": 1,
+          "details": {
+            "name": "MIMI",
+            "id": "7EuEZrjIoRurVFLtItafTA"
+          }
+        },
+        {
           "_id": "52I9qA4Wh7DflQ92nnTBMs",
           "count": 1,
           "details": {
@@ -7091,14 +7091,6 @@
           "details": {
             "name": "maeshima soshi",
             "id": "4O49GHbECmNppFvzK0WZXf"
-          }
-        },
-        {
-          "_id": "7EuEZrjIoRurVFLtItafTA",
-          "count": 1,
-          "details": {
-            "name": "MIMI",
-            "id": "7EuEZrjIoRurVFLtItafTA"
           }
         },
         {
@@ -7350,19 +7342,19 @@
           }
         },
         {
-          "_id": "7Hp9RSUkMHy49iK72d2Van",
-          "count": 1,
-          "details": {
-            "name": "Islet",
-            "id": "7Hp9RSUkMHy49iK72d2Van"
-          }
-        },
-        {
           "_id": "4dYXHUOE8nJFuJvYtykTuk",
           "count": 1,
           "details": {
             "name": "\u5357\u96f2\u3086\u3046\u304d",
             "id": "4dYXHUOE8nJFuJvYtykTuk"
+          }
+        },
+        {
+          "_id": "7Hp9RSUkMHy49iK72d2Van",
+          "count": 1,
+          "details": {
+            "name": "Islet",
+            "id": "7Hp9RSUkMHy49iK72d2Van"
           }
         },
         {
@@ -7419,6 +7411,14 @@
           "details": {
             "name": "\u53ef\u4e0d",
             "id": "3VxmIoSoAMfL0xAAQ7jHqE"
+          }
+        },
+        {
+          "_id": "7ui2RoF4OYUgPGX937n5xQ",
+          "count": 1,
+          "details": {
+            "name": "sana",
+            "id": "7ui2RoF4OYUgPGX937n5xQ"
           }
         },
         {
