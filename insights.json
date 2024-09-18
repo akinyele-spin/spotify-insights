@@ -1,5 +1,5 @@
 {
-  "updated_at": 1726638601,
+  "updated_at": 1726638901,
   "data": {
     "today": {
       "top_songs": [],
@@ -2616,6 +2616,44 @@
           }
         },
         {
+          "_id": "7sYZ6OMUVki0Mi1yxCgRgQ",
+          "count": 1,
+          "details": {
+            "id": "7sYZ6OMUVki0Mi1yxCgRgQ",
+            "progress": 100,
+            "duration_ms": 263243,
+            "playing": true,
+            "name": "\u767d\u663c\u5922",
+            "preview_url": "https://p.scdn.co/mp3-preview/2d1a8f3ace62d3f3499043d159e0e850f9b84114?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u5e78\u795c",
+                "id": "1oM8EdalXNF4uSK5k2dzLh"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/1GDzE0TWO5XvWYbI9fSsCz"
+              },
+              "href": "https://api.spotify.com/v1/albums/1GDzE0TWO5XvWYbI9fSsCz",
+              "type": "album",
+              "uri": "spotify:album:1GDzE0TWO5XvWYbI9fSsCz"
+            },
+            "album": {
+              "name": "prayer",
+              "id": "2W4yw8i2Qa4D5yDjM1hMlB",
+              "release_date": "2022-02-26",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e6d293ba8dec92bcd42100b5",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1726585474723
+          }
+        },
+        {
           "_id": "28PCjIXE4NJWDIqpRsD3rl",
           "count": 1,
           "details": {
@@ -2655,44 +2693,6 @@
             },
             "success": true,
             "time": 1726576324457
-          }
-        },
-        {
-          "_id": "7sYZ6OMUVki0Mi1yxCgRgQ",
-          "count": 1,
-          "details": {
-            "id": "7sYZ6OMUVki0Mi1yxCgRgQ",
-            "progress": 100,
-            "duration_ms": 263243,
-            "playing": true,
-            "name": "\u767d\u663c\u5922",
-            "preview_url": "https://p.scdn.co/mp3-preview/2d1a8f3ace62d3f3499043d159e0e850f9b84114?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u5e78\u795c",
-                "id": "1oM8EdalXNF4uSK5k2dzLh"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/1GDzE0TWO5XvWYbI9fSsCz"
-              },
-              "href": "https://api.spotify.com/v1/albums/1GDzE0TWO5XvWYbI9fSsCz",
-              "type": "album",
-              "uri": "spotify:album:1GDzE0TWO5XvWYbI9fSsCz"
-            },
-            "album": {
-              "name": "prayer",
-              "id": "2W4yw8i2Qa4D5yDjM1hMlB",
-              "release_date": "2022-02-26",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e6d293ba8dec92bcd42100b5",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1726585474723
           }
         },
         {
@@ -4946,20 +4946,6 @@
           }
         },
         {
-          "_id": "4tcS5P4yGy7GoIqJsLezyZ",
-          "count": 1,
-          "details": {
-            "name": "Command of the Shepherd",
-            "id": "4tcS5P4yGy7GoIqJsLezyZ",
-            "release_date": "2023-07-05",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273dcc08a0d60b2ee3ceb4f886d",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "6PK9xfCH4dF0BxzFSbH2NQ",
           "count": 1,
           "details": {
@@ -4969,6 +4955,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2737268e03789db08b537d97ce4",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4tcS5P4yGy7GoIqJsLezyZ",
+          "count": 1,
+          "details": {
+            "name": "Command of the Shepherd",
+            "id": "4tcS5P4yGy7GoIqJsLezyZ",
+            "release_date": "2023-07-05",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273dcc08a0d60b2ee3ceb4f886d",
               "width": 640
             }
           }
@@ -5138,19 +5138,19 @@
           }
         },
         {
-          "_id": "0xFS8oBdlugpwYgW8dxoQm",
-          "count": 2,
-          "details": {
-            "name": "RuLu",
-            "id": "0xFS8oBdlugpwYgW8dxoQm"
-          }
-        },
-        {
           "_id": "22geWzdiGIPezlnNgoifJM",
           "count": 2,
           "details": {
             "name": "niKu",
             "id": "22geWzdiGIPezlnNgoifJM"
+          }
+        },
+        {
+          "_id": "0xFS8oBdlugpwYgW8dxoQm",
+          "count": 2,
+          "details": {
+            "name": "RuLu",
+            "id": "0xFS8oBdlugpwYgW8dxoQm"
           }
         },
         {
@@ -5186,11 +5186,11 @@
           }
         },
         {
-          "_id": "4kpQdAU7yPjqtiJsFcBTBb",
+          "_id": "64tJ2EAv1R6UaZqc4iOCyj",
           "count": 1,
           "details": {
-            "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-            "id": "4kpQdAU7yPjqtiJsFcBTBb"
+            "name": "YOASOBI",
+            "id": "64tJ2EAv1R6UaZqc4iOCyj"
           }
         },
         {
@@ -5202,19 +5202,19 @@
           }
         },
         {
+          "_id": "4kpQdAU7yPjqtiJsFcBTBb",
+          "count": 1,
+          "details": {
+            "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+            "id": "4kpQdAU7yPjqtiJsFcBTBb"
+          }
+        },
+        {
           "_id": "74KM79TiuVKeVCqs8QtB0B",
           "count": 1,
           "details": {
             "name": "Sabrina Carpenter",
             "id": "74KM79TiuVKeVCqs8QtB0B"
-          }
-        },
-        {
-          "_id": "2IUl3m1H1EQ7QfNbNWvgru",
-          "count": 1,
-          "details": {
-            "name": "Vaundy",
-            "id": "2IUl3m1H1EQ7QfNbNWvgru"
           }
         },
         {
@@ -5234,11 +5234,11 @@
           }
         },
         {
-          "_id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "_id": "2IUl3m1H1EQ7QfNbNWvgru",
           "count": 1,
           "details": {
-            "name": "Selena Gomez",
-            "id": "0C8ZW7ezQVs4URX5aX7Kqx"
+            "name": "Vaundy",
+            "id": "2IUl3m1H1EQ7QfNbNWvgru"
           }
         },
         {
@@ -5250,19 +5250,11 @@
           }
         },
         {
-          "_id": "46pWGuE3dSwY3bMMXGBvVS",
+          "_id": "0C8ZW7ezQVs4URX5aX7Kqx",
           "count": 1,
           "details": {
-            "name": "Rema",
-            "id": "46pWGuE3dSwY3bMMXGBvVS"
-          }
-        },
-        {
-          "_id": "23rpDPnKdY96j4smcpPTJT",
-          "count": 1,
-          "details": {
-            "name": "EMA",
-            "id": "23rpDPnKdY96j4smcpPTJT"
+            "name": "Selena Gomez",
+            "id": "0C8ZW7ezQVs4URX5aX7Kqx"
           }
         },
         {
@@ -5274,11 +5266,19 @@
           }
         },
         {
-          "_id": "5M2uaIVdMM9FiHRHaC1uf8",
+          "_id": "23rpDPnKdY96j4smcpPTJT",
           "count": 1,
           "details": {
-            "name": "\u5b89\u5b85\u79c0\u7d00",
-            "id": "5M2uaIVdMM9FiHRHaC1uf8"
+            "name": "EMA",
+            "id": "23rpDPnKdY96j4smcpPTJT"
+          }
+        },
+        {
+          "_id": "46pWGuE3dSwY3bMMXGBvVS",
+          "count": 1,
+          "details": {
+            "name": "Rema",
+            "id": "46pWGuE3dSwY3bMMXGBvVS"
           }
         },
         {
@@ -5290,19 +5290,19 @@
           }
         },
         {
+          "_id": "5M2uaIVdMM9FiHRHaC1uf8",
+          "count": 1,
+          "details": {
+            "name": "\u5b89\u5b85\u79c0\u7d00",
+            "id": "5M2uaIVdMM9FiHRHaC1uf8"
+          }
+        },
+        {
           "_id": "4TaSvnT5o4REFwhqfrmK27",
           "count": 1,
           "details": {
             "name": "imase",
             "id": "4TaSvnT5o4REFwhqfrmK27"
-          }
-        },
-        {
-          "_id": "38XISC5BMSTkAuKwniV2AS",
-          "count": 1,
-          "details": {
-            "name": "PAS TASTA",
-            "id": "38XISC5BMSTkAuKwniV2AS"
           }
         },
         {
@@ -5314,19 +5314,27 @@
           }
         },
         {
-          "_id": "1tgZVOBOut0nS8CJ5SIBh5",
-          "count": 1,
-          "details": {
-            "name": "Peterparker69",
-            "id": "1tgZVOBOut0nS8CJ5SIBh5"
-          }
-        },
-        {
           "_id": "3PRXdiVu8lUkeCKw4ZUX4B",
           "count": 1,
           "details": {
             "name": "NOMELON NOLEMON",
             "id": "3PRXdiVu8lUkeCKw4ZUX4B"
+          }
+        },
+        {
+          "_id": "38XISC5BMSTkAuKwniV2AS",
+          "count": 1,
+          "details": {
+            "name": "PAS TASTA",
+            "id": "38XISC5BMSTkAuKwniV2AS"
+          }
+        },
+        {
+          "_id": "1tgZVOBOut0nS8CJ5SIBh5",
+          "count": 1,
+          "details": {
+            "name": "Peterparker69",
+            "id": "1tgZVOBOut0nS8CJ5SIBh5"
           }
         },
         {
@@ -5346,27 +5354,19 @@
           }
         },
         {
-          "_id": "2iydjGtDnXejF2L1pgsBB8",
-          "count": 1,
-          "details": {
-            "name": "\u6893\u5ddd",
-            "id": "2iydjGtDnXejF2L1pgsBB8"
-          }
-        },
-        {
-          "_id": "3KmCINU8gQW3tSxbHeyoFG",
-          "count": 1,
-          "details": {
-            "name": "\u72d0\u5b50",
-            "id": "3KmCINU8gQW3tSxbHeyoFG"
-          }
-        },
-        {
           "_id": "2OuUcJNsgssBrQJm3idpeM",
           "count": 1,
           "details": {
             "name": "#KT\u3061\u3083\u3093",
             "id": "2OuUcJNsgssBrQJm3idpeM"
+          }
+        },
+        {
+          "_id": "2iydjGtDnXejF2L1pgsBB8",
+          "count": 1,
+          "details": {
+            "name": "\u6893\u5ddd",
+            "id": "2iydjGtDnXejF2L1pgsBB8"
           }
         },
         {
@@ -5378,14 +5378,6 @@
           }
         },
         {
-          "_id": "6Rs4z6XgltEI01UlDlu98B",
-          "count": 1,
-          "details": {
-            "name": "DUSTCELL",
-            "id": "6Rs4z6XgltEI01UlDlu98B"
-          }
-        },
-        {
           "_id": "4OfU76YhPU04wlmbVFFgTJ",
           "count": 1,
           "details": {
@@ -5394,11 +5386,11 @@
           }
         },
         {
-          "_id": "4os0GkCkfwC8HUjKn7wULI",
+          "_id": "6Rs4z6XgltEI01UlDlu98B",
           "count": 1,
           "details": {
-            "name": "Shully",
-            "id": "4os0GkCkfwC8HUjKn7wULI"
+            "name": "DUSTCELL",
+            "id": "6Rs4z6XgltEI01UlDlu98B"
           }
         },
         {
@@ -5410,19 +5402,27 @@
           }
         },
         {
-          "_id": "64tJ2EAv1R6UaZqc4iOCyj",
-          "count": 1,
-          "details": {
-            "name": "YOASOBI",
-            "id": "64tJ2EAv1R6UaZqc4iOCyj"
-          }
-        },
-        {
           "_id": "2WovLuHff62YLJEGlqqP0L",
           "count": 1,
           "details": {
             "name": "\u5e73\u7530\u7fa9\u4e45",
             "id": "2WovLuHff62YLJEGlqqP0L"
+          }
+        },
+        {
+          "_id": "4os0GkCkfwC8HUjKn7wULI",
+          "count": 1,
+          "details": {
+            "name": "Shully",
+            "id": "4os0GkCkfwC8HUjKn7wULI"
+          }
+        },
+        {
+          "_id": "3KmCINU8gQW3tSxbHeyoFG",
+          "count": 1,
+          "details": {
+            "name": "\u72d0\u5b50",
+            "id": "3KmCINU8gQW3tSxbHeyoFG"
           }
         }
       ],
@@ -11497,29 +11497,29 @@
           }
         },
         {
-          "_id": "7k0LtPTaYiY8BFLXqsHrjC",
+          "_id": "4SYWNHaofbcYei6BKKcOc3",
           "count": 1,
           "details": {
-            "name": "Good Life",
-            "id": "7k0LtPTaYiY8BFLXqsHrjC",
-            "release_date": "2019-12-31",
+            "name": "\u30b9\u30ed\u30a6\u30ea\u30fc",
+            "id": "4SYWNHaofbcYei6BKKcOc3",
+            "release_date": "2022-05-06",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735c0d2893b03afc2c80ecf9e7",
+              "url": "https://i.scdn.co/image/ab67616d0000b2735ba6fe1e84cd66abd2948a3e",
               "width": 640
             }
           }
         },
         {
-          "_id": "6khDJU0RLPOsxLWNk8HJQs",
+          "_id": "1hxB0L2PCz5d5jQl2s39Sz",
           "count": 1,
           "details": {
-            "name": "I I I",
-            "id": "6khDJU0RLPOsxLWNk8HJQs",
-            "release_date": "2024-05-04",
+            "name": "Biri-Biri",
+            "id": "1hxB0L2PCz5d5jQl2s39Sz",
+            "release_date": "2023-11-18",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27381bffc699c75f72c1f7313aa",
+              "url": "https://i.scdn.co/image/ab67616d0000b2730b0a33ba19141e1728827991",
               "width": 640
             }
           }
@@ -11539,15 +11539,15 @@
           }
         },
         {
-          "_id": "4SYWNHaofbcYei6BKKcOc3",
+          "_id": "6khDJU0RLPOsxLWNk8HJQs",
           "count": 1,
           "details": {
-            "name": "\u30b9\u30ed\u30a6\u30ea\u30fc",
-            "id": "4SYWNHaofbcYei6BKKcOc3",
-            "release_date": "2022-05-06",
+            "name": "I I I",
+            "id": "6khDJU0RLPOsxLWNk8HJQs",
+            "release_date": "2024-05-04",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735ba6fe1e84cd66abd2948a3e",
+              "url": "https://i.scdn.co/image/ab67616d0000b27381bffc699c75f72c1f7313aa",
               "width": 640
             }
           }
@@ -11595,15 +11595,15 @@
           }
         },
         {
-          "_id": "1hxB0L2PCz5d5jQl2s39Sz",
+          "_id": "7k0LtPTaYiY8BFLXqsHrjC",
           "count": 1,
           "details": {
-            "name": "Biri-Biri",
-            "id": "1hxB0L2PCz5d5jQl2s39Sz",
-            "release_date": "2023-11-18",
+            "name": "Good Life",
+            "id": "7k0LtPTaYiY8BFLXqsHrjC",
+            "release_date": "2019-12-31",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730b0a33ba19141e1728827991",
+              "url": "https://i.scdn.co/image/ab67616d0000b2735c0d2893b03afc2c80ecf9e7",
               "width": 640
             }
           }
@@ -11931,20 +11931,6 @@
           }
         },
         {
-          "_id": "5r1QsZtbl8ok0EBaI9SAXn",
-          "count": 1,
-          "details": {
-            "name": "Nighthawk (feat. \u305f\u306a\u304b)",
-            "id": "5r1QsZtbl8ok0EBaI9SAXn",
-            "release_date": "2024-06-26",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739efa7eac0c3b4019bc4f8d4f",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "5TYShHQcZ3IpmwFec9tFmr",
           "count": 1,
           "details": {
@@ -11954,6 +11940,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27382ad3005920ab8e26f4d3802",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "5r1QsZtbl8ok0EBaI9SAXn",
+          "count": 1,
+          "details": {
+            "name": "Nighthawk (feat. \u305f\u306a\u304b)",
+            "id": "5r1QsZtbl8ok0EBaI9SAXn",
+            "release_date": "2024-06-26",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739efa7eac0c3b4019bc4f8d4f",
               "width": 640
             }
           }
@@ -12503,19 +12503,19 @@
           }
         },
         {
-          "_id": "6LesPuO1nhgJ2acJ4MjyBI",
-          "count": 1,
-          "details": {
-            "name": "\u548c\u306c\u304b",
-            "id": "6LesPuO1nhgJ2acJ4MjyBI"
-          }
-        },
-        {
           "_id": "6nqR1MdjPNXu5KSdeqJBI1",
           "count": 1,
           "details": {
             "name": "sasakure.UK",
             "id": "6nqR1MdjPNXu5KSdeqJBI1"
+          }
+        },
+        {
+          "_id": "6LesPuO1nhgJ2acJ4MjyBI",
+          "count": 1,
+          "details": {
+            "name": "\u548c\u306c\u304b",
+            "id": "6LesPuO1nhgJ2acJ4MjyBI"
           }
         },
         {
@@ -13351,44 +13351,6 @@
           }
         },
         {
-          "_id": "6ZNr7eAdsUnC0qQyc2tpy8",
-          "count": 1,
-          "details": {
-            "id": "6ZNr7eAdsUnC0qQyc2tpy8",
-            "progress": 99.12213093274552,
-            "duration_ms": 129746,
-            "playing": true,
-            "name": "Fresh Breezes of Dawn",
-            "preview_url": "https://p.scdn.co/mp3-preview/740fdf9527c01b747e7bba98069c801695444b51?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HOYO-MiX",
-                "id": "2YvlK6lKiKVjXxsjvNbnqg"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
-              },
-              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
-              "type": "album",
-              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
-            },
-            "album": {
-              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
-              "id": "2P7SmTlPHLZxnvQZOMIGyr",
-              "release_date": "2022-10-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1724032117528
-          }
-        },
-        {
           "_id": "4WZMWMAo8mBNXBzE7EYMA0",
           "count": 1,
           "details": {
@@ -13424,6 +13386,44 @@
             },
             "success": true,
             "time": 1724036673270
+          }
+        },
+        {
+          "_id": "6ZNr7eAdsUnC0qQyc2tpy8",
+          "count": 1,
+          "details": {
+            "id": "6ZNr7eAdsUnC0qQyc2tpy8",
+            "progress": 99.12213093274552,
+            "duration_ms": 129746,
+            "playing": true,
+            "name": "Fresh Breezes of Dawn",
+            "preview_url": "https://p.scdn.co/mp3-preview/740fdf9527c01b747e7bba98069c801695444b51?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/2P7SmTlPHLZxnvQZOMIGyr"
+              },
+              "href": "https://api.spotify.com/v1/albums/2P7SmTlPHLZxnvQZOMIGyr",
+              "type": "album",
+              "uri": "spotify:album:2P7SmTlPHLZxnvQZOMIGyr"
+            },
+            "album": {
+              "name": "Genshin Impact - Forest of Jnana and Vidya (Original Game Soundtrack)",
+              "id": "2P7SmTlPHLZxnvQZOMIGyr",
+              "release_date": "2022-10-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e59900ac1e393fd453e12bae",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1724032117528
           }
         },
         {
@@ -16535,11 +16535,19 @@
           }
         },
         {
-          "_id": "2ToyjwadiLVF81P6d4POtQ",
+          "_id": "4i10xM25xPTHoaXMfVhZLh",
           "count": 1,
           "details": {
-            "name": "\u5ddd\u5cf6\u4e9c\u7f8e(\u559c\u591a\u6751\u82f1\u68a8)",
-            "id": "2ToyjwadiLVF81P6d4POtQ"
+            "name": "\u9022\u5742\u5927\u6cb3(\u91d8\u5bae\u7406\u6075)",
+            "id": "4i10xM25xPTHoaXMfVhZLh"
+          }
+        },
+        {
+          "_id": "77Qvx17FzuZhak8dkrLoFb",
+          "count": 1,
+          "details": {
+            "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
+            "id": "77Qvx17FzuZhak8dkrLoFb"
           }
         },
         {
@@ -16559,19 +16567,11 @@
           }
         },
         {
-          "_id": "77Qvx17FzuZhak8dkrLoFb",
+          "_id": "2ToyjwadiLVF81P6d4POtQ",
           "count": 1,
           "details": {
-            "name": "\u6adb\u679d\u5b9f\u4e43\u68a8(\u5800\u6c5f\u7531\u8863)",
-            "id": "77Qvx17FzuZhak8dkrLoFb"
-          }
-        },
-        {
-          "_id": "4i10xM25xPTHoaXMfVhZLh",
-          "count": 1,
-          "details": {
-            "name": "\u9022\u5742\u5927\u6cb3(\u91d8\u5bae\u7406\u6075)",
-            "id": "4i10xM25xPTHoaXMfVhZLh"
+            "name": "\u5ddd\u5cf6\u4e9c\u7f8e(\u559c\u591a\u6751\u82f1\u68a8)",
+            "id": "2ToyjwadiLVF81P6d4POtQ"
           }
         }
       ],
