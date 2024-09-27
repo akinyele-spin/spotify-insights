@@ -1,5 +1,5 @@
 {
-  "updated_at": 1727424601,
+  "updated_at": 1727424901,
   "data": {
     "today": {
       "top_songs": [],
@@ -10,15 +10,53 @@
     "yesterday": {
       "top_songs": [
         {
-          "_id": "7axM4W0TpcwfQoLtq9DTeL",
+          "_id": "3SdTKo2uVsxFblQjpScoHy",
           "count": 1,
           "details": {
-            "id": "7axM4W0TpcwfQoLtq9DTeL",
-            "progress": 100,
-            "duration_ms": 237647,
+            "id": "3SdTKo2uVsxFblQjpScoHy",
+            "progress": 30.71839160256588,
+            "duration_ms": 180055,
             "playing": true,
-            "name": "\u3084\u3055\u3057\u3044\u305b\u304b\u3044",
-            "preview_url": "https://p.scdn.co/mp3-preview/d0f52b02fdc87c95ddfcaf2756518e6f50af3cfb?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "Stand By Me",
+            "preview_url": "https://p.scdn.co/mp3-preview/88493701fe90b75e7e559ee5eefd9d7d0c272467?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Ben E. King",
+                "id": "3plJVWt88EqjvtuB4ZDRV3"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
+              },
+              "href": "https://api.spotify.com/v1/albums/18Fj7coTfyMi7mEPXIweN7",
+              "type": "album",
+              "uri": "spotify:album:18Fj7coTfyMi7mEPXIweN7"
+            },
+            "album": {
+              "name": "Don't Play That Song (Mono)",
+              "id": "18Fj7coTfyMi7mEPXIweN7",
+              "release_date": "1962-08-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1727314003663
+          }
+        },
+        {
+          "_id": "0Efg6AeuEjIyvYwbbu989i",
+          "count": 1,
+          "details": {
+            "id": "0Efg6AeuEjIyvYwbbu989i",
+            "progress": 99.95281593443005,
+            "duration_ms": 188623,
+            "playing": true,
+            "name": "\u30b8\u30aa\u30e9\u30de\u30c9\u30e9\u30de",
+            "preview_url": "https://p.scdn.co/mp3-preview/0ee4fb41903b335dd52fa5cce2b5c0d2fc9c45af?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
@@ -44,7 +82,83 @@
               }
             },
             "success": true,
-            "time": 1727373903257
+            "time": 1727373283039
+          }
+        },
+        {
+          "_id": "0tMPtR0EMDSYCwgjDdZOhp",
+          "count": 1,
+          "details": {
+            "id": "0tMPtR0EMDSYCwgjDdZOhp",
+            "progress": 99.21680343917963,
+            "duration_ms": 232381,
+            "playing": true,
+            "name": "\u30de\u30dc\u30ed\u30b7\u306e\u307e\u3061",
+            "preview_url": "https://p.scdn.co/mp3-preview/b9c61791d81a4af00997147216ce61cc3aae4261?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0IITU6eZDgvwO9F4Dk1ggM"
+              },
+              "href": "https://api.spotify.com/v1/albums/0IITU6eZDgvwO9F4Dk1ggM",
+              "type": "album",
+              "uri": "spotify:album:0IITU6eZDgvwO9F4Dk1ggM"
+            },
+            "album": {
+              "name": "\u5275\u751f",
+              "id": "0IITU6eZDgvwO9F4Dk1ggM",
+              "release_date": "2021-12-08",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1727373672395
+          }
+        },
+        {
+          "_id": "7wPcxTtiu0Wnj5V9sSeMtx",
+          "count": 1,
+          "details": {
+            "id": "7wPcxTtiu0Wnj5V9sSeMtx",
+            "progress": 100,
+            "duration_ms": 199509,
+            "playing": true,
+            "name": "\u65af\u304f\u7f8e\u3057\u304d\u9020\u82b1",
+            "preview_url": "https://p.scdn.co/mp3-preview/21e5a5f49dcae36dcb63cc107269f858e1391430?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0IITU6eZDgvwO9F4Dk1ggM"
+              },
+              "href": "https://api.spotify.com/v1/albums/0IITU6eZDgvwO9F4Dk1ggM",
+              "type": "album",
+              "uri": "spotify:album:0IITU6eZDgvwO9F4Dk1ggM"
+            },
+            "album": {
+              "name": "\u5275\u751f",
+              "id": "0IITU6eZDgvwO9F4Dk1ggM",
+              "release_date": "2021-12-08",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1727373473155
           }
         },
         {
@@ -162,15 +276,53 @@
           }
         },
         {
-          "_id": "7wPcxTtiu0Wnj5V9sSeMtx",
+          "_id": "4TAoC3ZUZB6iUu1nUa92Al",
           "count": 1,
           "details": {
-            "id": "7wPcxTtiu0Wnj5V9sSeMtx",
-            "progress": 100,
-            "duration_ms": 199509,
+            "id": "4TAoC3ZUZB6iUu1nUa92Al",
+            "progress": 99.97257136257771,
+            "duration_ms": 207812,
             "playing": true,
-            "name": "\u65af\u304f\u7f8e\u3057\u304d\u9020\u82b1",
-            "preview_url": "https://p.scdn.co/mp3-preview/21e5a5f49dcae36dcb63cc107269f858e1391430?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "Albireo",
+            "preview_url": "https://p.scdn.co/mp3-preview/f0e425d76d548b07cceed97a59c65d6ae7d7b51c?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+                "id": "4kpQdAU7yPjqtiJsFcBTBb"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Albireo",
+              "id": "3VvtwFjm7btVW5sXLD7cyf",
+              "release_date": "2024-09-04",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f6ccb29fbda0541861558a94",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1727312852374
+          }
+        },
+        {
+          "_id": "70QVATjmNONGq2Wdpx1NvF",
+          "count": 1,
+          "details": {
+            "id": "70QVATjmNONGq2Wdpx1NvF",
+            "progress": 98.28636298111576,
+            "duration_ms": 110992,
+            "playing": true,
+            "name": "\u5275\u751f(Instrumental)",
+            "preview_url": "https://p.scdn.co/mp3-preview/85778cdb73fc186532f9f84c8b773eef78cf620f?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
@@ -196,7 +348,45 @@
               }
             },
             "success": true,
-            "time": 1727373473155
+            "time": 1727372469824
+          }
+        },
+        {
+          "_id": "7axM4W0TpcwfQoLtq9DTeL",
+          "count": 1,
+          "details": {
+            "id": "7axM4W0TpcwfQoLtq9DTeL",
+            "progress": 100,
+            "duration_ms": 237647,
+            "playing": true,
+            "name": "\u3084\u3055\u3057\u3044\u305b\u304b\u3044",
+            "preview_url": "https://p.scdn.co/mp3-preview/d0f52b02fdc87c95ddfcaf2756518e6f50af3cfb?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/0IITU6eZDgvwO9F4Dk1ggM"
+              },
+              "href": "https://api.spotify.com/v1/albums/0IITU6eZDgvwO9F4Dk1ggM",
+              "type": "album",
+              "uri": "spotify:album:0IITU6eZDgvwO9F4Dk1ggM"
+            },
+            "album": {
+              "name": "\u5275\u751f",
+              "id": "0IITU6eZDgvwO9F4Dk1ggM",
+              "release_date": "2021-12-08",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1727373903257
           }
         },
         {
@@ -358,196 +548,6 @@
             "success": true,
             "time": 1727374354300
           }
-        },
-        {
-          "_id": "0Efg6AeuEjIyvYwbbu989i",
-          "count": 1,
-          "details": {
-            "id": "0Efg6AeuEjIyvYwbbu989i",
-            "progress": 99.95281593443005,
-            "duration_ms": 188623,
-            "playing": true,
-            "name": "\u30b8\u30aa\u30e9\u30de\u30c9\u30e9\u30de",
-            "preview_url": "https://p.scdn.co/mp3-preview/0ee4fb41903b335dd52fa5cce2b5c0d2fc9c45af?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/0IITU6eZDgvwO9F4Dk1ggM"
-              },
-              "href": "https://api.spotify.com/v1/albums/0IITU6eZDgvwO9F4Dk1ggM",
-              "type": "album",
-              "uri": "spotify:album:0IITU6eZDgvwO9F4Dk1ggM"
-            },
-            "album": {
-              "name": "\u5275\u751f",
-              "id": "0IITU6eZDgvwO9F4Dk1ggM",
-              "release_date": "2021-12-08",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1727373283039
-          }
-        },
-        {
-          "_id": "0tMPtR0EMDSYCwgjDdZOhp",
-          "count": 1,
-          "details": {
-            "id": "0tMPtR0EMDSYCwgjDdZOhp",
-            "progress": 99.21680343917963,
-            "duration_ms": 232381,
-            "playing": true,
-            "name": "\u30de\u30dc\u30ed\u30b7\u306e\u307e\u3061",
-            "preview_url": "https://p.scdn.co/mp3-preview/b9c61791d81a4af00997147216ce61cc3aae4261?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/0IITU6eZDgvwO9F4Dk1ggM"
-              },
-              "href": "https://api.spotify.com/v1/albums/0IITU6eZDgvwO9F4Dk1ggM",
-              "type": "album",
-              "uri": "spotify:album:0IITU6eZDgvwO9F4Dk1ggM"
-            },
-            "album": {
-              "name": "\u5275\u751f",
-              "id": "0IITU6eZDgvwO9F4Dk1ggM",
-              "release_date": "2021-12-08",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1727373672395
-          }
-        },
-        {
-          "_id": "3SdTKo2uVsxFblQjpScoHy",
-          "count": 1,
-          "details": {
-            "id": "3SdTKo2uVsxFblQjpScoHy",
-            "progress": 30.71839160256588,
-            "duration_ms": 180055,
-            "playing": true,
-            "name": "Stand By Me",
-            "preview_url": "https://p.scdn.co/mp3-preview/88493701fe90b75e7e559ee5eefd9d7d0c272467?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Ben E. King",
-                "id": "3plJVWt88EqjvtuB4ZDRV3"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
-              },
-              "href": "https://api.spotify.com/v1/albums/18Fj7coTfyMi7mEPXIweN7",
-              "type": "album",
-              "uri": "spotify:album:18Fj7coTfyMi7mEPXIweN7"
-            },
-            "album": {
-              "name": "Don't Play That Song (Mono)",
-              "id": "18Fj7coTfyMi7mEPXIweN7",
-              "release_date": "1962-08-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1727314003663
-          }
-        },
-        {
-          "_id": "4TAoC3ZUZB6iUu1nUa92Al",
-          "count": 1,
-          "details": {
-            "id": "4TAoC3ZUZB6iUu1nUa92Al",
-            "progress": 99.97257136257771,
-            "duration_ms": 207812,
-            "playing": true,
-            "name": "Albireo",
-            "preview_url": "https://p.scdn.co/mp3-preview/f0e425d76d548b07cceed97a59c65d6ae7d7b51c?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-                "id": "4kpQdAU7yPjqtiJsFcBTBb"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Albireo",
-              "id": "3VvtwFjm7btVW5sXLD7cyf",
-              "release_date": "2024-09-04",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f6ccb29fbda0541861558a94",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1727312852374
-          }
-        },
-        {
-          "_id": "70QVATjmNONGq2Wdpx1NvF",
-          "count": 1,
-          "details": {
-            "id": "70QVATjmNONGq2Wdpx1NvF",
-            "progress": 98.28636298111576,
-            "duration_ms": 110992,
-            "playing": true,
-            "name": "\u5275\u751f(Instrumental)",
-            "preview_url": "https://p.scdn.co/mp3-preview/85778cdb73fc186532f9f84c8b773eef78cf620f?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/0IITU6eZDgvwO9F4Dk1ggM"
-              },
-              "href": "https://api.spotify.com/v1/albums/0IITU6eZDgvwO9F4Dk1ggM",
-              "type": "album",
-              "uri": "spotify:album:0IITU6eZDgvwO9F4Dk1ggM"
-            },
-            "album": {
-              "name": "\u5275\u751f",
-              "id": "0IITU6eZDgvwO9F4Dk1ggM",
-              "release_date": "2021-12-08",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1727372469824
-          }
         }
       ],
       "top_albums": [
@@ -566,15 +566,15 @@
           }
         },
         {
-          "_id": "3VvtwFjm7btVW5sXLD7cyf",
+          "_id": "18Fj7coTfyMi7mEPXIweN7",
           "count": 1,
           "details": {
-            "name": "Albireo",
-            "id": "3VvtwFjm7btVW5sXLD7cyf",
-            "release_date": "2024-09-04",
+            "name": "Don't Play That Song (Mono)",
+            "id": "18Fj7coTfyMi7mEPXIweN7",
+            "release_date": "1962-08-20",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f6ccb29fbda0541861558a94",
+              "url": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
               "width": 640
             }
           }
@@ -594,15 +594,15 @@
           }
         },
         {
-          "_id": "18Fj7coTfyMi7mEPXIweN7",
+          "_id": "3VvtwFjm7btVW5sXLD7cyf",
           "count": 1,
           "details": {
-            "name": "Don't Play That Song (Mono)",
-            "id": "18Fj7coTfyMi7mEPXIweN7",
-            "release_date": "1962-08-20",
+            "name": "Albireo",
+            "id": "3VvtwFjm7btVW5sXLD7cyf",
+            "release_date": "2024-09-04",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731813ea8f590a0aab2820f922",
+              "url": "https://i.scdn.co/image/ab67616d0000b273f6ccb29fbda0541861558a94",
               "width": 640
             }
           }
@@ -632,6 +632,22 @@
           }
         },
         {
+          "_id": "4kpQdAU7yPjqtiJsFcBTBb",
+          "count": 1,
+          "details": {
+            "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+            "id": "4kpQdAU7yPjqtiJsFcBTBb"
+          }
+        },
+        {
+          "_id": "2c32JruIkUyfdycHmhIph4",
+          "count": 1,
+          "details": {
+            "name": "\u82b1\u8b5c",
+            "id": "2c32JruIkUyfdycHmhIph4"
+          }
+        },
+        {
           "_id": "39fp9WgXJxPo1pYxt96w6l",
           "count": 1,
           "details": {
@@ -653,22 +669,6 @@
           "details": {
             "name": "Ben E. King",
             "id": "3plJVWt88EqjvtuB4ZDRV3"
-          }
-        },
-        {
-          "_id": "4kpQdAU7yPjqtiJsFcBTBb",
-          "count": 1,
-          "details": {
-            "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
-            "id": "4kpQdAU7yPjqtiJsFcBTBb"
-          }
-        },
-        {
-          "_id": "2c32JruIkUyfdycHmhIph4",
-          "count": 1,
-          "details": {
-            "name": "\u82b1\u8b5c",
-            "id": "2c32JruIkUyfdycHmhIph4"
           }
         }
       ],
@@ -1528,44 +1528,6 @@
           }
         },
         {
-          "_id": "3gmn76fCtpDazGMnN0QMHX",
-          "count": 1,
-          "details": {
-            "id": "3gmn76fCtpDazGMnN0QMHX",
-            "progress": 99.95916429249763,
-            "duration_ms": 210600,
-            "playing": true,
-            "name": "NIGHT DANCER",
-            "preview_url": "https://p.scdn.co/mp3-preview/d0a9cf1664408608a9289d4a0e46138191509413?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "imase",
-                "id": "4TaSvnT5o4REFwhqfrmK27"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "POP CUBE",
-              "id": "3mlVZ7OTZgKJJAr275tHZX",
-              "release_date": "2022-11-09",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734b062591b6a5c15652dd2bb5",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1726795964925
-          }
-        },
-        {
           "_id": "7HuZ8iJZjtljKKUGVf1lKy",
           "count": 1,
           "details": {
@@ -1601,6 +1563,44 @@
             },
             "success": true,
             "time": 1726810909269
+          }
+        },
+        {
+          "_id": "3gmn76fCtpDazGMnN0QMHX",
+          "count": 1,
+          "details": {
+            "id": "3gmn76fCtpDazGMnN0QMHX",
+            "progress": 99.95916429249763,
+            "duration_ms": 210600,
+            "playing": true,
+            "name": "NIGHT DANCER",
+            "preview_url": "https://p.scdn.co/mp3-preview/d0a9cf1664408608a9289d4a0e46138191509413?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "imase",
+                "id": "4TaSvnT5o4REFwhqfrmK27"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "POP CUBE",
+              "id": "3mlVZ7OTZgKJJAr275tHZX",
+              "release_date": "2022-11-09",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734b062591b6a5c15652dd2bb5",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1726795964925
           }
         },
         {
@@ -5127,6 +5127,20 @@
           }
         },
         {
+          "_id": "3ZM5smVHohm7YEhkZuqA7v",
+          "count": 1,
+          "details": {
+            "name": "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8",
+            "id": "3ZM5smVHohm7YEhkZuqA7v",
+            "release_date": "2024-07-13",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa3f2562c06d20f70775bdae",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "7e50ytl8w63oodD8YLpsQy",
           "count": 1,
           "details": {
@@ -5150,20 +5164,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273e0c4007daaad3c26ce9090e9",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "3ZM5smVHohm7YEhkZuqA7v",
-          "count": 1,
-          "details": {
-            "name": "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8",
-            "id": "3ZM5smVHohm7YEhkZuqA7v",
-            "release_date": "2024-07-13",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273aa3f2562c06d20f70775bdae",
               "width": 640
             }
           }
@@ -6075,19 +6075,19 @@
           }
         },
         {
-          "_id": "5qUT9YBghleRCXg0WifEzf",
-          "count": 1,
-          "details": {
-            "name": "\u3086\u30fc\u308a",
-            "id": "5qUT9YBghleRCXg0WifEzf"
-          }
-        },
-        {
           "_id": "0pK8mn9ngXo3ITKx8bLah0",
           "count": 1,
           "details": {
             "name": "\u9b31P",
             "id": "0pK8mn9ngXo3ITKx8bLah0"
+          }
+        },
+        {
+          "_id": "5qUT9YBghleRCXg0WifEzf",
+          "count": 1,
+          "details": {
+            "name": "\u3086\u30fc\u308a",
+            "id": "5qUT9YBghleRCXg0WifEzf"
           }
         },
         {
@@ -6203,19 +6203,19 @@
           }
         },
         {
-          "_id": "69eIvKHcfYigWsgnBSv1jW",
-          "count": 1,
-          "details": {
-            "name": "MOTTO MUSIC",
-            "id": "69eIvKHcfYigWsgnBSv1jW"
-          }
-        },
-        {
           "_id": "7ctyyNnO9O2dDD8bHjkCAh",
           "count": 1,
           "details": {
             "name": "\u30c4\u30df\u30ad",
             "id": "7ctyyNnO9O2dDD8bHjkCAh"
+          }
+        },
+        {
+          "_id": "69eIvKHcfYigWsgnBSv1jW",
+          "count": 1,
+          "details": {
+            "name": "MOTTO MUSIC",
+            "id": "69eIvKHcfYigWsgnBSv1jW"
           }
         },
         {
