@@ -1,11 +1,91 @@
 {
-  "updated_at": 1728075001,
+  "updated_at": 1728075302,
   "data": {
     "today": {
-      "top_songs": [],
-      "top_albums": [],
-      "top_artists": [],
-      "total_listen_time": []
+      "top_songs": [
+        {
+          "_id": "472uIrS3p6rytyT5uahR7Q",
+          "count": 1,
+          "details": {
+            "id": "472uIrS3p6rytyT5uahR7Q",
+            "progress": 54.95191947715774,
+            "duration_ms": 186978,
+            "playing": true,
+            "name": "pinKing",
+            "preview_url": "https://p.scdn.co/mp3-preview/6f2aa5ac2d73f825ce133d3cd31ab0b4281583c6?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HOYO-MiX",
+                "id": "2YvlK6lKiKVjXxsjvNbnqg"
+              },
+              {
+                "name": "S\u0101n-Z",
+                "id": "4Ep9NXSZDTJzz6BIv24p5x"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "pinKing",
+              "id": "4mrKQhGnDZSmzb40JGFE4L",
+              "release_date": "2024-09-26",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1728075199456
+          }
+        }
+      ],
+      "top_albums": [
+        {
+          "_id": "4mrKQhGnDZSmzb40JGFE4L",
+          "count": 1,
+          "details": {
+            "name": "pinKing",
+            "id": "4mrKQhGnDZSmzb40JGFE4L",
+            "release_date": "2024-09-26",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273053491131955d059d22a97d7",
+              "width": 640
+            }
+          }
+        }
+      ],
+      "top_artists": [
+        {
+          "_id": "4Ep9NXSZDTJzz6BIv24p5x",
+          "count": 1,
+          "details": {
+            "name": "S\u0101n-Z",
+            "id": "4Ep9NXSZDTJzz6BIv24p5x"
+          }
+        },
+        {
+          "_id": "2YvlK6lKiKVjXxsjvNbnqg",
+          "count": 1,
+          "details": {
+            "name": "HOYO-MiX",
+            "id": "2YvlK6lKiKVjXxsjvNbnqg"
+          }
+        }
+      ],
+      "total_listen_time": [
+        {
+          "_id": null,
+          "listened_ms": 102748.0
+        }
+      ]
     },
     "yesterday": {
       "top_songs": [
@@ -45,6 +125,44 @@
             },
             "success": true,
             "time": 1727959651582
+          }
+        },
+        {
+          "_id": "3UdA4orLLJohU9WEGAwHUN",
+          "count": 1,
+          "details": {
+            "id": "3UdA4orLLJohU9WEGAwHUN",
+            "progress": 100,
+            "duration_ms": 235240,
+            "playing": true,
+            "name": "Sunflower",
+            "preview_url": "https://p.scdn.co/mp3-preview/778690376312d34345ca7e7cec4c6483de0cb0ea?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "HoneyComeBear",
+                "id": "18NNCsbb6T0purrSKSRyuG"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E38yxPVRuYPHx"
+              },
+              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E38yxPVRuYPHx",
+              "type": "playlist",
+              "uri": "spotify:playlist:37i9dQZF1E38yxPVRuYPHx"
+            },
+            "album": {
+              "name": "Sunflower",
+              "id": "5CD0okkcb1HgtjNYI1JIEB",
+              "release_date": "2020-07-11",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734737f544e29d5388dfd0eecd",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1727960877879
           }
         },
         {
@@ -170,44 +288,6 @@
           }
         },
         {
-          "_id": "3UdA4orLLJohU9WEGAwHUN",
-          "count": 1,
-          "details": {
-            "id": "3UdA4orLLJohU9WEGAwHUN",
-            "progress": 100,
-            "duration_ms": 235240,
-            "playing": true,
-            "name": "Sunflower",
-            "preview_url": "https://p.scdn.co/mp3-preview/778690376312d34345ca7e7cec4c6483de0cb0ea?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "HoneyComeBear",
-                "id": "18NNCsbb6T0purrSKSRyuG"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E38yxPVRuYPHx"
-              },
-              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E38yxPVRuYPHx",
-              "type": "playlist",
-              "uri": "spotify:playlist:37i9dQZF1E38yxPVRuYPHx"
-            },
-            "album": {
-              "name": "Sunflower",
-              "id": "5CD0okkcb1HgtjNYI1JIEB",
-              "release_date": "2020-07-11",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734737f544e29d5388dfd0eecd",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1727960877879
-          }
-        },
-        {
           "_id": "1g3TQpXLiIiGusjtshOi74",
           "count": 1,
           "details": {
@@ -316,20 +396,6 @@
           }
         },
         {
-          "_id": "5CD0okkcb1HgtjNYI1JIEB",
-          "count": 1,
-          "details": {
-            "name": "Sunflower",
-            "id": "5CD0okkcb1HgtjNYI1JIEB",
-            "release_date": "2020-07-11",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734737f544e29d5388dfd0eecd",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "5yzpeOPoGPIvYP5IYUuesI",
           "count": 1,
           "details": {
@@ -398,17 +464,23 @@
               "width": 640
             }
           }
+        },
+        {
+          "_id": "5CD0okkcb1HgtjNYI1JIEB",
+          "count": 1,
+          "details": {
+            "name": "Sunflower",
+            "id": "5CD0okkcb1HgtjNYI1JIEB",
+            "release_date": "2020-07-11",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734737f544e29d5388dfd0eecd",
+              "width": 640
+            }
+          }
         }
       ],
       "top_artists": [
-        {
-          "_id": "0LOIeaZ2PuCkTjJai7LwOq",
-          "count": 2,
-          "details": {
-            "name": "ichigorinahamu",
-            "id": "0LOIeaZ2PuCkTjJai7LwOq"
-          }
-        },
         {
           "_id": "6kgXeMO4kd68uf4oEFHRS1",
           "count": 2,
@@ -418,19 +490,11 @@
           }
         },
         {
-          "_id": "69eIvKHcfYigWsgnBSv1jW",
-          "count": 1,
+          "_id": "0LOIeaZ2PuCkTjJai7LwOq",
+          "count": 2,
           "details": {
-            "name": "MOTTO MUSIC",
-            "id": "69eIvKHcfYigWsgnBSv1jW"
-          }
-        },
-        {
-          "_id": "2oLcOIIOg1HfUQXJCJ7ZY4",
-          "count": 1,
-          "details": {
-            "name": "Mameyudoufu",
-            "id": "2oLcOIIOg1HfUQXJCJ7ZY4"
+            "name": "ichigorinahamu",
+            "id": "0LOIeaZ2PuCkTjJai7LwOq"
           }
         },
         {
@@ -442,27 +506,27 @@
           }
         },
         {
+          "_id": "0jP8a2o9Mw5qYoUz1SnQ2A",
+          "count": 1,
+          "details": {
+            "name": "YUC'e",
+            "id": "0jP8a2o9Mw5qYoUz1SnQ2A"
+          }
+        },
+        {
+          "_id": "2oLcOIIOg1HfUQXJCJ7ZY4",
+          "count": 1,
+          "details": {
+            "name": "Mameyudoufu",
+            "id": "2oLcOIIOg1HfUQXJCJ7ZY4"
+          }
+        },
+        {
           "_id": "18NNCsbb6T0purrSKSRyuG",
           "count": 1,
           "details": {
             "name": "HoneyComeBear",
             "id": "18NNCsbb6T0purrSKSRyuG"
-          }
-        },
-        {
-          "_id": "2j00CVYTPx6q9ANbmB2keb",
-          "count": 1,
-          "details": {
-            "name": "Yunomi",
-            "id": "2j00CVYTPx6q9ANbmB2keb"
-          }
-        },
-        {
-          "_id": "4kDBfLqLmHdtDG3BcTA21r",
-          "count": 1,
-          "details": {
-            "name": "BPM15Q",
-            "id": "4kDBfLqLmHdtDG3BcTA21r"
           }
         },
         {
@@ -482,19 +546,35 @@
           }
         },
         {
+          "_id": "2j00CVYTPx6q9ANbmB2keb",
+          "count": 1,
+          "details": {
+            "name": "Yunomi",
+            "id": "2j00CVYTPx6q9ANbmB2keb"
+          }
+        },
+        {
+          "_id": "4kDBfLqLmHdtDG3BcTA21r",
+          "count": 1,
+          "details": {
+            "name": "BPM15Q",
+            "id": "4kDBfLqLmHdtDG3BcTA21r"
+          }
+        },
+        {
+          "_id": "69eIvKHcfYigWsgnBSv1jW",
+          "count": 1,
+          "details": {
+            "name": "MOTTO MUSIC",
+            "id": "69eIvKHcfYigWsgnBSv1jW"
+          }
+        },
+        {
           "_id": "0Pn9eKty96tdakwQBYPWu7",
           "count": 1,
           "details": {
             "name": "CY8ER",
             "id": "0Pn9eKty96tdakwQBYPWu7"
-          }
-        },
-        {
-          "_id": "0jP8a2o9Mw5qYoUz1SnQ2A",
-          "count": 1,
-          "details": {
-            "name": "YUC'e",
-            "id": "0jP8a2o9Mw5qYoUz1SnQ2A"
           }
         }
       ],
@@ -1455,6 +1535,34 @@
           }
         },
         {
+          "_id": "5v2ku0U98MneeKwte1auWd",
+          "count": 1,
+          "details": {
+            "name": "Tightrope",
+            "id": "5v2ku0U98MneeKwte1auWd",
+            "release_date": "2010-08-31",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e74cff977af0d281257c9cc6",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "7q7PwTvocTRkcCrEk6RG8y",
+          "count": 1,
+          "details": {
+            "name": "Joyful Monster",
+            "id": "7q7PwTvocTRkcCrEk6RG8y",
+            "release_date": "2017-01-06",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "0IITU6eZDgvwO9F4Dk1ggM",
           "count": 1,
           "details": {
@@ -1478,48 +1586,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "3Ks0eeH0GWpY4AU20D5HPD",
-          "count": 1,
-          "details": {
-            "name": "Gemini Rights",
-            "id": "3Ks0eeH0GWpY4AU20D5HPD",
-            "release_date": "2022-07-15",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "7q7PwTvocTRkcCrEk6RG8y",
-          "count": 1,
-          "details": {
-            "name": "Joyful Monster",
-            "id": "7q7PwTvocTRkcCrEk6RG8y",
-            "release_date": "2017-01-06",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "5v2ku0U98MneeKwte1auWd",
-          "count": 1,
-          "details": {
-            "name": "Tightrope",
-            "id": "5v2ku0U98MneeKwte1auWd",
-            "release_date": "2010-08-31",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e74cff977af0d281257c9cc6",
               "width": 640
             }
           }
@@ -1581,20 +1647,6 @@
           }
         },
         {
-          "_id": "44GzMAdLPt9Yc0cIKGIYGY",
-          "count": 1,
-          "details": {
-            "name": "\u3072\u3085\u308b\u308a\u3089\u3071\u3063\u3071",
-            "id": "44GzMAdLPt9Yc0cIKGIYGY",
-            "release_date": "2024-07-24",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732999098f13a679667976c0f8",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "4tcS5P4yGy7GoIqJsLezyZ",
           "count": 1,
           "details": {
@@ -1604,6 +1656,34 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273dcc08a0d60b2ee3ceb4f886d",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "3Ks0eeH0GWpY4AU20D5HPD",
+          "count": 1,
+          "details": {
+            "name": "Gemini Rights",
+            "id": "3Ks0eeH0GWpY4AU20D5HPD",
+            "release_date": "2022-07-15",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27368968350c2550e36d96344ee",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "44GzMAdLPt9Yc0cIKGIYGY",
+          "count": 1,
+          "details": {
+            "name": "\u3072\u3085\u308b\u308a\u3089\u3071\u3063\u3071",
+            "id": "44GzMAdLPt9Yc0cIKGIYGY",
+            "release_date": "2024-07-24",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732999098f13a679667976c0f8",
               "width": 640
             }
           }
