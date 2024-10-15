@@ -1,5 +1,5 @@
 {
-  "updated_at": 1729026901,
+  "updated_at": 1729027201,
   "data": {
     "today": {
       "top_songs": [],
@@ -352,34 +352,41 @@
           }
         },
         {
-          "_id": "5z0sTqtZ73NliGt9LYjUO4",
+          "_id": "43gfzIUWGIcWdnn8mhu7HE",
           "count": 1,
           "details": {
-            "id": "5z0sTqtZ73NliGt9LYjUO4",
-            "progress": 17.546223958333336,
-            "duration_ms": 307200,
+            "id": "43gfzIUWGIcWdnn8mhu7HE",
+            "progress": 99.22452114793751,
+            "duration_ms": 244752,
             "playing": true,
-            "name": "\u541b\u306e\u9280\u306e\u5ead",
-            "preview_url": "https://p.scdn.co/mp3-preview/03812571a3084d532c42297c6ad8db13f7e1f4c6?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u79c1\u8ad6\u7406",
+            "preview_url": "https://p.scdn.co/mp3-preview/890d3641e416a6f75805670372f1297403edd97d?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "Kalafina",
-                "id": "2otsTXVV2ZWZ8T5LPzsBhy"
+                "name": "\u82b1\u8b5c",
+                "id": "2c32JruIkUyfdycHmhIph4"
               }
             ],
-            "context": null,
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov"
+              },
+              "href": "https://api.spotify.com/v1/albums/4QUfYAgz2I7uypWpeTAWov",
+              "type": "album",
+              "uri": "spotify:album:4QUfYAgz2I7uypWpeTAWov"
+            },
             "album": {
-              "name": "\u541b\u306e\u9280\u306e\u5ead",
-              "id": "7t7RwR2ThlbTm7hqNaHr0n",
-              "release_date": "2013-11-06",
+              "name": "\u9b54\u6cd5",
+              "id": "4QUfYAgz2I7uypWpeTAWov",
+              "release_date": "2020-12-16",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731cc08a81715d7bd405e97f02",
+                "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1728865291468
+            "time": 1728903940547
           }
         },
         {
@@ -1015,41 +1022,6 @@
           }
         },
         {
-          "_id": "4dsHJI0TEMFPqulLgvnusY",
-          "count": 1,
-          "details": {
-            "id": "4dsHJI0TEMFPqulLgvnusY",
-            "progress": 7.788335489619837,
-            "duration_ms": 233426,
-            "playing": true,
-            "name": "Kiritorisen",
-            "preview_url": "https://p.scdn.co/mp3-preview/8ae50be7871d37314e61eeec4639f3f45c69a92c?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "CHANO",
-                "id": "4FAvt5lXE7c18d16xREJAP"
-              },
-              {
-                "name": "40mP",
-                "id": "69jNq4RZ3PvQJvMeqtdz7O"
-              }
-            ],
-            "context": null,
-            "album": {
-              "name": "Sugar",
-              "id": "0SCaXHVNPplaOSkhx7LNC6",
-              "release_date": "2011-10-30",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273af4bd85ee76ecddf963827ba",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1728875671210
-          }
-        },
-        {
           "_id": "2IeYMzlpMbZxBjTXvjHHXD",
           "count": 1,
           "details": {
@@ -1085,6 +1057,41 @@
             },
             "success": true,
             "time": 1728880478334
+          }
+        },
+        {
+          "_id": "4dsHJI0TEMFPqulLgvnusY",
+          "count": 1,
+          "details": {
+            "id": "4dsHJI0TEMFPqulLgvnusY",
+            "progress": 7.788335489619837,
+            "duration_ms": 233426,
+            "playing": true,
+            "name": "Kiritorisen",
+            "preview_url": "https://p.scdn.co/mp3-preview/8ae50be7871d37314e61eeec4639f3f45c69a92c?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "CHANO",
+                "id": "4FAvt5lXE7c18d16xREJAP"
+              },
+              {
+                "name": "40mP",
+                "id": "69jNq4RZ3PvQJvMeqtdz7O"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "Sugar",
+              "id": "0SCaXHVNPplaOSkhx7LNC6",
+              "release_date": "2011-10-30",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273af4bd85ee76ecddf963827ba",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1728875671210
           }
         },
         {
@@ -1165,41 +1172,34 @@
           }
         },
         {
-          "_id": "43gfzIUWGIcWdnn8mhu7HE",
+          "_id": "5z0sTqtZ73NliGt9LYjUO4",
           "count": 1,
           "details": {
-            "id": "43gfzIUWGIcWdnn8mhu7HE",
-            "progress": 99.22452114793751,
-            "duration_ms": 244752,
+            "id": "5z0sTqtZ73NliGt9LYjUO4",
+            "progress": 17.546223958333336,
+            "duration_ms": 307200,
             "playing": true,
-            "name": "\u79c1\u8ad6\u7406",
-            "preview_url": "https://p.scdn.co/mp3-preview/890d3641e416a6f75805670372f1297403edd97d?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u541b\u306e\u9280\u306e\u5ead",
+            "preview_url": "https://p.scdn.co/mp3-preview/03812571a3084d532c42297c6ad8db13f7e1f4c6?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "\u82b1\u8b5c",
-                "id": "2c32JruIkUyfdycHmhIph4"
+                "name": "Kalafina",
+                "id": "2otsTXVV2ZWZ8T5LPzsBhy"
               }
             ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov"
-              },
-              "href": "https://api.spotify.com/v1/albums/4QUfYAgz2I7uypWpeTAWov",
-              "type": "album",
-              "uri": "spotify:album:4QUfYAgz2I7uypWpeTAWov"
-            },
+            "context": null,
             "album": {
-              "name": "\u9b54\u6cd5",
-              "id": "4QUfYAgz2I7uypWpeTAWov",
-              "release_date": "2020-12-16",
+              "name": "\u541b\u306e\u9280\u306e\u5ead",
+              "id": "7t7RwR2ThlbTm7hqNaHr0n",
+              "release_date": "2013-11-06",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
+                "url": "https://i.scdn.co/image/ab67616d0000b2731cc08a81715d7bd405e97f02",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1728903940547
+            "time": 1728865291468
           }
         }
       ],
@@ -1261,6 +1261,48 @@
           }
         },
         {
+          "_id": "5XH9Lz90aYCVoPhJby7Z4N",
+          "count": 1,
+          "details": {
+            "name": "Wasurekaze",
+            "id": "5XH9Lz90aYCVoPhJby7Z4N",
+            "release_date": "2021-06-26",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738a8423bf34f74a4b5f2ff74a",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "7FlXTzQYTD1czgGn4bIuNO",
+          "count": 1,
+          "details": {
+            "name": "I believe what you said",
+            "id": "7FlXTzQYTD1czgGn4bIuNO",
+            "release_date": "2020-10-14",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27347403a138ff465821a585e95",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0SCaXHVNPplaOSkhx7LNC6",
+          "count": 1,
+          "details": {
+            "name": "Sugar",
+            "id": "0SCaXHVNPplaOSkhx7LNC6",
+            "release_date": "2011-10-30",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273af4bd85ee76ecddf963827ba",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "5PffrL3d7VY89x5AVvpr6e",
           "count": 1,
           "details": {
@@ -1289,15 +1331,15 @@
           }
         },
         {
-          "_id": "0SCaXHVNPplaOSkhx7LNC6",
+          "_id": "1ntfyuln6tVqXY8RTqb3MQ",
           "count": 1,
           "details": {
-            "name": "Sugar",
-            "id": "0SCaXHVNPplaOSkhx7LNC6",
-            "release_date": "2011-10-30",
+            "name": "\u30ca\u30e6\u30bf\u30f3\u661f\u304b\u3089\u306e\u7269\u4f53Y",
+            "id": "1ntfyuln6tVqXY8RTqb3MQ",
+            "release_date": "2016-12-31",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273af4bd85ee76ecddf963827ba",
+              "url": "https://i.scdn.co/image/ab67616d0000b27363cc1e7ee50ed3854f40c367",
               "width": 640
             }
           }
@@ -1317,20 +1359,6 @@
           }
         },
         {
-          "_id": "1ntfyuln6tVqXY8RTqb3MQ",
-          "count": 1,
-          "details": {
-            "name": "\u30ca\u30e6\u30bf\u30f3\u661f\u304b\u3089\u306e\u7269\u4f53Y",
-            "id": "1ntfyuln6tVqXY8RTqb3MQ",
-            "release_date": "2016-12-31",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27363cc1e7ee50ed3854f40c367",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7t7RwR2ThlbTm7hqNaHr0n",
           "count": 1,
           "details": {
@@ -1340,34 +1368,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2731cc08a81715d7bd405e97f02",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "7FlXTzQYTD1czgGn4bIuNO",
-          "count": 1,
-          "details": {
-            "name": "I believe what you said",
-            "id": "7FlXTzQYTD1czgGn4bIuNO",
-            "release_date": "2020-10-14",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27347403a138ff465821a585e95",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "5XH9Lz90aYCVoPhJby7Z4N",
-          "count": 1,
-          "details": {
-            "name": "Wasurekaze",
-            "id": "5XH9Lz90aYCVoPhJby7Z4N",
-            "release_date": "2021-06-26",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738a8423bf34f74a4b5f2ff74a",
               "width": 640
             }
           }
@@ -1391,6 +1391,14 @@
           }
         },
         {
+          "_id": "38WbKH6oKAZskBhqDFA8Uj",
+          "count": 2,
+          "details": {
+            "name": "ZUTOMAYO",
+            "id": "38WbKH6oKAZskBhqDFA8Uj"
+          }
+        },
+        {
           "_id": "2otsTXVV2ZWZ8T5LPzsBhy",
           "count": 2,
           "details": {
@@ -1399,11 +1407,19 @@
           }
         },
         {
-          "_id": "38WbKH6oKAZskBhqDFA8Uj",
-          "count": 2,
+          "_id": "2WEdpSG62DEFsMhN4iw5P1",
+          "count": 1,
           "details": {
-            "name": "ZUTOMAYO",
-            "id": "38WbKH6oKAZskBhqDFA8Uj"
+            "name": "V.W.P",
+            "id": "2WEdpSG62DEFsMhN4iw5P1"
+          }
+        },
+        {
+          "_id": "4UK2Lzi6fBfUi9rpDt6cik",
+          "count": 1,
+          "details": {
+            "name": "\u30e8\u30eb\u30b7\u30ab",
+            "id": "4UK2Lzi6fBfUi9rpDt6cik"
           }
         },
         {
@@ -1415,19 +1431,19 @@
           }
         },
         {
-          "_id": "4FAvt5lXE7c18d16xREJAP",
-          "count": 1,
-          "details": {
-            "name": "CHANO",
-            "id": "4FAvt5lXE7c18d16xREJAP"
-          }
-        },
-        {
           "_id": "18NNCsbb6T0purrSKSRyuG",
           "count": 1,
           "details": {
             "name": "HoneyComeBear",
             "id": "18NNCsbb6T0purrSKSRyuG"
+          }
+        },
+        {
+          "_id": "4FAvt5lXE7c18d16xREJAP",
+          "count": 1,
+          "details": {
+            "name": "CHANO",
+            "id": "4FAvt5lXE7c18d16xREJAP"
           }
         },
         {
@@ -1452,22 +1468,6 @@
           "details": {
             "name": "40mP",
             "id": "69jNq4RZ3PvQJvMeqtdz7O"
-          }
-        },
-        {
-          "_id": "2WEdpSG62DEFsMhN4iw5P1",
-          "count": 1,
-          "details": {
-            "name": "V.W.P",
-            "id": "2WEdpSG62DEFsMhN4iw5P1"
-          }
-        },
-        {
-          "_id": "4UK2Lzi6fBfUi9rpDt6cik",
-          "count": 1,
-          "details": {
-            "name": "\u30e8\u30eb\u30b7\u30ab",
-            "id": "4UK2Lzi6fBfUi9rpDt6cik"
           }
         }
       ],
@@ -8626,6 +8626,20 @@
           }
         },
         {
+          "_id": "2kRnKyQ0Mm0jYSqyqFyvmU",
+          "count": 1,
+          "details": {
+            "name": "Otomedomoyo",
+            "id": "2kRnKyQ0Mm0jYSqyqFyvmU",
+            "release_date": "2019-08-07",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738ee3e17a4172a6059d17a8d3",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "79UgEZdQY1mcCM44BAGAB4",
           "count": 1,
           "details": {
@@ -8649,20 +8663,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273059396c50c36980c015a77cc",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "2kRnKyQ0Mm0jYSqyqFyvmU",
-          "count": 1,
-          "details": {
-            "name": "Otomedomoyo",
-            "id": "2kRnKyQ0Mm0jYSqyqFyvmU",
-            "release_date": "2019-08-07",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738ee3e17a4172a6059d17a8d3",
               "width": 640
             }
           }
@@ -10318,11 +10318,11 @@
           }
         },
         {
-          "_id": "30rNCtpbgMaznRM9h8jlLv",
+          "_id": "26dSoYclwsYLMAKD3tpOr4",
           "count": 1,
           "details": {
-            "name": "Tia",
-            "id": "30rNCtpbgMaznRM9h8jlLv"
+            "name": "Britney Spears",
+            "id": "26dSoYclwsYLMAKD3tpOr4"
           }
         },
         {
@@ -10334,11 +10334,11 @@
           }
         },
         {
-          "_id": "26dSoYclwsYLMAKD3tpOr4",
+          "_id": "30rNCtpbgMaznRM9h8jlLv",
           "count": 1,
           "details": {
-            "name": "Britney Spears",
-            "id": "26dSoYclwsYLMAKD3tpOr4"
+            "name": "Tia",
+            "id": "30rNCtpbgMaznRM9h8jlLv"
           }
         },
         {
@@ -15786,20 +15786,6 @@
           }
         },
         {
-          "_id": "6feQsJm7NRqr2ICMO4SDmB",
-          "count": 2,
-          "details": {
-            "name": "Ghost Pop",
-            "id": "6feQsJm7NRqr2ICMO4SDmB",
-            "release_date": "2023-05-24",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730d79c0bbb49f995bd4b7687a",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7q7PwTvocTRkcCrEk6RG8y",
           "count": 2,
           "details": {
@@ -15809,6 +15795,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "6feQsJm7NRqr2ICMO4SDmB",
+          "count": 2,
+          "details": {
+            "name": "Ghost Pop",
+            "id": "6feQsJm7NRqr2ICMO4SDmB",
+            "release_date": "2023-05-24",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730d79c0bbb49f995bd4b7687a",
               "width": 640
             }
           }
@@ -16402,20 +16402,6 @@
           }
         },
         {
-          "_id": "1I4xPMfCn7EWu1OBuQdZ6Q",
-          "count": 1,
-          "details": {
-            "name": "\u6708\u5149\u6d74",
-            "id": "1I4xPMfCn7EWu1OBuQdZ6Q",
-            "release_date": "2023-10-13",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273118f406feca9d743282659d2",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "2vC63gH9IJx2DyFM3XNIo6",
           "count": 1,
           "details": {
@@ -16425,6 +16411,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273bf5b901904681533136275cc",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "1I4xPMfCn7EWu1OBuQdZ6Q",
+          "count": 1,
+          "details": {
+            "name": "\u6708\u5149\u6d74",
+            "id": "1I4xPMfCn7EWu1OBuQdZ6Q",
+            "release_date": "2023-10-13",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273118f406feca9d743282659d2",
               "width": 640
             }
           }
@@ -17126,19 +17126,19 @@
           }
         },
         {
-          "_id": "5DvySD4yjxyj8NvBWNfImP",
-          "count": 1,
-          "details": {
-            "name": "n-buna",
-            "id": "5DvySD4yjxyj8NvBWNfImP"
-          }
-        },
-        {
           "_id": "4VTJpM1zTw4VPtT1RWOKIu",
           "count": 1,
           "details": {
             "name": "MARSIX\u5218\u5bb6\u826f",
             "id": "4VTJpM1zTw4VPtT1RWOKIu"
+          }
+        },
+        {
+          "_id": "5DvySD4yjxyj8NvBWNfImP",
+          "count": 1,
+          "details": {
+            "name": "n-buna",
+            "id": "5DvySD4yjxyj8NvBWNfImP"
           }
         },
         {
