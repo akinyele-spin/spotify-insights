@@ -1,5 +1,5 @@
 {
-  "updated_at": 1728985201,
+  "updated_at": 1728985501,
   "data": {
     "today": {
       "top_songs": [],
@@ -352,34 +352,41 @@
           }
         },
         {
-          "_id": "5z0sTqtZ73NliGt9LYjUO4",
+          "_id": "43gfzIUWGIcWdnn8mhu7HE",
           "count": 1,
           "details": {
-            "id": "5z0sTqtZ73NliGt9LYjUO4",
-            "progress": 17.546223958333336,
-            "duration_ms": 307200,
+            "id": "43gfzIUWGIcWdnn8mhu7HE",
+            "progress": 99.22452114793751,
+            "duration_ms": 244752,
             "playing": true,
-            "name": "\u541b\u306e\u9280\u306e\u5ead",
-            "preview_url": "https://p.scdn.co/mp3-preview/03812571a3084d532c42297c6ad8db13f7e1f4c6?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u79c1\u8ad6\u7406",
+            "preview_url": "https://p.scdn.co/mp3-preview/890d3641e416a6f75805670372f1297403edd97d?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "Kalafina",
-                "id": "2otsTXVV2ZWZ8T5LPzsBhy"
+                "name": "\u82b1\u8b5c",
+                "id": "2c32JruIkUyfdycHmhIph4"
               }
             ],
-            "context": null,
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov"
+              },
+              "href": "https://api.spotify.com/v1/albums/4QUfYAgz2I7uypWpeTAWov",
+              "type": "album",
+              "uri": "spotify:album:4QUfYAgz2I7uypWpeTAWov"
+            },
             "album": {
-              "name": "\u541b\u306e\u9280\u306e\u5ead",
-              "id": "7t7RwR2ThlbTm7hqNaHr0n",
-              "release_date": "2013-11-06",
+              "name": "\u9b54\u6cd5",
+              "id": "4QUfYAgz2I7uypWpeTAWov",
+              "release_date": "2020-12-16",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2731cc08a81715d7bd405e97f02",
+                "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1728865291468
+            "time": 1728903940547
           }
         },
         {
@@ -832,37 +839,6 @@
           }
         },
         {
-          "_id": "1d0UXCUlcGowWQLqfyyex5",
-          "count": 1,
-          "details": {
-            "id": "1d0UXCUlcGowWQLqfyyex5",
-            "progress": 1.5991651306923333,
-            "duration_ms": 266389,
-            "playing": true,
-            "name": "I believe what you said",
-            "preview_url": "https://p.scdn.co/mp3-preview/2bf13267a9596fe3e15614f9b7d81a3613d8d366?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "\u4e9c\u54b2\u82b1",
-                "id": "0QwTvn35AQMMELpKDU176h"
-              }
-            ],
-            "context": null,
-            "album": {
-              "name": "I believe what you said",
-              "id": "7FlXTzQYTD1czgGn4bIuNO",
-              "release_date": "2020-10-14",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27347403a138ff465821a585e95",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1728867629295
-          }
-        },
-        {
           "_id": "3FlVP90ayePHvBUpOJnPJo",
           "count": 1,
           "details": {
@@ -898,6 +874,37 @@
             },
             "success": true,
             "time": 1728879355075
+          }
+        },
+        {
+          "_id": "1d0UXCUlcGowWQLqfyyex5",
+          "count": 1,
+          "details": {
+            "id": "1d0UXCUlcGowWQLqfyyex5",
+            "progress": 1.5991651306923333,
+            "duration_ms": 266389,
+            "playing": true,
+            "name": "I believe what you said",
+            "preview_url": "https://p.scdn.co/mp3-preview/2bf13267a9596fe3e15614f9b7d81a3613d8d366?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "\u4e9c\u54b2\u82b1",
+                "id": "0QwTvn35AQMMELpKDU176h"
+              }
+            ],
+            "context": null,
+            "album": {
+              "name": "I believe what you said",
+              "id": "7FlXTzQYTD1czgGn4bIuNO",
+              "release_date": "2020-10-14",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27347403a138ff465821a585e95",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1728867629295
           }
         },
         {
@@ -1165,41 +1172,34 @@
           }
         },
         {
-          "_id": "43gfzIUWGIcWdnn8mhu7HE",
+          "_id": "5z0sTqtZ73NliGt9LYjUO4",
           "count": 1,
           "details": {
-            "id": "43gfzIUWGIcWdnn8mhu7HE",
-            "progress": 99.22452114793751,
-            "duration_ms": 244752,
+            "id": "5z0sTqtZ73NliGt9LYjUO4",
+            "progress": 17.546223958333336,
+            "duration_ms": 307200,
             "playing": true,
-            "name": "\u79c1\u8ad6\u7406",
-            "preview_url": "https://p.scdn.co/mp3-preview/890d3641e416a6f75805670372f1297403edd97d?cid=ffce38f98386483bbbee2d4831104c2b",
+            "name": "\u541b\u306e\u9280\u306e\u5ead",
+            "preview_url": "https://p.scdn.co/mp3-preview/03812571a3084d532c42297c6ad8db13f7e1f4c6?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "name": "\u82b1\u8b5c",
-                "id": "2c32JruIkUyfdycHmhIph4"
+                "name": "Kalafina",
+                "id": "2otsTXVV2ZWZ8T5LPzsBhy"
               }
             ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/album/4QUfYAgz2I7uypWpeTAWov"
-              },
-              "href": "https://api.spotify.com/v1/albums/4QUfYAgz2I7uypWpeTAWov",
-              "type": "album",
-              "uri": "spotify:album:4QUfYAgz2I7uypWpeTAWov"
-            },
+            "context": null,
             "album": {
-              "name": "\u9b54\u6cd5",
-              "id": "4QUfYAgz2I7uypWpeTAWov",
-              "release_date": "2020-12-16",
+              "name": "\u541b\u306e\u9280\u306e\u5ead",
+              "id": "7t7RwR2ThlbTm7hqNaHr0n",
+              "release_date": "2013-11-06",
               "image": {
                 "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27328fc1cf192f968727c31b992",
+                "url": "https://i.scdn.co/image/ab67616d0000b2731cc08a81715d7bd405e97f02",
                 "width": 640
               }
             },
             "success": true,
-            "time": 1728903940547
+            "time": 1728865291468
           }
         }
       ],
@@ -1261,43 +1261,15 @@
           }
         },
         {
-          "_id": "7FlXTzQYTD1czgGn4bIuNO",
+          "_id": "5PffrL3d7VY89x5AVvpr6e",
           "count": 1,
           "details": {
-            "name": "I believe what you said",
-            "id": "7FlXTzQYTD1czgGn4bIuNO",
-            "release_date": "2020-10-14",
+            "name": "After Eden",
+            "id": "5PffrL3d7VY89x5AVvpr6e",
+            "release_date": "2011-09-21",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27347403a138ff465821a585e95",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "6oSDIdniGff9ECq3dMsL3q",
-          "count": 1,
-          "details": {
-            "name": "\u751f\u5b58",
-            "id": "6oSDIdniGff9ECq3dMsL3q",
-            "release_date": "2023-05-17",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27359f6044c63d9b9241b43a915",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "5XH9Lz90aYCVoPhJby7Z4N",
-          "count": 1,
-          "details": {
-            "name": "Wasurekaze",
-            "id": "5XH9Lz90aYCVoPhJby7Z4N",
-            "release_date": "2021-06-26",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738a8423bf34f74a4b5f2ff74a",
+              "url": "https://i.scdn.co/image/ab67616d0000b2737b2762f120f737f1cc500b6c",
               "width": 640
             }
           }
@@ -1317,29 +1289,29 @@
           }
         },
         {
-          "_id": "4LBtT0FZ3JMjbklNwnW0Ms",
+          "_id": "5XH9Lz90aYCVoPhJby7Z4N",
           "count": 1,
           "details": {
-            "name": "\u5e7b\u71c8",
-            "id": "4LBtT0FZ3JMjbklNwnW0Ms",
-            "release_date": "2023-04-05",
+            "name": "Wasurekaze",
+            "id": "5XH9Lz90aYCVoPhJby7Z4N",
+            "release_date": "2021-06-26",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2733d6880324dfcb032875f9865",
+              "url": "https://i.scdn.co/image/ab67616d0000b2738a8423bf34f74a4b5f2ff74a",
               "width": 640
             }
           }
         },
         {
-          "_id": "5PffrL3d7VY89x5AVvpr6e",
+          "_id": "7FlXTzQYTD1czgGn4bIuNO",
           "count": 1,
           "details": {
-            "name": "After Eden",
-            "id": "5PffrL3d7VY89x5AVvpr6e",
-            "release_date": "2011-09-21",
+            "name": "I believe what you said",
+            "id": "7FlXTzQYTD1czgGn4bIuNO",
+            "release_date": "2020-10-14",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737b2762f120f737f1cc500b6c",
+              "url": "https://i.scdn.co/image/ab67616d0000b27347403a138ff465821a585e95",
               "width": 640
             }
           }
@@ -1368,6 +1340,34 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27363cc1e7ee50ed3854f40c367",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "6oSDIdniGff9ECq3dMsL3q",
+          "count": 1,
+          "details": {
+            "name": "\u751f\u5b58",
+            "id": "6oSDIdniGff9ECq3dMsL3q",
+            "release_date": "2023-05-17",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27359f6044c63d9b9241b43a915",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4LBtT0FZ3JMjbklNwnW0Ms",
+          "count": 1,
+          "details": {
+            "name": "\u5e7b\u71c8",
+            "id": "4LBtT0FZ3JMjbklNwnW0Ms",
+            "release_date": "2023-04-05",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733d6880324dfcb032875f9865",
               "width": 640
             }
           }
@@ -2555,44 +2555,6 @@
           }
         },
         {
-          "_id": "5v2xgL8y4XI0hi50cU574j",
-          "count": 1,
-          "details": {
-            "id": "5v2xgL8y4XI0hi50cU574j",
-            "progress": 2.0117675922060143,
-            "duration_ms": 232333,
-            "playing": true,
-            "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
-            "preview_url": null,
-            "artists": [
-              {
-                "name": "Aimer",
-                "id": "0bAsR2unSRpn6BQPEnNlZm"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Sun Dance",
-              "id": "2e086IwQKo06vQvNbabfEV",
-              "release_date": "2019-04-10",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737181a372bce7bc3f2bafca6c",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1728361434817
-          }
-        },
-        {
           "_id": "7lBANjrC2WTstg2m3xsjMo",
           "count": 1,
           "details": {
@@ -2628,6 +2590,44 @@
             },
             "success": true,
             "time": 1728361273266
+          }
+        },
+        {
+          "_id": "5v2xgL8y4XI0hi50cU574j",
+          "count": 1,
+          "details": {
+            "id": "5v2xgL8y4XI0hi50cU574j",
+            "progress": 2.0117675922060143,
+            "duration_ms": 232333,
+            "playing": true,
+            "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
+            "preview_url": null,
+            "artists": [
+              {
+                "name": "Aimer",
+                "id": "0bAsR2unSRpn6BQPEnNlZm"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Sun Dance",
+              "id": "2e086IwQKo06vQvNbabfEV",
+              "release_date": "2019-04-10",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737181a372bce7bc3f2bafca6c",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1728361434817
           }
         },
         {
@@ -8626,20 +8626,6 @@
           }
         },
         {
-          "_id": "2kRnKyQ0Mm0jYSqyqFyvmU",
-          "count": 1,
-          "details": {
-            "name": "Otomedomoyo",
-            "id": "2kRnKyQ0Mm0jYSqyqFyvmU",
-            "release_date": "2019-08-07",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738ee3e17a4172a6059d17a8d3",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "79UgEZdQY1mcCM44BAGAB4",
           "count": 1,
           "details": {
@@ -8663,6 +8649,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273059396c50c36980c015a77cc",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "2kRnKyQ0Mm0jYSqyqFyvmU",
+          "count": 1,
+          "details": {
+            "name": "Otomedomoyo",
+            "id": "2kRnKyQ0Mm0jYSqyqFyvmU",
+            "release_date": "2019-08-07",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738ee3e17a4172a6059d17a8d3",
               "width": 640
             }
           }
@@ -16220,15 +16220,15 @@
           }
         },
         {
-          "_id": "6JogITYOudxPlwli095MIY",
+          "_id": "6oECjagksATHu2UaclXrq1",
           "count": 1,
           "details": {
-            "name": "\u30c0\u30f3\u30b9\u30fb\u30c0\u30f3\u30b9\u30fb\u30c0\u30c0",
-            "id": "6JogITYOudxPlwli095MIY",
-            "release_date": "2021-06-30",
+            "name": "Doja",
+            "id": "6oECjagksATHu2UaclXrq1",
+            "release_date": "2022-07-21",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27329da5d6ab7966716c9f0b5da",
+              "url": "https://i.scdn.co/image/ab67616d0000b2733c7d945b6baf935e8a0ebdaa",
               "width": 640
             }
           }
@@ -16262,15 +16262,15 @@
           }
         },
         {
-          "_id": "6oECjagksATHu2UaclXrq1",
+          "_id": "6JogITYOudxPlwli095MIY",
           "count": 1,
           "details": {
-            "name": "Doja",
-            "id": "6oECjagksATHu2UaclXrq1",
-            "release_date": "2022-07-21",
+            "name": "\u30c0\u30f3\u30b9\u30fb\u30c0\u30f3\u30b9\u30fb\u30c0\u30c0",
+            "id": "6JogITYOudxPlwli095MIY",
+            "release_date": "2021-06-30",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2733c7d945b6baf935e8a0ebdaa",
+              "url": "https://i.scdn.co/image/ab67616d0000b27329da5d6ab7966716c9f0b5da",
               "width": 640
             }
           }
@@ -17126,19 +17126,19 @@
           }
         },
         {
-          "_id": "4VTJpM1zTw4VPtT1RWOKIu",
-          "count": 1,
-          "details": {
-            "name": "MARSIX\u5218\u5bb6\u826f",
-            "id": "4VTJpM1zTw4VPtT1RWOKIu"
-          }
-        },
-        {
           "_id": "5DvySD4yjxyj8NvBWNfImP",
           "count": 1,
           "details": {
             "name": "n-buna",
             "id": "5DvySD4yjxyj8NvBWNfImP"
+          }
+        },
+        {
+          "_id": "4VTJpM1zTw4VPtT1RWOKIu",
+          "count": 1,
+          "details": {
+            "name": "MARSIX\u5218\u5bb6\u826f",
+            "id": "4VTJpM1zTw4VPtT1RWOKIu"
           }
         },
         {
