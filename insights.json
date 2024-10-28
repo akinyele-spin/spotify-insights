@@ -1,5 +1,5 @@
 {
-  "updated_at": 1730157601,
+  "updated_at": 1730157901,
   "data": {
     "today": {
       "top_songs": [
@@ -701,6 +701,44 @@
             },
             "success": true,
             "time": 1730074744427
+          }
+        },
+        {
+          "_id": "3VoQTUyevHnXxUHDKC6u3S",
+          "count": 2,
+          "details": {
+            "id": "3VoQTUyevHnXxUHDKC6u3S",
+            "progress": 98.89859239193657,
+            "duration_ms": 240692,
+            "playing": true,
+            "name": "Rhapsody",
+            "preview_url": "https://p.scdn.co/mp3-preview/af463dd4df5b7e6640eedb8a84894cd7b1da8e3f?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "Empty old City",
+                "id": "3RvUqTyR1WwQzNaGuBKnCY"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4vkzeVOzWSzR"
+              },
+              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4vkzeVOzWSzR",
+              "type": "playlist",
+              "uri": "spotify:playlist:37i9dQZF1E4vkzeVOzWSzR"
+            },
+            "album": {
+              "name": "Rhapsody",
+              "id": "02A9t8Wmd6QtkpS6L5ENRS",
+              "release_date": "2021-05-20",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2737f8f1a1e919c81ff73f28b53",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1730115504555
           }
         },
         {
@@ -2442,44 +2480,6 @@
             },
             "success": true,
             "time": 1730133706248
-          }
-        },
-        {
-          "_id": "3VoQTUyevHnXxUHDKC6u3S",
-          "count": 1,
-          "details": {
-            "id": "3VoQTUyevHnXxUHDKC6u3S",
-            "progress": 98.89859239193657,
-            "duration_ms": 240692,
-            "playing": true,
-            "name": "Rhapsody",
-            "preview_url": "https://p.scdn.co/mp3-preview/af463dd4df5b7e6640eedb8a84894cd7b1da8e3f?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "Empty old City",
-                "id": "3RvUqTyR1WwQzNaGuBKnCY"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/playlist/37i9dQZF1E4vkzeVOzWSzR"
-              },
-              "href": "https://api.spotify.com/v1/playlists/37i9dQZF1E4vkzeVOzWSzR",
-              "type": "playlist",
-              "uri": "spotify:playlist:37i9dQZF1E4vkzeVOzWSzR"
-            },
-            "album": {
-              "name": "Rhapsody",
-              "id": "02A9t8Wmd6QtkpS6L5ENRS",
-              "release_date": "2021-05-20",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2737f8f1a1e919c81ff73f28b53",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1730115504555
           }
         },
         {
@@ -4823,7 +4823,7 @@
           "count": 1,
           "details": {
             "id": "7fcEOJGsOOVyz8XeDwvLRZ",
-            "progress": 66.41583054626533,
+            "progress": 100,
             "duration_ms": 179400,
             "playing": true,
             "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
@@ -5194,6 +5194,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27388ded1fe859d46f0debc57d1",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "02A9t8Wmd6QtkpS6L5ENRS",
+          "count": 2,
+          "details": {
+            "name": "Rhapsody",
+            "id": "02A9t8Wmd6QtkpS6L5ENRS",
+            "release_date": "2021-05-20",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737f8f1a1e919c81ff73f28b53",
               "width": 640
             }
           }
@@ -5656,20 +5670,6 @@
           }
         },
         {
-          "_id": "02A9t8Wmd6QtkpS6L5ENRS",
-          "count": 1,
-          "details": {
-            "name": "Rhapsody",
-            "id": "02A9t8Wmd6QtkpS6L5ENRS",
-            "release_date": "2021-05-20",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737f8f1a1e919c81ff73f28b53",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "1YoxX5dJa8vm0bz1Skiljh",
           "count": 1,
           "details": {
@@ -5782,20 +5782,6 @@
           }
         },
         {
-          "_id": "5jTvpcEk8DvNFUFois1ipG",
-          "count": 1,
-          "details": {
-            "name": "\u304b\u3044\u304b",
-            "id": "5jTvpcEk8DvNFUFois1ipG",
-            "release_date": "2024-04-24",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732739f19576e31e099d6cfab1",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7xLle6L79vUGuNhwiZUjZo",
           "count": 1,
           "details": {
@@ -5805,6 +5791,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273024c140625f429c582930735",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "5jTvpcEk8DvNFUFois1ipG",
+          "count": 1,
+          "details": {
+            "name": "\u304b\u3044\u304b",
+            "id": "5jTvpcEk8DvNFUFois1ipG",
+            "release_date": "2024-04-24",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732739f19576e31e099d6cfab1",
               "width": 640
             }
           }
@@ -5922,15 +5922,15 @@
           }
         },
         {
-          "_id": "4bIo5w5xKztinGjv11NoOQ",
+          "_id": "4Hj51MfKZ3TejRxNtHWltS",
           "count": 1,
           "details": {
-            "name": "MIRROR",
-            "id": "4bIo5w5xKztinGjv11NoOQ",
-            "release_date": "2024-05-30",
+            "name": "\u9996\u90fd\u96d1\u8e0f",
+            "id": "4Hj51MfKZ3TejRxNtHWltS",
+            "release_date": "2021-02-01",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273dfdacb364c44d7365b6139b7",
+              "url": "https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38",
               "width": 640
             }
           }
@@ -5950,15 +5950,15 @@
           }
         },
         {
-          "_id": "4Hj51MfKZ3TejRxNtHWltS",
+          "_id": "4bIo5w5xKztinGjv11NoOQ",
           "count": 1,
           "details": {
-            "name": "\u9996\u90fd\u96d1\u8e0f",
-            "id": "4Hj51MfKZ3TejRxNtHWltS",
-            "release_date": "2021-02-01",
+            "name": "MIRROR",
+            "id": "4bIo5w5xKztinGjv11NoOQ",
+            "release_date": "2024-05-30",
             "image": {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f87dcc664cac6aa0ae998d38",
+              "url": "https://i.scdn.co/image/ab67616d0000b273dfdacb364c44d7365b6139b7",
               "width": 640
             }
           }
@@ -6020,20 +6020,6 @@
           }
         },
         {
-          "_id": "3cWo4ZAITdK2iHT1t0ZHLB",
-          "count": 1,
-          "details": {
-            "name": "Abyssal Zone",
-            "id": "3cWo4ZAITdK2iHT1t0ZHLB",
-            "release_date": "2022-06-23",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273b78e0d1979b1c72c455ec85b",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "6hdJlFmd0NN2Q9sGvfcNaZ",
           "count": 1,
           "details": {
@@ -6043,6 +6029,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273f0c561808a476dacb6fa9d66",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "3cWo4ZAITdK2iHT1t0ZHLB",
+          "count": 1,
+          "details": {
+            "name": "Abyssal Zone",
+            "id": "3cWo4ZAITdK2iHT1t0ZHLB",
+            "release_date": "2022-06-23",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b78e0d1979b1c72c455ec85b",
               "width": 640
             }
           }
@@ -6232,6 +6232,14 @@
           }
         },
         {
+          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
+          "count": 8,
+          "details": {
+            "name": "Empty old City",
+            "id": "3RvUqTyR1WwQzNaGuBKnCY"
+          }
+        },
+        {
           "_id": "1oM8EdalXNF4uSK5k2dzLh",
           "count": 8,
           "details": {
@@ -6245,14 +6253,6 @@
           "details": {
             "name": "VALIS",
             "id": "4WrbpHc8hLKQZkBGX8k1ay"
-          }
-        },
-        {
-          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
-          "count": 7,
-          "details": {
-            "name": "Empty old City",
-            "id": "3RvUqTyR1WwQzNaGuBKnCY"
           }
         },
         {
@@ -6723,7 +6723,7 @@
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 26000877.0
+          "listened_ms": 26300237.0
         }
       ]
     },
@@ -9654,44 +9654,6 @@
           }
         },
         {
-          "_id": "4Lfm5HcL9BOiF45GCuk47X",
-          "count": 1,
-          "details": {
-            "id": "4Lfm5HcL9BOiF45GCuk47X",
-            "progress": 99.03403198186247,
-            "duration_ms": 248766,
-            "playing": true,
-            "name": "\u9999\u6c34",
-            "preview_url": "https://p.scdn.co/mp3-preview/8b18b1702dc0fef1bc63e8a79440b5c89cd01615?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "name": "DAZBEE",
-                "id": "1m0fLOy3wFNcSpwKn75qJz"
-              }
-            ],
-            "context": {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/collection/tracks"
-              },
-              "href": "https://api.spotify.com/v1/me/tracks",
-              "type": "collection",
-              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
-            },
-            "album": {
-              "name": "Remindful.Two",
-              "id": "7gzJ8sk0mZKat0SrVhh2D7",
-              "release_date": "2022-05-30",
-              "image": {
-                "height": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738a56883aabf5bea0e4b3a897",
-                "width": 640
-              }
-            },
-            "success": true,
-            "time": 1730038887260
-          }
-        },
-        {
           "_id": "32zpHDchUY83w80C8mMtOs",
           "count": 1,
           "details": {
@@ -9727,6 +9689,44 @@
             },
             "success": true,
             "time": 1730044229125
+          }
+        },
+        {
+          "_id": "4Lfm5HcL9BOiF45GCuk47X",
+          "count": 1,
+          "details": {
+            "id": "4Lfm5HcL9BOiF45GCuk47X",
+            "progress": 99.03403198186247,
+            "duration_ms": 248766,
+            "playing": true,
+            "name": "\u9999\u6c34",
+            "preview_url": "https://p.scdn.co/mp3-preview/8b18b1702dc0fef1bc63e8a79440b5c89cd01615?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "name": "DAZBEE",
+                "id": "1m0fLOy3wFNcSpwKn75qJz"
+              }
+            ],
+            "context": {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/collection/tracks"
+              },
+              "href": "https://api.spotify.com/v1/me/tracks",
+              "type": "collection",
+              "uri": "spotify:user:216m3lxuwmrmfde7wksjzb4pa:collection"
+            },
+            "album": {
+              "name": "Remindful.Two",
+              "id": "7gzJ8sk0mZKat0SrVhh2D7",
+              "release_date": "2022-05-30",
+              "image": {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2738a56883aabf5bea0e4b3a897",
+                "width": 640
+              }
+            },
+            "success": true,
+            "time": 1730038887260
           }
         },
         {
@@ -10134,20 +10134,6 @@
           }
         },
         {
-          "_id": "2ENLy9gt1vgtcvkT2of1gb",
-          "count": 2,
-          "details": {
-            "name": "Memories",
-            "id": "2ENLy9gt1vgtcvkT2of1gb",
-            "release_date": "2024-10-11",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27300b60b810552d83f58fbac64",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "7q7PwTvocTRkcCrEk6RG8y",
           "count": 2,
           "details": {
@@ -10157,6 +10143,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273ba404778a5b2953d1c26385b",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "2ENLy9gt1vgtcvkT2of1gb",
+          "count": 2,
+          "details": {
+            "name": "Memories",
+            "id": "2ENLy9gt1vgtcvkT2of1gb",
+            "release_date": "2024-10-11",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27300b60b810552d83f58fbac64",
               "width": 640
             }
           }
@@ -10442,20 +10442,6 @@
           }
         },
         {
-          "_id": "5AGRcvyFgH1cz4PppI8cNM",
-          "count": 2,
-          "details": {
-            "name": "new world (feat. \u30f0\u4e16\u754c\u60c5\u7dd2)",
-            "id": "5AGRcvyFgH1cz4PppI8cNM",
-            "release_date": "2024-06-12",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734372902cde27bc15c49ac9e7",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "68WXEthwrCRb2YCTgk7Byp",
           "count": 2,
           "details": {
@@ -10465,6 +10451,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2737dc2185d4a0da1ecf51cd283",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "5AGRcvyFgH1cz4PppI8cNM",
+          "count": 2,
+          "details": {
+            "name": "new world (feat. \u30f0\u4e16\u754c\u60c5\u7dd2)",
+            "id": "5AGRcvyFgH1cz4PppI8cNM",
+            "release_date": "2024-06-12",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734372902cde27bc15c49ac9e7",
               "width": 640
             }
           }
@@ -11464,19 +11464,19 @@
           }
         },
         {
-          "_id": "0HZLpOSMHpalBlUnONhynN",
-          "count": 2,
-          "details": {
-            "name": "TOOBOE",
-            "id": "0HZLpOSMHpalBlUnONhynN"
-          }
-        },
-        {
           "_id": "2UMMVk4WPg6pKXQGvufnuG",
           "count": 2,
           "details": {
             "name": "\u53cb\u6210\u7a7a",
             "id": "2UMMVk4WPg6pKXQGvufnuG"
+          }
+        },
+        {
+          "_id": "0HZLpOSMHpalBlUnONhynN",
+          "count": 2,
+          "details": {
+            "name": "TOOBOE",
+            "id": "0HZLpOSMHpalBlUnONhynN"
           }
         },
         {
@@ -12180,20 +12180,6 @@
       ],
       "top_albums": [
         {
-          "_id": "7zI1wDJmkfHMBwZpbwJn8H",
-          "count": 3,
-          "details": {
-            "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
-            "id": "7zI1wDJmkfHMBwZpbwJn8H",
-            "release_date": "2024-10-04",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731724b0cef6a23963d21c3b8a",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "2mhqlcRB9DHzwuf7X71n31",
           "count": 3,
           "details": {
@@ -12203,6 +12189,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27399ddbb09f7af7096cbe51bd1",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "7zI1wDJmkfHMBwZpbwJn8H",
+          "count": 3,
+          "details": {
+            "name": "\u30aa\u30c8\u30ce\u30b1 - Otonoke",
+            "id": "7zI1wDJmkfHMBwZpbwJn8H",
+            "release_date": "2024-10-04",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731724b0cef6a23963d21c3b8a",
               "width": 640
             }
           }
@@ -12236,6 +12236,20 @@
           }
         },
         {
+          "_id": "7GKFCvaNkswfB5Iwn3aal4",
+          "count": 1,
+          "details": {
+            "name": "Shoka",
+            "id": "7GKFCvaNkswfB5Iwn3aal4",
+            "release_date": "2024-10-13",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273283a117f2bc39bc4122692c0",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "79FPhxF2CpfZGzdo2h9LtS",
           "count": 1,
           "details": {
@@ -12245,6 +12259,48 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273c4384c210d69e0493882f83e",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "2KDW8smfzANb1UkB5j0ZKT",
+          "count": 1,
+          "details": {
+            "name": "20",
+            "id": "2KDW8smfzANb1UkB5j0ZKT",
+            "release_date": "2021-03-13",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b46e8327221787380e51e9a1",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "6GjMBIlEhX53ySVLBQIjQB",
+          "count": 1,
+          "details": {
+            "name": "Shiny",
+            "id": "6GjMBIlEhX53ySVLBQIjQB",
+            "release_date": "2024-09-18",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e8dce091c33b6f016ee73472",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "0aYunc3nelpAKlZbf8MYDB",
+          "count": 1,
+          "details": {
+            "name": "Remindful.One",
+            "id": "0aYunc3nelpAKlZbf8MYDB",
+            "release_date": "2022-01-25",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f768912e6775efdcf712dcce",
               "width": 640
             }
           }
@@ -12290,62 +12346,6 @@
               "width": 640
             }
           }
-        },
-        {
-          "_id": "6GjMBIlEhX53ySVLBQIjQB",
-          "count": 1,
-          "details": {
-            "name": "Shiny",
-            "id": "6GjMBIlEhX53ySVLBQIjQB",
-            "release_date": "2024-09-18",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e8dce091c33b6f016ee73472",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "2KDW8smfzANb1UkB5j0ZKT",
-          "count": 1,
-          "details": {
-            "name": "20",
-            "id": "2KDW8smfzANb1UkB5j0ZKT",
-            "release_date": "2021-03-13",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273b46e8327221787380e51e9a1",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "0aYunc3nelpAKlZbf8MYDB",
-          "count": 1,
-          "details": {
-            "name": "Remindful.One",
-            "id": "0aYunc3nelpAKlZbf8MYDB",
-            "release_date": "2022-01-25",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f768912e6775efdcf712dcce",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "7GKFCvaNkswfB5Iwn3aal4",
-          "count": 1,
-          "details": {
-            "name": "Shoka",
-            "id": "7GKFCvaNkswfB5Iwn3aal4",
-            "release_date": "2024-10-13",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273283a117f2bc39bc4122692c0",
-              "width": 640
-            }
-          }
         }
       ],
       "top_artists": [
@@ -12374,59 +12374,11 @@
           }
         },
         {
-          "_id": "5JoNnbXEGcykxL6fHRNola",
-          "count": 1,
-          "details": {
-            "name": "LOLUET",
-            "id": "5JoNnbXEGcykxL6fHRNola"
-          }
-        },
-        {
-          "_id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
-          "count": 1,
-          "details": {
-            "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-            "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
-          }
-        },
-        {
-          "_id": "1gIxoB0mBUoPr7rPyy31xf",
-          "count": 1,
-          "details": {
-            "name": "Guiano",
-            "id": "1gIxoB0mBUoPr7rPyy31xf"
-          }
-        },
-        {
-          "_id": "2JevDdymuQqbHKsPJTWyv3",
-          "count": 1,
-          "details": {
-            "name": "\u4e00\u6761\u8389\u3005\u83ef",
-            "id": "2JevDdymuQqbHKsPJTWyv3"
-          }
-        },
-        {
-          "_id": "19S7gPOuThglBNwslfkVIm",
-          "count": 1,
-          "details": {
-            "name": "\u8f5f\u306f\u3058\u3081",
-            "id": "19S7gPOuThglBNwslfkVIm"
-          }
-        },
-        {
           "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
           "count": 1,
           "details": {
             "name": "\u660e\u900f",
             "id": "71e65rSv8Dh3bfWNPQ1V1Q"
-          }
-        },
-        {
-          "_id": "39fp9WgXJxPo1pYxt96w6l",
-          "count": 1,
-          "details": {
-            "name": "\u6625\u733f\u706b",
-            "id": "39fp9WgXJxPo1pYxt96w6l"
           }
         },
         {
@@ -12454,14 +12406,6 @@
           }
         },
         {
-          "_id": "1mHZT1y9KKMq3YsGFLR9xH",
-          "count": 1,
-          "details": {
-            "name": "ReGLOSS",
-            "id": "1mHZT1y9KKMq3YsGFLR9xH"
-          }
-        },
-        {
           "_id": "61CPRQBnU83J9FIcdPincG",
           "count": 1,
           "details": {
@@ -12470,11 +12414,67 @@
           }
         },
         {
+          "_id": "1mHZT1y9KKMq3YsGFLR9xH",
+          "count": 1,
+          "details": {
+            "name": "ReGLOSS",
+            "id": "1mHZT1y9KKMq3YsGFLR9xH"
+          }
+        },
+        {
           "_id": "2i1mag1k6qyZmTXpeZ34l0",
           "count": 1,
           "details": {
             "name": "\u97f3\u4e43\u702c\u594f",
             "id": "2i1mag1k6qyZmTXpeZ34l0"
+          }
+        },
+        {
+          "_id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
+          "count": 1,
+          "details": {
+            "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+            "id": "0ZTvnZCr6Njbsmn9Xx4Y0U"
+          }
+        },
+        {
+          "_id": "5JoNnbXEGcykxL6fHRNola",
+          "count": 1,
+          "details": {
+            "name": "LOLUET",
+            "id": "5JoNnbXEGcykxL6fHRNola"
+          }
+        },
+        {
+          "_id": "2JevDdymuQqbHKsPJTWyv3",
+          "count": 1,
+          "details": {
+            "name": "\u4e00\u6761\u8389\u3005\u83ef",
+            "id": "2JevDdymuQqbHKsPJTWyv3"
+          }
+        },
+        {
+          "_id": "1gIxoB0mBUoPr7rPyy31xf",
+          "count": 1,
+          "details": {
+            "name": "Guiano",
+            "id": "1gIxoB0mBUoPr7rPyy31xf"
+          }
+        },
+        {
+          "_id": "19S7gPOuThglBNwslfkVIm",
+          "count": 1,
+          "details": {
+            "name": "\u8f5f\u306f\u3058\u3081",
+            "id": "19S7gPOuThglBNwslfkVIm"
+          }
+        },
+        {
+          "_id": "39fp9WgXJxPo1pYxt96w6l",
+          "count": 1,
+          "details": {
+            "name": "\u6625\u733f\u706b",
+            "id": "39fp9WgXJxPo1pYxt96w6l"
           }
         }
       ],
@@ -18284,6 +18284,20 @@
           }
         },
         {
+          "_id": "1sud4up8kAIa8MZJFupUMx",
+          "count": 1,
+          "details": {
+            "name": "\u6b8b\u5922",
+            "id": "1sud4up8kAIa8MZJFupUMx",
+            "release_date": "2024-07-09",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273671de38d1c3375a90ea25a15",
+              "width": 640
+            }
+          }
+        },
+        {
           "_id": "1PwHrnwnlvNg8stBetjmyE",
           "count": 1,
           "details": {
@@ -18307,20 +18321,6 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273bf8156c4459657097352189a",
-              "width": 640
-            }
-          }
-        },
-        {
-          "_id": "1sud4up8kAIa8MZJFupUMx",
-          "count": 1,
-          "details": {
-            "name": "\u6b8b\u5922",
-            "id": "1sud4up8kAIa8MZJFupUMx",
-            "release_date": "2024-07-09",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273671de38d1c3375a90ea25a15",
               "width": 640
             }
           }
@@ -18354,20 +18354,6 @@
           }
         },
         {
-          "_id": "4qnIGMmBfj8fqtZYgTbJ25",
-          "count": 1,
-          "details": {
-            "name": "Heart 111",
-            "id": "4qnIGMmBfj8fqtZYgTbJ25",
-            "release_date": "2024-04-10",
-            "image": {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27398ade5dafb5a9ef269f9d877",
-              "width": 640
-            }
-          }
-        },
-        {
           "_id": "6m70zkoxFXufdB4plRY327",
           "count": 1,
           "details": {
@@ -18377,6 +18363,20 @@
             "image": {
               "height": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2734ec7d3b2a6bcb8e1ad90e42d",
+              "width": 640
+            }
+          }
+        },
+        {
+          "_id": "4qnIGMmBfj8fqtZYgTbJ25",
+          "count": 1,
+          "details": {
+            "name": "Heart 111",
+            "id": "4qnIGMmBfj8fqtZYgTbJ25",
+            "release_date": "2024-04-10",
+            "image": {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27398ade5dafb5a9ef269f9d877",
               "width": 640
             }
           }
