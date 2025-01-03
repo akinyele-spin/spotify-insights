@@ -1,8 +1,39 @@
 {
-  "updated_at": 1735910402,
+  "updated_at": 1735910702,
   "data": {
     "today": {
       "top_songs": [
+        {
+          "_id": "5zbQrgSo7mipwzWyEs9kol",
+          "count": 3,
+          "details": {
+            "id": "5zbQrgSo7mipwzWyEs9kol",
+            "name": "WWW",
+            "progress": 100.0,
+            "duration_ms": 221100,
+            "preview_url": "https://p.scdn.co/mp3-preview/acfaeceff144f38f689f61370a9e827cfb2ae4d4?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "5OBmR4AY53SS26qHZ4uwnq",
+                "name": "HIMEHINA",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "3frEngd17MNPnHmNKKnws3",
+              "name": "WWW",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735952b0d90774c502e5bd13b5"
+              }
+            },
+            "time": 1735872326821
+          }
+        },
         {
           "_id": "1zwZprYzd16KeGx8cl4Ean",
           "count": 2,
@@ -137,37 +168,6 @@
               }
             },
             "time": 1735888440573
-          }
-        },
-        {
-          "_id": "5zbQrgSo7mipwzWyEs9kol",
-          "count": 2,
-          "details": {
-            "id": "5zbQrgSo7mipwzWyEs9kol",
-            "name": "WWW",
-            "progress": 100.0,
-            "duration_ms": 221100,
-            "preview_url": "https://p.scdn.co/mp3-preview/acfaeceff144f38f689f61370a9e827cfb2ae4d4?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "5OBmR4AY53SS26qHZ4uwnq",
-                "name": "HIMEHINA",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "3frEngd17MNPnHmNKKnws3",
-              "name": "WWW",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2735952b0d90774c502e5bd13b5"
-              }
-            },
-            "time": 1735872326821
           }
         },
         {
@@ -332,43 +332,6 @@
           }
         },
         {
-          "_id": "4n7nwDqrdx3qmJvEACOMrN",
-          "count": 1,
-          "details": {
-            "id": "4n7nwDqrdx3qmJvEACOMrN",
-            "name": "Take Me to the Beach (feat. Ado)",
-            "progress": 18.687225341796875,
-            "duration_ms": 167066,
-            "preview_url": "https://p.scdn.co/mp3-preview/dd7a02e925415b52c893fea5f3d720ac03f40b00?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "53XhwfbYqKCa1cC15pYq2q",
-                "name": "Imagine Dragons",
-                "img": null,
-                "genres": null
-              },
-              {
-                "id": "6mEQK9m2krja6X1cfsAjfl",
-                "name": "Ado",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "42qtC6akiL6crX1i4Sf4yJ",
-              "name": "Take Me to the Beach (feat. Ado)",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2735a11303b900d06348d84337f"
-              }
-            },
-            "time": 1735872771810
-          }
-        },
-        {
           "_id": "64RcdAiNSV8huAwLYnGYHa",
           "count": 1,
           "details": {
@@ -428,6 +391,43 @@
               }
             },
             "time": 1735873969302
+          }
+        },
+        {
+          "_id": "4n7nwDqrdx3qmJvEACOMrN",
+          "count": 1,
+          "details": {
+            "id": "4n7nwDqrdx3qmJvEACOMrN",
+            "name": "Take Me to the Beach (feat. Ado)",
+            "progress": 18.687225341796875,
+            "duration_ms": 167066,
+            "preview_url": "https://p.scdn.co/mp3-preview/dd7a02e925415b52c893fea5f3d720ac03f40b00?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "53XhwfbYqKCa1cC15pYq2q",
+                "name": "Imagine Dragons",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "6mEQK9m2krja6X1cfsAjfl",
+                "name": "Ado",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "42qtC6akiL6crX1i4Sf4yJ",
+              "name": "Take Me to the Beach (feat. Ado)",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2735a11303b900d06348d84337f"
+              }
+            },
+            "time": 1735872771810
           }
         },
         {
@@ -1623,7 +1623,7 @@
           "details": {
             "id": "1tmP2YkGYyV0L78TzlWkp7",
             "name": "\u7a7a\u4e2d\u6563\u6b69",
-            "progress": 94.26102447509766,
+            "progress": 100.0,
             "duration_ms": 162102,
             "preview_url": "https://p.scdn.co/mp3-preview/ec452bbeb29c7f709e08ba921b1144ada7b5d79e?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
@@ -1646,6 +1646,37 @@
               }
             },
             "time": 1735910249822
+          }
+        },
+        {
+          "_id": "54HA2kPOj2gA3KRTF9Uliz",
+          "count": 1,
+          "details": {
+            "id": "54HA2kPOj2gA3KRTF9Uliz",
+            "name": "usotsuki emily",
+            "progress": 17.857446670532227,
+            "duration_ms": 234776,
+            "preview_url": "https://p.scdn.co/mp3-preview/c18ff79660af453af260e7f1c819f7f7e9c23a57?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "7ui2RoF4OYUgPGX937n5xQ",
+                "name": "sana",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "0A7PVTTcEVLVJ9VaQbJ2cR",
+              "name": "Hush a by little girl",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27313566b5d477c16b00434ff6e"
+              }
+            },
+            "time": 1735910412214
           }
         },
         {
@@ -1739,6 +1770,67 @@
               }
             },
             "time": 1735889518024
+          }
+        },
+        {
+          "_id": "2PG3MWwxdIdroPLl9Vx5z3",
+          "count": 1,
+          "details": {
+            "id": "2PG3MWwxdIdroPLl9Vx5z3",
+            "name": "\u6b32\u671b",
+            "progress": 30.124448776245117,
+            "duration_ms": 159744,
+            "preview_url": "https://p.scdn.co/mp3-preview/9816f57d7f49568149f19d3e8d46e2631ff5dcea?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2WEdpSG62DEFsMhN4iw5P1",
+                "name": "V.W.P",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "1rFELoNfdLOYWPwtrBN6zS",
+                "name": "\u7406\u82bd",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "39fp9WgXJxPo1pYxt96w6l",
+                "name": "\u6625\u733f\u706b",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "1oM8EdalXNF4uSK5k2dzLh",
+                "name": "\u5e78\u795c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "10gtDo5NX1O0clKC2A6UJq",
+              "name": "\u899a\u9192",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27374866c0f206e603d8021435d"
+              }
+            },
+            "time": 1735910454602
           }
         },
         {
@@ -2260,37 +2352,6 @@
           }
         },
         {
-          "_id": "6qRXiDBpqYSNziFaHLl8tV",
-          "count": 1,
-          "details": {
-            "id": "6qRXiDBpqYSNziFaHLl8tV",
-            "name": "HAREBARE",
-            "progress": 100.0,
-            "duration_ms": 188936,
-            "preview_url": "https://p.scdn.co/mp3-preview/39126eba2ab4479f33e9de74643c6ff42504f3de?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "3sQqFA3jHUjGGUoUvwX7B2",
-                "name": "CULUA",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "65MUZrDqQenpzqBgcaJPNk",
-              "name": "HAREBARE",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273f82dec12c031ab434f0654f3"
-              }
-            },
-            "time": 1735890172940
-          }
-        },
-        {
           "_id": "3TFh23nG0LQsejqcLtaIk9",
           "count": 1,
           "details": {
@@ -2319,6 +2380,37 @@
               }
             },
             "time": 1735887335150
+          }
+        },
+        {
+          "_id": "6qRXiDBpqYSNziFaHLl8tV",
+          "count": 1,
+          "details": {
+            "id": "6qRXiDBpqYSNziFaHLl8tV",
+            "name": "HAREBARE",
+            "progress": 100.0,
+            "duration_ms": 188936,
+            "preview_url": "https://p.scdn.co/mp3-preview/39126eba2ab4479f33e9de74643c6ff42504f3de?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "3sQqFA3jHUjGGUoUvwX7B2",
+                "name": "CULUA",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "65MUZrDqQenpzqBgcaJPNk",
+              "name": "HAREBARE",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273f82dec12c031ab434f0654f3"
+              }
+            },
+            "time": 1735890172940
           }
         },
         {
@@ -3287,7 +3379,7 @@
         },
         {
           "_id": "0A7PVTTcEVLVJ9VaQbJ2cR",
-          "count": 5,
+          "count": 6,
           "details": {
             "id": "0A7PVTTcEVLVJ9VaQbJ2cR",
             "name": "Hush a by little girl",
@@ -3346,6 +3438,21 @@
           }
         },
         {
+          "_id": "10gtDo5NX1O0clKC2A6UJq",
+          "count": 3,
+          "details": {
+            "id": "10gtDo5NX1O0clKC2A6UJq",
+            "name": "\u899a\u9192",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27374866c0f206e603d8021435d"
+            }
+          }
+        },
+        {
           "_id": "2RpO86l0Z8eF6tv0SuINPU",
           "count": 3,
           "details": {
@@ -3361,6 +3468,21 @@
           }
         },
         {
+          "_id": "3frEngd17MNPnHmNKKnws3",
+          "count": 3,
+          "details": {
+            "id": "3frEngd17MNPnHmNKKnws3",
+            "name": "WWW",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2735952b0d90774c502e5bd13b5"
+            }
+          }
+        },
+        {
           "_id": "3x8XH70DYt2L4HLBdDm2SQ",
           "count": 3,
           "details": {
@@ -3372,21 +3494,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27351b99cd0e6afe4d3c032be3c"
-            }
-          }
-        },
-        {
-          "_id": "2vCIKRkDwoc49ryGPOgoR1",
-          "count": 2,
-          "details": {
-            "id": "2vCIKRkDwoc49ryGPOgoR1",
-            "name": "\u3086\u308b\u3055\u308c\u306a\u3044\u3067",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732235c8e99035a38d338d1dff"
             }
           }
         },
@@ -3421,17 +3528,17 @@
           }
         },
         {
-          "_id": "57oaoVjAJxCPkXM2F60J2x",
+          "_id": "2vCIKRkDwoc49ryGPOgoR1",
           "count": 2,
           "details": {
-            "id": "57oaoVjAJxCPkXM2F60J2x",
-            "name": "Angle.",
+            "id": "2vCIKRkDwoc49ryGPOgoR1",
+            "name": "\u3086\u308b\u3055\u308c\u306a\u3044\u3067",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2733235b8176c379e609e7cad7d"
+              "url": "https://i.scdn.co/image/ab67616d0000b2732235c8e99035a38d338d1dff"
             }
           }
         },
@@ -3451,6 +3558,21 @@
           }
         },
         {
+          "_id": "57oaoVjAJxCPkXM2F60J2x",
+          "count": 2,
+          "details": {
+            "id": "57oaoVjAJxCPkXM2F60J2x",
+            "name": "Angle.",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733235b8176c379e609e7cad7d"
+            }
+          }
+        },
+        {
           "_id": "1IH5AR4TAfKCalIxR5tI3p",
           "count": 2,
           "details": {
@@ -3462,21 +3584,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273a5eab3b6b866ad5d824a581b"
-            }
-          }
-        },
-        {
-          "_id": "10gtDo5NX1O0clKC2A6UJq",
-          "count": 2,
-          "details": {
-            "id": "10gtDo5NX1O0clKC2A6UJq",
-            "name": "\u899a\u9192",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27374866c0f206e603d8021435d"
             }
           }
         },
@@ -3496,17 +3603,17 @@
           }
         },
         {
-          "_id": "3frEngd17MNPnHmNKKnws3",
-          "count": 2,
+          "_id": "2aig4lobvtGAVzneCVSwyt",
+          "count": 1,
           "details": {
-            "id": "3frEngd17MNPnHmNKKnws3",
-            "name": "WWW",
+            "id": "2aig4lobvtGAVzneCVSwyt",
+            "name": "NEW ROMANCER2",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735952b0d90774c502e5bd13b5"
+              "url": "https://i.scdn.co/image/ab67616d0000b2731f37159e7a641abab4a981e7"
             }
           }
         },
@@ -3526,36 +3633,6 @@
           }
         },
         {
-          "_id": "703e7LMv2vh5MpbFpNM0Di",
-          "count": 1,
-          "details": {
-            "id": "703e7LMv2vh5MpbFpNM0Di",
-            "name": "Rainy proof",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2730000aeb878a06184606f1d94"
-            }
-          }
-        },
-        {
-          "_id": "2aig4lobvtGAVzneCVSwyt",
-          "count": 1,
-          "details": {
-            "id": "2aig4lobvtGAVzneCVSwyt",
-            "name": "NEW ROMANCER2",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731f37159e7a641abab4a981e7"
-            }
-          }
-        },
-        {
           "_id": "0IITU6eZDgvwO9F4Dk1ggM",
           "count": 1,
           "details": {
@@ -3567,66 +3644,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273085c35495782c40807ac7de2"
-            }
-          }
-        },
-        {
-          "_id": "4dD0hnVXxV4nJ0aZO23Wrb",
-          "count": 1,
-          "details": {
-            "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-            "name": "\u5bd3\u8a71",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-            }
-          }
-        },
-        {
-          "_id": "4MfcFPkwty3z9liW6fa9Bt",
-          "count": 1,
-          "details": {
-            "id": "4MfcFPkwty3z9liW6fa9Bt",
-            "name": "Twilight Line",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273249315010ad93bbb268e7f1e"
-            }
-          }
-        },
-        {
-          "_id": "1udLXd43HalzNCDU5zPVpe",
-          "count": 1,
-          "details": {
-            "id": "1udLXd43HalzNCDU5zPVpe",
-            "name": "Change.",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bb855ccdccac068a12092193"
-            }
-          }
-        },
-        {
-          "_id": "4qvW52ziWHJyKchMGOyJgZ",
-          "count": 1,
-          "details": {
-            "id": "4qvW52ziWHJyKchMGOyJgZ",
-            "name": "\u30b7\u30b9\u30c6\u30e0\u30ba\u30b3\u30a2",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734efbd3d3f7c96945d6527062"
             }
           }
         },
@@ -3661,17 +3678,47 @@
           }
         },
         {
-          "_id": "2JQwdfOMJa81fbxLE5My4B",
+          "_id": "1udLXd43HalzNCDU5zPVpe",
           "count": 1,
           "details": {
-            "id": "2JQwdfOMJa81fbxLE5My4B",
-            "name": "Bell Ringer",
+            "id": "1udLXd43HalzNCDU5zPVpe",
+            "name": "Change.",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d46627a8c2f817b4b682323d"
+              "url": "https://i.scdn.co/image/ab67616d0000b273bb855ccdccac068a12092193"
+            }
+          }
+        },
+        {
+          "_id": "4MfcFPkwty3z9liW6fa9Bt",
+          "count": 1,
+          "details": {
+            "id": "4MfcFPkwty3z9liW6fa9Bt",
+            "name": "Twilight Line",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273249315010ad93bbb268e7f1e"
+            }
+          }
+        },
+        {
+          "_id": "4qvW52ziWHJyKchMGOyJgZ",
+          "count": 1,
+          "details": {
+            "id": "4qvW52ziWHJyKchMGOyJgZ",
+            "name": "\u30b7\u30b9\u30c6\u30e0\u30ba\u30b3\u30a2",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734efbd3d3f7c96945d6527062"
             }
           }
         },
@@ -3691,17 +3738,17 @@
           }
         },
         {
-          "_id": "79oKhb3by01uA0Cgkafa5s",
+          "_id": "2JQwdfOMJa81fbxLE5My4B",
           "count": 1,
           "details": {
-            "id": "79oKhb3by01uA0Cgkafa5s",
-            "name": "CALL",
+            "id": "2JQwdfOMJa81fbxLE5My4B",
+            "name": "Bell Ringer",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732670bab1055e0b5dfa3e4c18"
+              "url": "https://i.scdn.co/image/ab67616d0000b273d46627a8c2f817b4b682323d"
             }
           }
         },
@@ -3721,21 +3768,6 @@
           }
         },
         {
-          "_id": "0MzKt3iPFHUAG362cfpTJm",
-          "count": 1,
-          "details": {
-            "id": "0MzKt3iPFHUAG362cfpTJm",
-            "name": "LAG",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f47668cc63a5519c7a9165f9"
-            }
-          }
-        },
-        {
           "_id": "0ReUEF5c4w5EucW8aAroK8",
           "count": 1,
           "details": {
@@ -3747,6 +3779,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273f33b7de9fda7a224a7d713b4"
+            }
+          }
+        },
+        {
+          "_id": "0MzKt3iPFHUAG362cfpTJm",
+          "count": 1,
+          "details": {
+            "id": "0MzKt3iPFHUAG362cfpTJm",
+            "name": "LAG",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f47668cc63a5519c7a9165f9"
             }
           }
         },
@@ -3781,6 +3828,21 @@
           }
         },
         {
+          "_id": "1SgVDJlnoui42cZORsHzj8",
+          "count": 1,
+          "details": {
+            "id": "1SgVDJlnoui42cZORsHzj8",
+            "name": "Vivi\u2260de",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27394dc8452e2e9b5e3a0a0675d"
+            }
+          }
+        },
+        {
           "_id": "7iMsGCtr6Py82sNVq2fOqX",
           "count": 1,
           "details": {
@@ -3792,6 +3854,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273b0faa9c45821ec84fa29d482"
+            }
+          }
+        },
+        {
+          "_id": "79oKhb3by01uA0Cgkafa5s",
+          "count": 1,
+          "details": {
+            "id": "79oKhb3by01uA0Cgkafa5s",
+            "name": "CALL",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732670bab1055e0b5dfa3e4c18"
             }
           }
         },
@@ -3826,32 +3903,32 @@
           }
         },
         {
-          "_id": "1SgVDJlnoui42cZORsHzj8",
+          "_id": "68WXEthwrCRb2YCTgk7Byp",
           "count": 1,
           "details": {
-            "id": "1SgVDJlnoui42cZORsHzj8",
-            "name": "Vivi\u2260de",
+            "id": "68WXEthwrCRb2YCTgk7Byp",
+            "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27394dc8452e2e9b5e3a0a0675d"
+              "url": "https://i.scdn.co/image/ab67616d0000b2737dc2185d4a0da1ecf51cd283"
             }
           }
         },
         {
-          "_id": "77yPyC9Hs3ywrBl8xsrjJh",
+          "_id": "3gbZPDcAjW5rlTh7whh82s",
           "count": 1,
           "details": {
-            "id": "77yPyC9Hs3ywrBl8xsrjJh",
-            "name": "Natsutourou",
+            "id": "3gbZPDcAjW5rlTh7whh82s",
+            "name": "more Allegro more Repeat",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737fa9538093d539e7fe4fda23"
+              "url": "https://i.scdn.co/image/ab67616d0000b273ae4a83dc680591846a0d6490"
             }
           }
         },
@@ -3886,32 +3963,17 @@
           }
         },
         {
-          "_id": "68WXEthwrCRb2YCTgk7Byp",
+          "_id": "77yPyC9Hs3ywrBl8xsrjJh",
           "count": 1,
           "details": {
-            "id": "68WXEthwrCRb2YCTgk7Byp",
-            "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
+            "id": "77yPyC9Hs3ywrBl8xsrjJh",
+            "name": "Natsutourou",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737dc2185d4a0da1ecf51cd283"
-            }
-          }
-        },
-        {
-          "_id": "3gbZPDcAjW5rlTh7whh82s",
-          "count": 1,
-          "details": {
-            "id": "3gbZPDcAjW5rlTh7whh82s",
-            "name": "more Allegro more Repeat",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ae4a83dc680591846a0d6490"
+              "url": "https://i.scdn.co/image/ab67616d0000b2737fa9538093d539e7fe4fda23"
             }
           }
         },
@@ -3927,6 +3989,66 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273916a62295d9ed25a5895d085"
+            }
+          }
+        },
+        {
+          "_id": "112oRHl9LZ4azhifjWTBqA",
+          "count": 1,
+          "details": {
+            "id": "112oRHl9LZ4azhifjWTBqA",
+            "name": "Utopia",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f8bc4d4f4511c7f27084ee2c"
+            }
+          }
+        },
+        {
+          "_id": "65MUZrDqQenpzqBgcaJPNk",
+          "count": 1,
+          "details": {
+            "id": "65MUZrDqQenpzqBgcaJPNk",
+            "name": "HAREBARE",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f82dec12c031ab434f0654f3"
+            }
+          }
+        },
+        {
+          "_id": "5MltogtE2HY0tWCYRDVZam",
+          "count": 1,
+          "details": {
+            "id": "5MltogtE2HY0tWCYRDVZam",
+            "name": "A",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ffc5f1ba19068adca91008f0"
+            }
+          }
+        },
+        {
+          "_id": "3ZKTQTFC1zy4vhYX0tPDkQ",
+          "count": 1,
+          "details": {
+            "id": "3ZKTQTFC1zy4vhYX0tPDkQ",
+            "name": "\u7262\u7344",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d0a64e0353f9d51bb89716f1"
             }
           }
         },
@@ -3961,62 +4083,32 @@
           }
         },
         {
-          "_id": "5MltogtE2HY0tWCYRDVZam",
+          "_id": "42qtC6akiL6crX1i4Sf4yJ",
           "count": 1,
           "details": {
-            "id": "5MltogtE2HY0tWCYRDVZam",
-            "name": "A",
+            "id": "42qtC6akiL6crX1i4Sf4yJ",
+            "name": "Take Me to the Beach (feat. Ado)",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ffc5f1ba19068adca91008f0"
+              "url": "https://i.scdn.co/image/ab67616d0000b2735a11303b900d06348d84337f"
             }
           }
         },
         {
-          "_id": "65MUZrDqQenpzqBgcaJPNk",
+          "_id": "703e7LMv2vh5MpbFpNM0Di",
           "count": 1,
           "details": {
-            "id": "65MUZrDqQenpzqBgcaJPNk",
-            "name": "HAREBARE",
+            "id": "703e7LMv2vh5MpbFpNM0Di",
+            "name": "Rainy proof",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f82dec12c031ab434f0654f3"
-            }
-          }
-        },
-        {
-          "_id": "3ZKTQTFC1zy4vhYX0tPDkQ",
-          "count": 1,
-          "details": {
-            "id": "3ZKTQTFC1zy4vhYX0tPDkQ",
-            "name": "\u7262\u7344",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d0a64e0353f9d51bb89716f1"
-            }
-          }
-        },
-        {
-          "_id": "112oRHl9LZ4azhifjWTBqA",
-          "count": 1,
-          "details": {
-            "id": "112oRHl9LZ4azhifjWTBqA",
-            "name": "Utopia",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f8bc4d4f4511c7f27084ee2c"
+              "url": "https://i.scdn.co/image/ab67616d0000b2730000aeb878a06184606f1d94"
             }
           }
         },
@@ -4036,17 +4128,17 @@
           }
         },
         {
-          "_id": "42qtC6akiL6crX1i4Sf4yJ",
+          "_id": "4dD0hnVXxV4nJ0aZO23Wrb",
           "count": 1,
           "details": {
-            "id": "42qtC6akiL6crX1i4Sf4yJ",
-            "name": "Take Me to the Beach (feat. Ado)",
+            "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+            "name": "\u5bd3\u8a71",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2735a11303b900d06348d84337f"
+              "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
             }
           }
         }
@@ -4054,7 +4146,7 @@
       "top_artists": [
         {
           "_id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
-          "count": 32,
+          "count": 33,
           "details": {
             "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
             "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
@@ -4074,10 +4166,20 @@
         },
         {
           "_id": "2c32JruIkUyfdycHmhIph4",
-          "count": 11,
+          "count": 12,
           "details": {
             "id": "2c32JruIkUyfdycHmhIph4",
             "name": "\u82b1\u8b5c",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2WEdpSG62DEFsMhN4iw5P1",
+          "count": 10,
+          "details": {
+            "id": "2WEdpSG62DEFsMhN4iw5P1",
+            "name": "V.W.P",
             "img": null,
             "genres": null
           }
@@ -4093,21 +4195,41 @@
           }
         },
         {
-          "_id": "2WEdpSG62DEFsMhN4iw5P1",
+          "_id": "39fp9WgXJxPo1pYxt96w6l",
           "count": 9,
           "details": {
-            "id": "2WEdpSG62DEFsMhN4iw5P1",
-            "name": "V.W.P",
+            "id": "39fp9WgXJxPo1pYxt96w6l",
+            "name": "\u6625\u733f\u706b",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "39fp9WgXJxPo1pYxt96w6l",
-          "count": 8,
+          "_id": "1oM8EdalXNF4uSK5k2dzLh",
+          "count": 7,
           "details": {
-            "id": "39fp9WgXJxPo1pYxt96w6l",
-            "name": "\u6625\u733f\u706b",
+            "id": "1oM8EdalXNF4uSK5k2dzLh",
+            "name": "\u5e78\u795c",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1rFELoNfdLOYWPwtrBN6zS",
+          "count": 7,
+          "details": {
+            "id": "1rFELoNfdLOYWPwtrBN6zS",
+            "name": "\u7406\u82bd",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "7ui2RoF4OYUgPGX937n5xQ",
+          "count": 7,
+          "details": {
+            "id": "7ui2RoF4OYUgPGX937n5xQ",
+            "name": "sana",
             "img": null,
             "genres": null
           }
@@ -4118,36 +4240,6 @@
           "details": {
             "id": "4uWpa0r7BZUXJ1ip2LJysz",
             "name": "KMNZ",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "7ui2RoF4OYUgPGX937n5xQ",
-          "count": 6,
-          "details": {
-            "id": "7ui2RoF4OYUgPGX937n5xQ",
-            "name": "sana",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "1rFELoNfdLOYWPwtrBN6zS",
-          "count": 6,
-          "details": {
-            "id": "1rFELoNfdLOYWPwtrBN6zS",
-            "name": "\u7406\u82bd",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "1oM8EdalXNF4uSK5k2dzLh",
-          "count": 6,
-          "details": {
-            "id": "1oM8EdalXNF4uSK5k2dzLh",
-            "name": "\u5e78\u795c",
             "img": null,
             "genres": null
           }
@@ -4168,6 +4260,16 @@
           "details": {
             "id": "1gIxoB0mBUoPr7rPyy31xf",
             "name": "Guiano",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "5OBmR4AY53SS26qHZ4uwnq",
+          "count": 3,
+          "details": {
+            "id": "5OBmR4AY53SS26qHZ4uwnq",
+            "name": "HIMEHINA",
             "img": null,
             "genres": null
           }
@@ -4213,16 +4315,6 @@
           }
         },
         {
-          "_id": "5OBmR4AY53SS26qHZ4uwnq",
-          "count": 2,
-          "details": {
-            "id": "5OBmR4AY53SS26qHZ4uwnq",
-            "name": "HIMEHINA",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "3RvUqTyR1WwQzNaGuBKnCY",
           "count": 2,
           "details": {
@@ -4233,31 +4325,11 @@
           }
         },
         {
-          "_id": "6mEQK9m2krja6X1cfsAjfl",
+          "_id": "17yV3AyMsphviVbJ0DMNPz",
           "count": 1,
           "details": {
-            "id": "6mEQK9m2krja6X1cfsAjfl",
-            "name": "Ado",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "44D3MnQihKkhALgAxoMiOL",
-          "count": 1,
-          "details": {
-            "id": "44D3MnQihKkhALgAxoMiOL",
-            "name": "\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "6HsCnf0xpVFfDiS4Sa7r8T",
-          "count": 1,
-          "details": {
-            "id": "6HsCnf0xpVFfDiS4Sa7r8T",
-            "name": "konoco",
+            "id": "17yV3AyMsphviVbJ0DMNPz",
+            "name": "\u68ee\u5148\u5316\u6b69",
             "img": null,
             "genres": null
           }
@@ -4273,11 +4345,61 @@
           }
         },
         {
+          "_id": "6HsCnf0xpVFfDiS4Sa7r8T",
+          "count": 1,
+          "details": {
+            "id": "6HsCnf0xpVFfDiS4Sa7r8T",
+            "name": "konoco",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "44D3MnQihKkhALgAxoMiOL",
+          "count": 1,
+          "details": {
+            "id": "44D3MnQihKkhALgAxoMiOL",
+            "name": "\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
           "_id": "3AMFQZ3Tt549kShRG2IBYT",
           "count": 1,
           "details": {
             "id": "3AMFQZ3Tt549kShRG2IBYT",
             "name": "Aiobahn",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "3br9le9sNFSVAVBDTjdOn4",
+          "count": 1,
+          "details": {
+            "id": "3br9le9sNFSVAVBDTjdOn4",
+            "name": "CIEL",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1mZtAFuxFAgqmTCqfKLWoj",
+          "count": 1,
+          "details": {
+            "id": "1mZtAFuxFAgqmTCqfKLWoj",
+            "name": "DE DE MOUSE",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "53XhwfbYqKCa1cC15pYq2q",
+          "count": 1,
+          "details": {
+            "id": "53XhwfbYqKCa1cC15pYq2q",
+            "name": "Imagine Dragons",
             "img": null,
             "genres": null
           }
@@ -4303,16 +4425,6 @@
           }
         },
         {
-          "_id": "53XhwfbYqKCa1cC15pYq2q",
-          "count": 1,
-          "details": {
-            "id": "53XhwfbYqKCa1cC15pYq2q",
-            "name": "Imagine Dragons",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "0Ur3wB7R1lkydYPdwATVpe",
           "count": 1,
           "details": {
@@ -4323,21 +4435,11 @@
           }
         },
         {
-          "_id": "1mZtAFuxFAgqmTCqfKLWoj",
+          "_id": "149NvPpUqGPjWT8xmHbobl",
           "count": 1,
           "details": {
-            "id": "1mZtAFuxFAgqmTCqfKLWoj",
-            "name": "DE DE MOUSE",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "3br9le9sNFSVAVBDTjdOn4",
-          "count": 1,
-          "details": {
-            "id": "3br9le9sNFSVAVBDTjdOn4",
-            "name": "CIEL",
+            "id": "149NvPpUqGPjWT8xmHbobl",
+            "name": "\u77e2\u91ce\u9054\u4e5f",
             "img": null,
             "genres": null
           }
@@ -4363,11 +4465,11 @@
           }
         },
         {
-          "_id": "149NvPpUqGPjWT8xmHbobl",
+          "_id": "71B1IRtrf1zRRSUPOsxOLu",
           "count": 1,
           "details": {
-            "id": "149NvPpUqGPjWT8xmHbobl",
-            "name": "\u77e2\u91ce\u9054\u4e5f",
+            "id": "71B1IRtrf1zRRSUPOsxOLu",
+            "name": "\u785d\u5b50\u5bae",
             "img": null,
             "genres": null
           }
@@ -4383,11 +4485,11 @@
           }
         },
         {
-          "_id": "71B1IRtrf1zRRSUPOsxOLu",
+          "_id": "5JoNnbXEGcykxL6fHRNola",
           "count": 1,
           "details": {
-            "id": "71B1IRtrf1zRRSUPOsxOLu",
-            "name": "\u785d\u5b50\u5bae",
+            "id": "5JoNnbXEGcykxL6fHRNola",
+            "name": "LOLUET",
             "img": null,
             "genres": null
           }
@@ -4413,16 +4515,6 @@
           }
         },
         {
-          "_id": "5JoNnbXEGcykxL6fHRNola",
-          "count": 1,
-          "details": {
-            "id": "5JoNnbXEGcykxL6fHRNola",
-            "name": "LOLUET",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "6BzlN4V17m7ogeItP4CNN5",
           "count": 1,
           "details": {
@@ -4433,11 +4525,11 @@
           }
         },
         {
-          "_id": "17yV3AyMsphviVbJ0DMNPz",
+          "_id": "6mEQK9m2krja6X1cfsAjfl",
           "count": 1,
           "details": {
-            "id": "17yV3AyMsphviVbJ0DMNPz",
-            "name": "\u68ee\u5148\u5316\u6b69",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
             "img": null,
             "genres": null
           }
@@ -4456,41 +4548,41 @@
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 17655885.016559474
+          "listened_ms": 17822799.009824626
         }
       ]
     },
     "yesterday": {
       "top_songs": [
         {
-          "_id": "4wYyhIoEEjCD5P1qYzCT3J",
+          "_id": "57yGGqI89H0VYHh7BMzHoT",
           "count": 1,
           "details": {
-            "id": "4wYyhIoEEjCD5P1qYzCT3J",
-            "name": "\u30f4\u30a1\u30fc\u30df\u30ea\u30aa\u30f3",
-            "progress": 98.90800476074219,
-            "duration_ms": 187821,
-            "preview_url": "https://p.scdn.co/mp3-preview/5c5a626c2abf2f095cb2040fdc5f77914a1ea766?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "57yGGqI89H0VYHh7BMzHoT",
+            "name": "\u30c0\u30f3\u30c0\u30e9\u30dc\u30c3\u30c1",
+            "progress": 99.11371612548828,
+            "duration_ms": 196100,
+            "preview_url": "https://p.scdn.co/mp3-preview/34154441c870eba75082f7fc6eb7062d844b3e05?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
                 "img": null,
                 "genres": null
               }
             ],
             "album": {
-              "id": "49ELlmc6ykxao1ovjxl57b",
-              "name": "\u8272\u5f69",
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
               "img": null,
               "genres": null,
               "image": {
                 "height": 640,
                 "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
               }
             },
-            "time": 1735859082809
+            "time": 1735852927683
           }
         },
         {
@@ -4618,37 +4710,6 @@
           }
         },
         {
-          "_id": "3EO0GZ2py5Iy8cyYq0yMri",
-          "count": 1,
-          "details": {
-            "id": "3EO0GZ2py5Iy8cyYq0yMri",
-            "name": "\u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3",
-            "progress": 99.8595962524414,
-            "duration_ms": 183756,
-            "preview_url": "https://p.scdn.co/mp3-preview/c6202baa8b9af230837281decf3319c7b1cf62a9?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "49ELlmc6ykxao1ovjxl57b",
-              "name": "\u8272\u5f69",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
-              }
-            },
-            "time": 1735857825103
-          }
-        },
-        {
           "_id": "2j3i36WBVN8ip7kRdH7C1u",
           "count": 1,
           "details": {
@@ -4677,68 +4738,6 @@
               }
             },
             "time": 1735858210388
-          }
-        },
-        {
-          "_id": "4ieJKUj64aZwXGFgeJ7x7P",
-          "count": 1,
-          "details": {
-            "id": "4ieJKUj64aZwXGFgeJ7x7P",
-            "name": "\u4ee3\u66ff\u5b09\u3005",
-            "progress": 29.055160522460938,
-            "duration_ms": 261833,
-            "preview_url": "https://p.scdn.co/mp3-preview/b4bb78c9337f2c41f070fcc31636e93adce0f2c9?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-              }
-            },
-            "time": 1735853870041
-          }
-        },
-        {
-          "_id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
-          "count": 1,
-          "details": {
-            "id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
-            "name": "\u304b\u307f\u306e\u3044\u306a\u3044\u305b\u304b\u3044\u3067 - Instrumental",
-            "progress": 2.070774793624878,
-            "duration_ms": 99866,
-            "preview_url": "https://p.scdn.co/mp3-preview/9c0f26415dcf39c959c38f75f926c105867de264?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-              }
-            },
-            "time": 1735797628003
           }
         },
         {
@@ -4779,6 +4778,99 @@
           }
         },
         {
+          "_id": "3EO0GZ2py5Iy8cyYq0yMri",
+          "count": 1,
+          "details": {
+            "id": "3EO0GZ2py5Iy8cyYq0yMri",
+            "name": "\u30c7\u30a3\u30e1\u30f3\u30b7\u30e7\u30f3",
+            "progress": 99.8595962524414,
+            "duration_ms": 183756,
+            "preview_url": "https://p.scdn.co/mp3-preview/c6202baa8b9af230837281decf3319c7b1cf62a9?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "49ELlmc6ykxao1ovjxl57b",
+              "name": "\u8272\u5f69",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
+              }
+            },
+            "time": 1735857825103
+          }
+        },
+        {
+          "_id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
+          "count": 1,
+          "details": {
+            "id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
+            "name": "\u304b\u307f\u306e\u3044\u306a\u3044\u305b\u304b\u3044\u3067 - Instrumental",
+            "progress": 2.070774793624878,
+            "duration_ms": 99866,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c0f26415dcf39c959c38f75f926c105867de264?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+              }
+            },
+            "time": 1735797628003
+          }
+        },
+        {
+          "_id": "4ieJKUj64aZwXGFgeJ7x7P",
+          "count": 1,
+          "details": {
+            "id": "4ieJKUj64aZwXGFgeJ7x7P",
+            "name": "\u4ee3\u66ff\u5b09\u3005",
+            "progress": 29.055160522460938,
+            "duration_ms": 261833,
+            "preview_url": "https://p.scdn.co/mp3-preview/b4bb78c9337f2c41f070fcc31636e93adce0f2c9?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+              }
+            },
+            "time": 1735853870041
+          }
+        },
+        {
           "_id": "1ywClLYCfFayAgrz1upJB6",
           "count": 1,
           "details": {
@@ -4807,37 +4899,6 @@
               }
             },
             "time": 1735858858905
-          }
-        },
-        {
-          "_id": "387RbgoBst5vZnKT6LdmS7",
-          "count": 1,
-          "details": {
-            "id": "387RbgoBst5vZnKT6LdmS7",
-            "name": "\u63cf\u304d\u7d9a\u3051\u305f\u541b\u3078",
-            "progress": 45.03224182128906,
-            "duration_ms": 310482,
-            "preview_url": "https://p.scdn.co/mp3-preview/56237efc3fc26880afa6569a7b9d6c2ad4f32f50?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "49ELlmc6ykxao1ovjxl57b",
-              "name": "\u8272\u5f69",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
-              }
-            },
-            "time": 1735859280116
           }
         },
         {
@@ -4872,14 +4933,14 @@
           }
         },
         {
-          "_id": "6GEgo3BI7ARtR9lev8i8xB",
+          "_id": "387RbgoBst5vZnKT6LdmS7",
           "count": 1,
           "details": {
-            "id": "6GEgo3BI7ARtR9lev8i8xB",
-            "name": "\u30cd\u30ea\u30cd\u306e\u5185\u7dd2\u4e8b",
-            "progress": 100.0,
-            "duration_ms": 232538,
-            "preview_url": "https://p.scdn.co/mp3-preview/b3e585fd3d24a53377561f1aead0ded3908252c8?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "387RbgoBst5vZnKT6LdmS7",
+            "name": "\u63cf\u304d\u7d9a\u3051\u305f\u541b\u3078",
+            "progress": 45.03224182128906,
+            "duration_ms": 310482,
+            "preview_url": "https://p.scdn.co/mp3-preview/56237efc3fc26880afa6569a7b9d6c2ad4f32f50?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
@@ -4899,7 +4960,7 @@
                 "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
               }
             },
-            "time": 1735858626156
+            "time": 1735859280116
           }
         },
         {
@@ -4931,6 +4992,37 @@
               }
             },
             "time": 1735858400704
+          }
+        },
+        {
+          "_id": "6GEgo3BI7ARtR9lev8i8xB",
+          "count": 1,
+          "details": {
+            "id": "6GEgo3BI7ARtR9lev8i8xB",
+            "name": "\u30cd\u30ea\u30cd\u306e\u5185\u7dd2\u4e8b",
+            "progress": 100.0,
+            "duration_ms": 232538,
+            "preview_url": "https://p.scdn.co/mp3-preview/b3e585fd3d24a53377561f1aead0ded3908252c8?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "49ELlmc6ykxao1ovjxl57b",
+              "name": "\u8272\u5f69",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
+              }
+            },
+            "time": 1735858626156
           }
         },
         {
@@ -5027,6 +5119,68 @@
           }
         },
         {
+          "_id": "0RYhK96jFmOZQJuAsaaAMx",
+          "count": 1,
+          "details": {
+            "id": "0RYhK96jFmOZQJuAsaaAMx",
+            "name": "\u305d\u3057\u3066\u767d\u306b\u9084\u308b",
+            "progress": 99.35245513916016,
+            "duration_ms": 313802,
+            "preview_url": "https://p.scdn.co/mp3-preview/f8d7195e3f32f78ab7ecf62470eed56718ef8bfc?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "49ELlmc6ykxao1ovjxl57b",
+              "name": "\u8272\u5f69",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
+              }
+            },
+            "time": 1735857103957
+          }
+        },
+        {
+          "_id": "54NpqtQMjOuUkPu0AeVZUO",
+          "count": 1,
+          "details": {
+            "id": "54NpqtQMjOuUkPu0AeVZUO",
+            "name": "\u30d1\u30f3\u30c9\u30e9\u30b3\u30fc\u30eb",
+            "progress": 99.99954223632812,
+            "duration_ms": 217257,
+            "preview_url": "https://p.scdn.co/mp3-preview/cdb0195c5c3668ae1022d886e71a69bccc0cf4a3?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
+                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "49ELlmc6ykxao1ovjxl57b",
+              "name": "\u8272\u5f69",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
+              }
+            },
+            "time": 1735857606072
+          }
+        },
+        {
           "_id": "7sxHNbgiRmIMrTXb1rWA77",
           "count": 1,
           "details": {
@@ -5058,14 +5212,14 @@
           }
         },
         {
-          "_id": "0RYhK96jFmOZQJuAsaaAMx",
+          "_id": "4wYyhIoEEjCD5P1qYzCT3J",
           "count": 1,
           "details": {
-            "id": "0RYhK96jFmOZQJuAsaaAMx",
-            "name": "\u305d\u3057\u3066\u767d\u306b\u9084\u308b",
-            "progress": 99.35245513916016,
-            "duration_ms": 313802,
-            "preview_url": "https://p.scdn.co/mp3-preview/f8d7195e3f32f78ab7ecf62470eed56718ef8bfc?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "4wYyhIoEEjCD5P1qYzCT3J",
+            "name": "\u30f4\u30a1\u30fc\u30df\u30ea\u30aa\u30f3",
+            "progress": 98.90800476074219,
+            "duration_ms": 187821,
+            "preview_url": "https://p.scdn.co/mp3-preview/5c5a626c2abf2f095cb2040fdc5f77914a1ea766?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
@@ -5085,7 +5239,7 @@
                 "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
               }
             },
-            "time": 1735857103957
+            "time": 1735859082809
           }
         },
         {
@@ -5182,37 +5336,6 @@
           }
         },
         {
-          "_id": "54NpqtQMjOuUkPu0AeVZUO",
-          "count": 1,
-          "details": {
-            "id": "54NpqtQMjOuUkPu0AeVZUO",
-            "name": "\u30d1\u30f3\u30c9\u30e9\u30b3\u30fc\u30eb",
-            "progress": 99.99954223632812,
-            "duration_ms": 217257,
-            "preview_url": "https://p.scdn.co/mp3-preview/cdb0195c5c3668ae1022d886e71a69bccc0cf4a3?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "0ZTvnZCr6Njbsmn9Xx4Y0U",
-                "name": "\u30f0\u4e16\u754c\u60c5\u7dd2",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "49ELlmc6ykxao1ovjxl57b",
-              "name": "\u8272\u5f69",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273a0abdcc02f111f661101ac9d"
-              }
-            },
-            "time": 1735857606072
-          }
-        },
-        {
           "_id": "6mWSLyYzwCG83KQWUYTKyw",
           "count": 1,
           "details": {
@@ -5273,37 +5396,6 @@
             },
             "time": 1735858008533
           }
-        },
-        {
-          "_id": "57yGGqI89H0VYHh7BMzHoT",
-          "count": 1,
-          "details": {
-            "id": "57yGGqI89H0VYHh7BMzHoT",
-            "name": "\u30c0\u30f3\u30c0\u30e9\u30dc\u30c3\u30c1",
-            "progress": 99.11371612548828,
-            "duration_ms": 196100,
-            "preview_url": "https://p.scdn.co/mp3-preview/34154441c870eba75082f7fc6eb7062d844b3e05?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-              }
-            },
-            "time": 1735852927683
-          }
         }
       ],
       "top_albums": [
@@ -5338,21 +5430,6 @@
           }
         },
         {
-          "_id": "65MUZrDqQenpzqBgcaJPNk",
-          "count": 1,
-          "details": {
-            "id": "65MUZrDqQenpzqBgcaJPNk",
-            "name": "HAREBARE",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f82dec12c031ab434f0654f3"
-            }
-          }
-        },
-        {
           "_id": "2tRDGGV42O6fLQPBHiy87e",
           "count": 1,
           "details": {
@@ -5364,6 +5441,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27397f1d9a65660992a907da8f5"
+            }
+          }
+        },
+        {
+          "_id": "65MUZrDqQenpzqBgcaJPNk",
+          "count": 1,
+          "details": {
+            "id": "65MUZrDqQenpzqBgcaJPNk",
+            "name": "HAREBARE",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f82dec12c031ab434f0654f3"
             }
           }
         }
@@ -5390,11 +5482,11 @@
           }
         },
         {
-          "_id": "3sQqFA3jHUjGGUoUvwX7B2",
+          "_id": "44D3MnQihKkhALgAxoMiOL",
           "count": 1,
           "details": {
-            "id": "3sQqFA3jHUjGGUoUvwX7B2",
-            "name": "CULUA",
+            "id": "44D3MnQihKkhALgAxoMiOL",
+            "name": "\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c",
             "img": null,
             "genres": null
           }
@@ -5410,11 +5502,11 @@
           }
         },
         {
-          "_id": "44D3MnQihKkhALgAxoMiOL",
+          "_id": "3sQqFA3jHUjGGUoUvwX7B2",
           "count": 1,
           "details": {
-            "id": "44D3MnQihKkhALgAxoMiOL",
-            "name": "\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c",
+            "id": "3sQqFA3jHUjGGUoUvwX7B2",
+            "name": "CULUA",
             "img": null,
             "genres": null
           }
@@ -5429,130 +5521,6 @@
     },
     "week": {
       "top_songs": [
-        {
-          "_id": "72PY0pyKplTQRKtY4QfwAh",
-          "count": 1,
-          "details": {
-            "id": "72PY0pyKplTQRKtY4QfwAh",
-            "name": "Moshimo no Hanashi",
-            "progress": 44.31786346435547,
-            "duration_ms": 239373,
-            "preview_url": "https://p.scdn.co/mp3-preview/a64e633bc4dc7da07319bdac7aa231f97ac09c75?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "1GQptL2kOEsfMXerW4OjMT",
-                "name": "nano.RIPE",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "5iLjfk6G4aHN8Ijwq9TMB6",
-              "name": "Namida no Ochiru Sokudo",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273fcb0a88acc7ee644443936c1"
-              }
-            },
-            "time": 1735293589445
-          }
-        },
-        {
-          "_id": "5JZ6UlNTjBbK7zk2a4nnjQ",
-          "count": 1,
-          "details": {
-            "id": "5JZ6UlNTjBbK7zk2a4nnjQ",
-            "name": "\u30b9\u30a4\u30de\u30fc",
-            "progress": 99.93704986572266,
-            "duration_ms": 203333,
-            "preview_url": "https://p.scdn.co/mp3-preview/dfadedd818987d2db499c97f91d3ee45df8a2f71?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-              }
-            },
-            "time": 1735294890461
-          }
-        },
-        {
-          "_id": "268iQ4jX2j0ZseT9xeZTCU",
-          "count": 1,
-          "details": {
-            "id": "268iQ4jX2j0ZseT9xeZTCU",
-            "name": "\u4fef\u77b0\u3059\u308b\u4e8b\u8c61",
-            "progress": 98.9974365234375,
-            "duration_ms": 194800,
-            "preview_url": "https://p.scdn.co/mp3-preview/b33615a617ddcc7542c08d7ab7f8b9570465af04?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-              }
-            },
-            "time": 1735294445969
-          }
-        },
-        {
-          "_id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
-          "count": 1,
-          "details": {
-            "id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
-            "name": "\u304b\u307f\u306e\u3044\u306a\u3044\u305b\u304b\u3044\u3067 - Instrumental",
-            "progress": 97.03102111816406,
-            "duration_ms": 99866,
-            "preview_url": "https://p.scdn.co/mp3-preview/9c0f26415dcf39c959c38f75f926c105867de264?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
-              }
-            },
-            "time": 1735293908407
-          }
-        },
         {
           "_id": "7nkmoA0XJMHPKWMEKR7dOt",
           "count": 1,
@@ -5582,37 +5550,6 @@
               }
             },
             "time": 1735295563883
-          }
-        },
-        {
-          "_id": "0B9D2d9pVpivWIjCjERb2b",
-          "count": 1,
-          "details": {
-            "id": "0B9D2d9pVpivWIjCjERb2b",
-            "name": "\u3082\u3057\u3082\u306e\u8a71",
-            "progress": 0.6877509951591492,
-            "duration_ms": 239040,
-            "preview_url": "https://p.scdn.co/mp3-preview/a64e633bc4dc7da07319bdac7aa231f97ac09c75?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "1GQptL2kOEsfMXerW4OjMT",
-                "name": "nano.RIPE",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "01qPRaRGoH1OMLqnX8yZTl",
-              "name": "\u3082\u3057\u3082\u306e\u8a71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e723dbb824784da9caaf18f9"
-              }
-            },
-            "time": 1735293569215
           }
         },
         {
@@ -5647,45 +5584,45 @@
           }
         },
         {
-          "_id": "6NTTD2Oyqt2v2JkMVpjXWL",
+          "_id": "0B9D2d9pVpivWIjCjERb2b",
           "count": 1,
           "details": {
-            "id": "6NTTD2Oyqt2v2JkMVpjXWL",
-            "name": "\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9\u3088\u308a",
-            "progress": 99.61412811279297,
-            "duration_ms": 205766,
-            "preview_url": "https://p.scdn.co/mp3-preview/c76f3bb32cddafc8eb6324bc5f6fe07d860d47b9?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "0B9D2d9pVpivWIjCjERb2b",
+            "name": "\u3082\u3057\u3082\u306e\u8a71",
+            "progress": 0.6877509951591492,
+            "duration_ms": 239040,
+            "preview_url": "https://p.scdn.co/mp3-preview/a64e633bc4dc7da07319bdac7aa231f97ac09c75?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
+                "id": "1GQptL2kOEsfMXerW4OjMT",
+                "name": "nano.RIPE",
                 "img": null,
                 "genres": null
               }
             ],
             "album": {
-              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
-              "name": "\u5bd3\u8a71",
+              "id": "01qPRaRGoH1OMLqnX8yZTl",
+              "name": "\u3082\u3057\u3082\u306e\u8a71",
               "img": null,
               "genres": null,
               "image": {
                 "height": 640,
                 "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+                "url": "https://i.scdn.co/image/ab67616d0000b273e723dbb824784da9caaf18f9"
               }
             },
-            "time": 1735294005912
+            "time": 1735293569215
           }
         },
         {
-          "_id": "31EV3QctSjHiQ9GEldn6Uk",
+          "_id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
           "count": 1,
           "details": {
-            "id": "31EV3QctSjHiQ9GEldn6Uk",
-            "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0",
-            "progress": 98.85845947265625,
-            "duration_ms": 253166,
-            "preview_url": "https://p.scdn.co/mp3-preview/f0573ddd76a0b5571b117e45a1ad6eba2d5ef317?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "3NuuIL8xs3CBPbh5Y5ZK6Z",
+            "name": "\u304b\u307f\u306e\u3044\u306a\u3044\u305b\u304b\u3044\u3067 - Instrumental",
+            "progress": 97.03102111816406,
+            "duration_ms": 99866,
+            "preview_url": "https://p.scdn.co/mp3-preview/9c0f26415dcf39c959c38f75f926c105867de264?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "id": "2c32JruIkUyfdycHmhIph4",
@@ -5705,18 +5642,18 @@
                 "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
               }
             },
-            "time": 1735295959607
+            "time": 1735293908407
           }
         },
         {
-          "_id": "7sxHNbgiRmIMrTXb1rWA77",
+          "_id": "268iQ4jX2j0ZseT9xeZTCU",
           "count": 1,
           "details": {
-            "id": "7sxHNbgiRmIMrTXb1rWA77",
-            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8",
-            "progress": 99.8110122680664,
-            "duration_ms": 197900,
-            "preview_url": "https://p.scdn.co/mp3-preview/6f95422db51b6e2d62754aade2894d42dd913ea8?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "268iQ4jX2j0ZseT9xeZTCU",
+            "name": "\u4fef\u77b0\u3059\u308b\u4e8b\u8c61",
+            "progress": 98.9974365234375,
+            "duration_ms": 194800,
+            "preview_url": "https://p.scdn.co/mp3-preview/b33615a617ddcc7542c08d7ab7f8b9570465af04?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "id": "2c32JruIkUyfdycHmhIph4",
@@ -5736,7 +5673,131 @@
                 "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
               }
             },
-            "time": 1735295761731
+            "time": 1735294445969
+          }
+        },
+        {
+          "_id": "5JZ6UlNTjBbK7zk2a4nnjQ",
+          "count": 1,
+          "details": {
+            "id": "5JZ6UlNTjBbK7zk2a4nnjQ",
+            "name": "\u30b9\u30a4\u30de\u30fc",
+            "progress": 99.93704986572266,
+            "duration_ms": 203333,
+            "preview_url": "https://p.scdn.co/mp3-preview/dfadedd818987d2db499c97f91d3ee45df8a2f71?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+              }
+            },
+            "time": 1735294890461
+          }
+        },
+        {
+          "_id": "72PY0pyKplTQRKtY4QfwAh",
+          "count": 1,
+          "details": {
+            "id": "72PY0pyKplTQRKtY4QfwAh",
+            "name": "Moshimo no Hanashi",
+            "progress": 44.31786346435547,
+            "duration_ms": 239373,
+            "preview_url": "https://p.scdn.co/mp3-preview/a64e633bc4dc7da07319bdac7aa231f97ac09c75?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "1GQptL2kOEsfMXerW4OjMT",
+                "name": "nano.RIPE",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "5iLjfk6G4aHN8Ijwq9TMB6",
+              "name": "Namida no Ochiru Sokudo",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273fcb0a88acc7ee644443936c1"
+              }
+            },
+            "time": 1735293589445
+          }
+        },
+        {
+          "_id": "6mWSLyYzwCG83KQWUYTKyw",
+          "count": 1,
+          "details": {
+            "id": "6mWSLyYzwCG83KQWUYTKyw",
+            "name": "\u30db\u30ef\u30a4\u30c8\u30d6\u30fc\u30b1",
+            "progress": 99.49323272705078,
+            "duration_ms": 214300,
+            "preview_url": "https://p.scdn.co/mp3-preview/78320010d54cc41191d0f24c79583076b18f9b7c?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+              }
+            },
+            "time": 1735295094907
+          }
+        },
+        {
+          "_id": "57yGGqI89H0VYHh7BMzHoT",
+          "count": 1,
+          "details": {
+            "id": "57yGGqI89H0VYHh7BMzHoT",
+            "name": "\u30c0\u30f3\u30c0\u30e9\u30dc\u30c3\u30c1",
+            "progress": 99.21876525878906,
+            "duration_ms": 196100,
+            "preview_url": "https://p.scdn.co/mp3-preview/34154441c870eba75082f7fc6eb7062d844b3e05?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+              }
+            },
+            "time": 1735295566302
           }
         },
         {
@@ -5833,14 +5894,14 @@
           }
         },
         {
-          "_id": "6mWSLyYzwCG83KQWUYTKyw",
+          "_id": "31EV3QctSjHiQ9GEldn6Uk",
           "count": 1,
           "details": {
-            "id": "6mWSLyYzwCG83KQWUYTKyw",
-            "name": "\u30db\u30ef\u30a4\u30c8\u30d6\u30fc\u30b1",
-            "progress": 99.49323272705078,
-            "duration_ms": 214300,
-            "preview_url": "https://p.scdn.co/mp3-preview/78320010d54cc41191d0f24c79583076b18f9b7c?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "31EV3QctSjHiQ9GEldn6Uk",
+            "name": "\u30ab\u30eb\u307a\u30fb\u30c7\u30a3\u30a8\u30e0",
+            "progress": 98.85845947265625,
+            "duration_ms": 253166,
+            "preview_url": "https://p.scdn.co/mp3-preview/f0573ddd76a0b5571b117e45a1ad6eba2d5ef317?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "id": "2c32JruIkUyfdycHmhIph4",
@@ -5860,18 +5921,18 @@
                 "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
               }
             },
-            "time": 1735295094907
+            "time": 1735295959607
           }
         },
         {
-          "_id": "57yGGqI89H0VYHh7BMzHoT",
+          "_id": "7sxHNbgiRmIMrTXb1rWA77",
           "count": 1,
           "details": {
-            "id": "57yGGqI89H0VYHh7BMzHoT",
-            "name": "\u30c0\u30f3\u30c0\u30e9\u30dc\u30c3\u30c1",
-            "progress": 99.21876525878906,
-            "duration_ms": 196100,
-            "preview_url": "https://p.scdn.co/mp3-preview/34154441c870eba75082f7fc6eb7062d844b3e05?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "7sxHNbgiRmIMrTXb1rWA77",
+            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8",
+            "progress": 99.8110122680664,
+            "duration_ms": 197900,
+            "preview_url": "https://p.scdn.co/mp3-preview/6f95422db51b6e2d62754aade2894d42dd913ea8?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
                 "id": "2c32JruIkUyfdycHmhIph4",
@@ -5891,7 +5952,38 @@
                 "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
               }
             },
-            "time": 1735295566302
+            "time": 1735295761731
+          }
+        },
+        {
+          "_id": "6NTTD2Oyqt2v2JkMVpjXWL",
+          "count": 1,
+          "details": {
+            "id": "6NTTD2Oyqt2v2JkMVpjXWL",
+            "name": "\u30a2\u30dd\u30ab\u30ea\u30d7\u30b9\u3088\u308a",
+            "progress": 99.61412811279297,
+            "duration_ms": 205766,
+            "preview_url": "https://p.scdn.co/mp3-preview/c76f3bb32cddafc8eb6324bc5f6fe07d860d47b9?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4dD0hnVXxV4nJ0aZO23Wrb",
+              "name": "\u5bd3\u8a71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cb7901741baba289f0162c5e"
+              }
+            },
+            "time": 1735294005912
           }
         }
       ],
@@ -5912,21 +6004,6 @@
           }
         },
         {
-          "_id": "5iLjfk6G4aHN8Ijwq9TMB6",
-          "count": 1,
-          "details": {
-            "id": "5iLjfk6G4aHN8Ijwq9TMB6",
-            "name": "Namida no Ochiru Sokudo",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273fcb0a88acc7ee644443936c1"
-            }
-          }
-        },
-        {
           "_id": "01qPRaRGoH1OMLqnX8yZTl",
           "count": 1,
           "details": {
@@ -5938,6 +6015,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273e723dbb824784da9caaf18f9"
+            }
+          }
+        },
+        {
+          "_id": "5iLjfk6G4aHN8Ijwq9TMB6",
+          "count": 1,
+          "details": {
+            "id": "5iLjfk6G4aHN8Ijwq9TMB6",
+            "name": "Namida no Ochiru Sokudo",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273fcb0a88acc7ee644443936c1"
             }
           }
         }
@@ -10434,21 +10526,21 @@
           }
         },
         {
-          "_id": "39fp9WgXJxPo1pYxt96w6l",
-          "count": 8,
-          "details": {
-            "id": "39fp9WgXJxPo1pYxt96w6l",
-            "name": "\u6625\u733f\u706b",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
           "count": 8,
           "details": {
             "id": "71e65rSv8Dh3bfWNPQ1V1Q",
             "name": "\u660e\u900f",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "39fp9WgXJxPo1pYxt96w6l",
+          "count": 8,
+          "details": {
+            "id": "39fp9WgXJxPo1pYxt96w6l",
+            "name": "\u6625\u733f\u706b",
             "img": null,
             "genres": null
           }
@@ -10484,16 +10576,6 @@
           }
         },
         {
-          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
-          "count": 4,
-          "details": {
-            "id": "0ojt4tZJ0ud7qn25JdUyJW",
-            "name": "Albemuth",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "52I9qA4Wh7DflQ92nnTBMs",
           "count": 4,
           "details": {
@@ -10514,11 +10596,11 @@
           }
         },
         {
-          "_id": "4WrbpHc8hLKQZkBGX8k1ay",
-          "count": 3,
+          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
+          "count": 4,
           "details": {
-            "id": "4WrbpHc8hLKQZkBGX8k1ay",
-            "name": "VALIS",
+            "id": "0ojt4tZJ0ud7qn25JdUyJW",
+            "name": "Albemuth",
             "img": null,
             "genres": null
           }
@@ -10529,6 +10611,26 @@
           "details": {
             "id": "726WiFmWkohzodUxK3XjHX",
             "name": "Hoshimachi Suisei",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "4WrbpHc8hLKQZkBGX8k1ay",
+          "count": 3,
+          "details": {
+            "id": "4WrbpHc8hLKQZkBGX8k1ay",
+            "name": "VALIS",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "6BzlN4V17m7ogeItP4CNN5",
+          "count": 2,
+          "details": {
+            "id": "6BzlN4V17m7ogeItP4CNN5",
+            "name": "YuNi",
             "img": null,
             "genres": null
           }
@@ -10554,16 +10656,6 @@
           }
         },
         {
-          "_id": "0XqIQi5z2qmlxlcUwlJPe2",
-          "count": 2,
-          "details": {
-            "id": "0XqIQi5z2qmlxlcUwlJPe2",
-            "name": "tayori",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "3RvUqTyR1WwQzNaGuBKnCY",
           "count": 2,
           "details": {
@@ -10574,21 +10666,41 @@
           }
         },
         {
-          "_id": "6BzlN4V17m7ogeItP4CNN5",
+          "_id": "0XqIQi5z2qmlxlcUwlJPe2",
           "count": 2,
           "details": {
-            "id": "6BzlN4V17m7ogeItP4CNN5",
-            "name": "YuNi",
+            "id": "0XqIQi5z2qmlxlcUwlJPe2",
+            "name": "tayori",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "7kZTWx6cRLc0TSRPq1XBMP",
+          "_id": "4rDjKnJ4UDzfROtTs37kDT",
           "count": 1,
           "details": {
-            "id": "7kZTWx6cRLc0TSRPq1XBMP",
-            "name": "DECO*27",
+            "id": "4rDjKnJ4UDzfROtTs37kDT",
+            "name": "\u9ebb\u5a46\u8c46\u8150",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "33EUXrFKGjpUSGacqEHhU4",
+          "count": 1,
+          "details": {
+            "id": "33EUXrFKGjpUSGacqEHhU4",
+            "name": "Iggy Pop",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1mHZT1y9KKMq3YsGFLR9xH",
+          "count": 1,
+          "details": {
+            "id": "1mHZT1y9KKMq3YsGFLR9xH",
+            "name": "ReGLOSS",
             "img": null,
             "genres": null
           }
@@ -10614,141 +10726,21 @@
           }
         },
         {
-          "_id": "3Cl6y3KYs5OJnu7GHZJMY3",
+          "_id": "4OfU76YhPU04wlmbVFFgTJ",
           "count": 1,
           "details": {
-            "id": "3Cl6y3KYs5OJnu7GHZJMY3",
-            "name": "Yupsilon",
+            "id": "4OfU76YhPU04wlmbVFFgTJ",
+            "name": "ATARASHII GAKKO!",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "1Y5vJqABeI6QI6R95EDV6o",
+          "_id": "6HsCnf0xpVFfDiS4Sa7r8T",
           "count": 1,
           "details": {
-            "id": "1Y5vJqABeI6QI6R95EDV6o",
-            "name": "tuki.",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "6lDhtdOHuApMDkvQWtDpdV",
-          "count": 1,
-          "details": {
-            "id": "6lDhtdOHuApMDkvQWtDpdV",
-            "name": "Otome",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "5JoNnbXEGcykxL6fHRNola",
-          "count": 1,
-          "details": {
-            "id": "5JoNnbXEGcykxL6fHRNola",
-            "name": "LOLUET",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "2JevDdymuQqbHKsPJTWyv3",
-          "count": 1,
-          "details": {
-            "id": "2JevDdymuQqbHKsPJTWyv3",
-            "name": "\u4e00\u6761\u8389\u3005\u83ef",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "5OBmR4AY53SS26qHZ4uwnq",
-          "count": 1,
-          "details": {
-            "id": "5OBmR4AY53SS26qHZ4uwnq",
-            "name": "HIMEHINA",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "4rDjKnJ4UDzfROtTs37kDT",
-          "count": 1,
-          "details": {
-            "id": "4rDjKnJ4UDzfROtTs37kDT",
-            "name": "\u9ebb\u5a46\u8c46\u8150",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "61CPRQBnU83J9FIcdPincG",
-          "count": 1,
-          "details": {
-            "id": "61CPRQBnU83J9FIcdPincG",
-            "name": "\u706b\u5a01\u9752",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "18NNCsbb6T0purrSKSRyuG",
-          "count": 1,
-          "details": {
-            "id": "18NNCsbb6T0purrSKSRyuG",
-            "name": "HoneyComeBear",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "2i1mag1k6qyZmTXpeZ34l0",
-          "count": 1,
-          "details": {
-            "id": "2i1mag1k6qyZmTXpeZ34l0",
-            "name": "\u97f3\u4e43\u702c\u594f",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "0jP8a2o9Mw5qYoUz1SnQ2A",
-          "count": 1,
-          "details": {
-            "id": "0jP8a2o9Mw5qYoUz1SnQ2A",
-            "name": "YUC'e",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "0hCNtLu0JehylgoiP8L4Gh",
-          "count": 1,
-          "details": {
-            "id": "0hCNtLu0JehylgoiP8L4Gh",
-            "name": "Nicki Minaj",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "0m7tILDYjOZCFFVVGmI3io",
-          "count": 1,
-          "details": {
-            "id": "0m7tILDYjOZCFFVVGmI3io",
-            "name": "Such",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "0HWMbRLZ4EZ7zPXSJOeWzY",
-          "count": 1,
-          "details": {
-            "id": "0HWMbRLZ4EZ7zPXSJOeWzY",
-            "name": "\u5112\u70cf\u98a8\u4ead\u3089\u3067\u3093",
+            "id": "6HsCnf0xpVFfDiS4Sa7r8T",
+            "name": "konoco",
             "img": null,
             "genres": null
           }
@@ -10769,26 +10761,6 @@
           "details": {
             "id": "3jwKAvUYZUeARRBlFUWkzj",
             "name": "Shiggy Jr.",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "4OfU76YhPU04wlmbVFFgTJ",
-          "count": 1,
-          "details": {
-            "id": "4OfU76YhPU04wlmbVFFgTJ",
-            "name": "ATARASHII GAKKO!",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "6HsCnf0xpVFfDiS4Sa7r8T",
-          "count": 1,
-          "details": {
-            "id": "6HsCnf0xpVFfDiS4Sa7r8T",
-            "name": "konoco",
             "img": null,
             "genres": null
           }
@@ -10824,31 +10796,11 @@
           }
         },
         {
-          "_id": "7uugnrrGcHNunhme3bP1y3",
-          "count": 1,
-          "details": {
-            "id": "7uugnrrGcHNunhme3bP1y3",
-            "name": "Sasuke Haraguchi",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "19S7gPOuThglBNwslfkVIm",
           "count": 1,
           "details": {
             "id": "19S7gPOuThglBNwslfkVIm",
             "name": "\u8f5f\u306f\u3058\u3081",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "2OX49swWTKooEGqWRFRKKh",
-          "count": 1,
-          "details": {
-            "id": "2OX49swWTKooEGqWRFRKKh",
-            "name": "\u8c37\u7f6e\u72f8\u773c",
             "img": null,
             "genres": null
           }
@@ -10864,16 +10816,6 @@
           }
         },
         {
-          "_id": "33EUXrFKGjpUSGacqEHhU4",
-          "count": 1,
-          "details": {
-            "id": "33EUXrFKGjpUSGacqEHhU4",
-            "name": "Iggy Pop",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "67dtSHfEqrggSaOaicpaXq",
           "count": 1,
           "details": {
@@ -10884,11 +10826,161 @@
           }
         },
         {
-          "_id": "1mHZT1y9KKMq3YsGFLR9xH",
+          "_id": "61CPRQBnU83J9FIcdPincG",
           "count": 1,
           "details": {
-            "id": "1mHZT1y9KKMq3YsGFLR9xH",
-            "name": "ReGLOSS",
+            "id": "61CPRQBnU83J9FIcdPincG",
+            "name": "\u706b\u5a01\u9752",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "18NNCsbb6T0purrSKSRyuG",
+          "count": 1,
+          "details": {
+            "id": "18NNCsbb6T0purrSKSRyuG",
+            "name": "HoneyComeBear",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2OX49swWTKooEGqWRFRKKh",
+          "count": 1,
+          "details": {
+            "id": "2OX49swWTKooEGqWRFRKKh",
+            "name": "\u8c37\u7f6e\u72f8\u773c",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2i1mag1k6qyZmTXpeZ34l0",
+          "count": 1,
+          "details": {
+            "id": "2i1mag1k6qyZmTXpeZ34l0",
+            "name": "\u97f3\u4e43\u702c\u594f",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0jP8a2o9Mw5qYoUz1SnQ2A",
+          "count": 1,
+          "details": {
+            "id": "0jP8a2o9Mw5qYoUz1SnQ2A",
+            "name": "YUC'e",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0HWMbRLZ4EZ7zPXSJOeWzY",
+          "count": 1,
+          "details": {
+            "id": "0HWMbRLZ4EZ7zPXSJOeWzY",
+            "name": "\u5112\u70cf\u98a8\u4ead\u3089\u3067\u3093",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0m7tILDYjOZCFFVVGmI3io",
+          "count": 1,
+          "details": {
+            "id": "0m7tILDYjOZCFFVVGmI3io",
+            "name": "Such",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0hCNtLu0JehylgoiP8L4Gh",
+          "count": 1,
+          "details": {
+            "id": "0hCNtLu0JehylgoiP8L4Gh",
+            "name": "Nicki Minaj",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "7uugnrrGcHNunhme3bP1y3",
+          "count": 1,
+          "details": {
+            "id": "7uugnrrGcHNunhme3bP1y3",
+            "name": "Sasuke Haraguchi",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "7kZTWx6cRLc0TSRPq1XBMP",
+          "count": 1,
+          "details": {
+            "id": "7kZTWx6cRLc0TSRPq1XBMP",
+            "name": "DECO*27",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1Y5vJqABeI6QI6R95EDV6o",
+          "count": 1,
+          "details": {
+            "id": "1Y5vJqABeI6QI6R95EDV6o",
+            "name": "tuki.",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "3Cl6y3KYs5OJnu7GHZJMY3",
+          "count": 1,
+          "details": {
+            "id": "3Cl6y3KYs5OJnu7GHZJMY3",
+            "name": "Yupsilon",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "5OBmR4AY53SS26qHZ4uwnq",
+          "count": 1,
+          "details": {
+            "id": "5OBmR4AY53SS26qHZ4uwnq",
+            "name": "HIMEHINA",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "5JoNnbXEGcykxL6fHRNola",
+          "count": 1,
+          "details": {
+            "id": "5JoNnbXEGcykxL6fHRNola",
+            "name": "LOLUET",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "6lDhtdOHuApMDkvQWtDpdV",
+          "count": 1,
+          "details": {
+            "id": "6lDhtdOHuApMDkvQWtDpdV",
+            "name": "Otome",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2JevDdymuQqbHKsPJTWyv3",
+          "count": 1,
+          "details": {
+            "id": "2JevDdymuQqbHKsPJTWyv3",
+            "name": "\u4e00\u6761\u8389\u3005\u83ef",
             "img": null,
             "genres": null
           }
