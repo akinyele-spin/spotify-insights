@@ -1,11 +1,163 @@
 {
-  "updated_at": 1740951303,
+  "updated_at": 1740951603,
   "data": {
     "today": {
-      "top_songs": [],
-      "top_albums": [],
-      "top_artists": [],
-      "total_listen_time": []
+      "top_songs": [
+        {
+          "_id": "0dHHmbK3PFFxibxjme4H3r",
+          "count": 1,
+          "details": {
+            "id": "0dHHmbK3PFFxibxjme4H3r",
+            "name": "Black Glow",
+            "progress": 12.026399612426758,
+            "duration_ms": 208641,
+            "preview_url": "https://p.scdn.co/mp3-preview/af280826070c3296523bc2132f3bca9b34c01ea0?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0ojt4tZJ0ud7qn25JdUyJW",
+                "name": "Albemuth",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "52I9qA4Wh7DflQ92nnTBMs",
+                "name": "\u5b58\u6d41",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "71e65rSv8Dh3bfWNPQ1V1Q",
+                "name": "\u660e\u900f",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "3Kjb4nYmLkGVCQX1ZVAa68",
+              "name": "ADAM",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273023cef995df590013a1fbb83"
+              }
+            },
+            "time": 1740951577274
+          }
+        },
+        {
+          "_id": "1SH1Wd9y3gRyvqDnk8roAg",
+          "count": 1,
+          "details": {
+            "id": "1SH1Wd9y3gRyvqDnk8roAg",
+            "name": "SWIPE!",
+            "progress": 99.61576080322266,
+            "duration_ms": 175933,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed326de8f235a7a47a525b80a210269c8ba0c116?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "39fp9WgXJxPo1pYxt96w6l",
+                "name": "\u6625\u733f\u706b",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4GtyJUAMuebV32kbcMJJpv",
+              "name": "RULE THE WORLD",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27330c22d223b365f786caf09a0"
+              }
+            },
+            "time": 1740951400528
+          }
+        }
+      ],
+      "top_albums": [
+        {
+          "_id": "4GtyJUAMuebV32kbcMJJpv",
+          "count": 1,
+          "details": {
+            "id": "4GtyJUAMuebV32kbcMJJpv",
+            "name": "RULE THE WORLD",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27330c22d223b365f786caf09a0"
+            }
+          }
+        },
+        {
+          "_id": "3Kjb4nYmLkGVCQX1ZVAa68",
+          "count": 1,
+          "details": {
+            "id": "3Kjb4nYmLkGVCQX1ZVAa68",
+            "name": "ADAM",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273023cef995df590013a1fbb83"
+            }
+          }
+        }
+      ],
+      "top_artists": [
+        {
+          "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
+          "count": 1,
+          "details": {
+            "id": "71e65rSv8Dh3bfWNPQ1V1Q",
+            "name": "\u660e\u900f",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "39fp9WgXJxPo1pYxt96w6l",
+          "count": 1,
+          "details": {
+            "id": "39fp9WgXJxPo1pYxt96w6l",
+            "name": "\u6625\u733f\u706b",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "52I9qA4Wh7DflQ92nnTBMs",
+          "count": 1,
+          "details": {
+            "id": "52I9qA4Wh7DflQ92nnTBMs",
+            "name": "\u5b58\u6d41",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
+          "count": 1,
+          "details": {
+            "id": "0ojt4tZJ0ud7qn25JdUyJW",
+            "name": "Albemuth",
+            "img": null,
+            "genres": null
+          }
+        }
+      ],
+      "total_listen_time": [
+        {
+          "_id": null,
+          "listened_ms": 200348.99686929703
+        }
+      ]
     },
     "yesterday": {
       "top_songs": [
@@ -942,37 +1094,6 @@
           }
         },
         {
-          "_id": "6woV8uWxn7rcLZxJKYruS1",
-          "count": 1,
-          "details": {
-            "id": "6woV8uWxn7rcLZxJKYruS1",
-            "name": "Hai Yorokonde",
-            "progress": 20.61039924621582,
-            "duration_ms": 161632,
-            "preview_url": "https://p.scdn.co/mp3-preview/a941bc7626539d9116c27e56a1a6719fa4418dc1?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "3qQKrWwcqJlE4OS4e1ox7x",
-                "name": "Kocchi no Kento",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "1wz8OHzR2Z9DduiN8v86Tz",
-              "name": "Hai Yorokonde",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734437b6a88739b0935c554307"
-              }
-            },
-            "time": 1740787651856
-          }
-        },
-        {
           "_id": "0avbIGWVb4n7CcbomSEogt",
           "count": 1,
           "details": {
@@ -1001,6 +1122,37 @@
               }
             },
             "time": 1740820658201
+          }
+        },
+        {
+          "_id": "6woV8uWxn7rcLZxJKYruS1",
+          "count": 1,
+          "details": {
+            "id": "6woV8uWxn7rcLZxJKYruS1",
+            "name": "Hai Yorokonde",
+            "progress": 20.61039924621582,
+            "duration_ms": 161632,
+            "preview_url": "https://p.scdn.co/mp3-preview/a941bc7626539d9116c27e56a1a6719fa4418dc1?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "3qQKrWwcqJlE4OS4e1ox7x",
+                "name": "Kocchi no Kento",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "1wz8OHzR2Z9DduiN8v86Tz",
+              "name": "Hai Yorokonde",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734437b6a88739b0935c554307"
+              }
+            },
+            "time": 1740787651856
           }
         },
         {
@@ -2860,37 +3012,6 @@
           }
         },
         {
-          "_id": "0LWfcbyKEdi7BKofXlYtEN",
-          "count": 1,
-          "details": {
-            "id": "0LWfcbyKEdi7BKofXlYtEN",
-            "name": "\u30b7\u30e3\u30f3\u30c6\u30a3 (feat. KAITO)",
-            "progress": 98.9250259399414,
-            "duration_ms": 165958,
-            "preview_url": "https://p.scdn.co/mp3-preview/d5aaaea8be30081e44c47fe4e2f242fee1177e28?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "0685luDRQZRkN4JnhnRSKX",
-                "name": "wotaku",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "1X1YaU65nIfjTpd23hPskH",
-              "name": "\u30b7\u30e3\u30f3\u30c6\u30a3",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cfc769ef2e93cc3f809cbda9"
-              }
-            },
-            "time": 1740854339938
-          }
-        },
-        {
           "_id": "64RcdAiNSV8huAwLYnGYHa",
           "count": 1,
           "details": {
@@ -2919,6 +3040,37 @@
               }
             },
             "time": 1740848999245
+          }
+        },
+        {
+          "_id": "0LWfcbyKEdi7BKofXlYtEN",
+          "count": 1,
+          "details": {
+            "id": "0LWfcbyKEdi7BKofXlYtEN",
+            "name": "\u30b7\u30e3\u30f3\u30c6\u30a3 (feat. KAITO)",
+            "progress": 98.9250259399414,
+            "duration_ms": 165958,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5aaaea8be30081e44c47fe4e2f242fee1177e28?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0685luDRQZRkN4JnhnRSKX",
+                "name": "wotaku",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "1X1YaU65nIfjTpd23hPskH",
+              "name": "\u30b7\u30e3\u30f3\u30c6\u30a3",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cfc769ef2e93cc3f809cbda9"
+              }
+            },
+            "time": 1740854339938
           }
         },
         {
@@ -3137,21 +3289,6 @@
           }
         },
         {
-          "_id": "3pfmSgPB1VDO4yH1wbSNlY",
-          "count": 3,
-          "details": {
-            "id": "3pfmSgPB1VDO4yH1wbSNlY",
-            "name": "\u9b54\u5973\u3077\u3089\u3059",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737a588e5590325f6f395012d0"
-            }
-          }
-        },
-        {
           "_id": "0DxpTpSwUiOKLDelTQW0Gp",
           "count": 3,
           "details": {
@@ -3163,6 +3300,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2730bf699ca7b246f8626048e21"
+            }
+          }
+        },
+        {
+          "_id": "3pfmSgPB1VDO4yH1wbSNlY",
+          "count": 3,
+          "details": {
+            "id": "3pfmSgPB1VDO4yH1wbSNlY",
+            "name": "\u9b54\u5973\u3077\u3089\u3059",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737a588e5590325f6f395012d0"
             }
           }
         },
@@ -3542,21 +3694,6 @@
           }
         },
         {
-          "_id": "4P5WTqxveCHwel30kXJvoo",
-          "count": 1,
-          "details": {
-            "id": "4P5WTqxveCHwel30kXJvoo",
-            "name": "Liar Dancer",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a0973e85ad2e83d847fa4fe6"
-            }
-          }
-        },
-        {
           "_id": "0P2w4EQQ5hDrs7smYl6Skv",
           "count": 1,
           "details": {
@@ -3568,6 +3705,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273ffa10e3dd074b06d2b8fd1cc"
+            }
+          }
+        },
+        {
+          "_id": "4P5WTqxveCHwel30kXJvoo",
+          "count": 1,
+          "details": {
+            "id": "4P5WTqxveCHwel30kXJvoo",
+            "name": "Liar Dancer",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a0973e85ad2e83d847fa4fe6"
             }
           }
         },
@@ -3977,36 +4129,6 @@
           }
         },
         {
-          "_id": "3xndKLWVTGE8HVIiXshb8l",
-          "count": 1,
-          "details": {
-            "id": "3xndKLWVTGE8HVIiXshb8l",
-            "name": "I scream",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e94da46bb08bb191b0939df4"
-            }
-          }
-        },
-        {
-          "_id": "25BvuwVREMesTOuw77rWaK",
-          "count": 1,
-          "details": {
-            "id": "25BvuwVREMesTOuw77rWaK",
-            "name": "\u518d\u73fe\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731f54ac66159fb1182c5c2728"
-            }
-          }
-        },
-        {
           "_id": "1AzkXE2hgeuHGPKAqcGgHD",
           "count": 1,
           "details": {
@@ -4022,6 +4144,21 @@
           }
         },
         {
+          "_id": "3xndKLWVTGE8HVIiXshb8l",
+          "count": 1,
+          "details": {
+            "id": "3xndKLWVTGE8HVIiXshb8l",
+            "name": "I scream",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273e94da46bb08bb191b0939df4"
+            }
+          }
+        },
+        {
           "_id": "77yPyC9Hs3ywrBl8xsrjJh",
           "count": 1,
           "details": {
@@ -4033,6 +4170,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2737fa9538093d539e7fe4fda23"
+            }
+          }
+        },
+        {
+          "_id": "25BvuwVREMesTOuw77rWaK",
+          "count": 1,
+          "details": {
+            "id": "25BvuwVREMesTOuw77rWaK",
+            "name": "\u518d\u73fe\u30ac\u30fc\u30eb\u30d5\u30ec\u30f3\u30c9",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731f54ac66159fb1182c5c2728"
             }
           }
         },
@@ -4867,7 +5019,7 @@
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 21855161.04798561
+          "listened_ms": 21951160.05084297
         }
       ]
     },
@@ -9414,21 +9566,6 @@
           }
         },
         {
-          "_id": "2h8lvNAbaCxdvH5cjlv7v4",
-          "count": 2,
-          "details": {
-            "id": "2h8lvNAbaCxdvH5cjlv7v4",
-            "name": "\u98db\u7fd4\u3059\u308bmeme",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273cd627cd08998a045bd2cb914"
-            }
-          }
-        },
-        {
           "_id": "4iCLx6HHi8QSfeMloqtsPh",
           "count": 2,
           "details": {
@@ -9440,6 +9577,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273660a7f50e11a592250e80b56"
+            }
+          }
+        },
+        {
+          "_id": "2h8lvNAbaCxdvH5cjlv7v4",
+          "count": 2,
+          "details": {
+            "id": "2h8lvNAbaCxdvH5cjlv7v4",
+            "name": "\u98db\u7fd4\u3059\u308bmeme",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273cd627cd08998a045bd2cb914"
             }
           }
         },
@@ -12681,17 +12833,17 @@
       ],
       "top_albums": [
         {
-          "_id": "2HmlBFz06FldsdzwY1FHg4",
+          "_id": "4P5WTqxveCHwel30kXJvoo",
           "count": 2,
           "details": {
-            "id": "2HmlBFz06FldsdzwY1FHg4",
-            "name": "Still Still Stellar",
+            "id": "4P5WTqxveCHwel30kXJvoo",
+            "name": "Liar Dancer",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273f724e5bdf4ae3e50082c2403"
+              "url": "https://i.scdn.co/image/ab67616d0000b273a0973e85ad2e83d847fa4fe6"
             }
           }
         },
@@ -12726,317 +12878,17 @@
           }
         },
         {
-          "_id": "4P5WTqxveCHwel30kXJvoo",
+          "_id": "2HmlBFz06FldsdzwY1FHg4",
           "count": 2,
           "details": {
-            "id": "4P5WTqxveCHwel30kXJvoo",
-            "name": "Liar Dancer",
+            "id": "2HmlBFz06FldsdzwY1FHg4",
+            "name": "Still Still Stellar",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273a0973e85ad2e83d847fa4fe6"
-            }
-          }
-        },
-        {
-          "_id": "0ywEDPSaZILN2h2FCCk1rr",
-          "count": 1,
-          "details": {
-            "id": "0ywEDPSaZILN2h2FCCk1rr",
-            "name": "\u899a\u9192\u30d2\u30b9\u30c8\u30ea\u30a2(\u88cf\u4e16\u754c ver.)",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273664bc5d7e4e1014aa8ba5cf9"
-            }
-          }
-        },
-        {
-          "_id": "4p31T98zC7yzMA2lQwNG57",
-          "count": 1,
-          "details": {
-            "id": "4p31T98zC7yzMA2lQwNG57",
-            "name": "\u7fbd\u5316",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273b35ccc95c9f0c67b159057bb"
-            }
-          }
-        },
-        {
-          "_id": "4gYBihOhJ4LwOazK1bCp4E",
-          "count": 1,
-          "details": {
-            "id": "4gYBihOhJ4LwOazK1bCp4E",
-            "name": "\u30d6\u30eb\u30fc\u30ca\u30a4\u30c8\u30c0\u30fc\u30ea\u30f3",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2738cd3f2a09eae7ca99ad162b9"
-            }
-          }
-        },
-        {
-          "_id": "3obgXX4aSK1cckluCjtmNH",
-          "count": 1,
-          "details": {
-            "id": "3obgXX4aSK1cckluCjtmNH",
-            "name": "My Life",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734d5ea0f385091619c5b98074"
-            }
-          }
-        },
-        {
-          "_id": "2G3fFSzVxuYaLpK35fXkPB",
-          "count": 1,
-          "details": {
-            "id": "2G3fFSzVxuYaLpK35fXkPB",
-            "name": "\u3078\u3073",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27334821822f4ed93a97e460fd0"
-            }
-          }
-        },
-        {
-          "_id": "6n2pGYbSxV3RtXgJHcqMxz",
-          "count": 1,
-          "details": {
-            "id": "6n2pGYbSxV3RtXgJHcqMxz",
-            "name": "BANDAGE",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ca126c9f954104ada739c7fe"
-            }
-          }
-        },
-        {
-          "_id": "3ZM5smVHohm7YEhkZuqA7v",
-          "count": 1,
-          "details": {
-            "id": "3ZM5smVHohm7YEhkZuqA7v",
-            "name": "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273aa3f2562c06d20f70775bdae"
-            }
-          }
-        },
-        {
-          "_id": "4lAbwnXWT4yhwJnPe3M4we",
-          "count": 1,
-          "details": {
-            "id": "4lAbwnXWT4yhwJnPe3M4we",
-            "name": "\u5236\u5b9a\u306e\u30aa\u30fc\u30d0\u30fc\u30e9\u30c3\u30d7",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d74c8dca9fdf453667b7e401"
-            }
-          }
-        },
-        {
-          "_id": "1Gi6ij4Jxc4qE35i3I0gqS",
-          "count": 1,
-          "details": {
-            "id": "1Gi6ij4Jxc4qE35i3I0gqS",
-            "name": "SHOOTING STAR",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3"
-            }
-          }
-        },
-        {
-          "_id": "3CM6XVo41OSyfplg443RRj",
-          "count": 1,
-          "details": {
-            "id": "3CM6XVo41OSyfplg443RRj",
-            "name": "\u75db\u3044\u306e\u75db\u3044\u306e\u98db\u3093\u3067\u3044\u3051",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27347df2042449b23e0335337c0"
-            }
-          }
-        },
-        {
-          "_id": "3Kjb4nYmLkGVCQX1ZVAa68",
-          "count": 1,
-          "details": {
-            "id": "3Kjb4nYmLkGVCQX1ZVAa68",
-            "name": "ADAM",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273023cef995df590013a1fbb83"
-            }
-          }
-        },
-        {
-          "_id": "5r1QsZtbl8ok0EBaI9SAXn",
-          "count": 1,
-          "details": {
-            "id": "5r1QsZtbl8ok0EBaI9SAXn",
-            "name": "Nighthawk (feat. \u305f\u306a\u304b)",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739efa7eac0c3b4019bc4f8d4f"
-            }
-          }
-        },
-        {
-          "_id": "1wz8OHzR2Z9DduiN8v86Tz",
-          "count": 1,
-          "details": {
-            "id": "1wz8OHzR2Z9DduiN8v86Tz",
-            "name": "Hai Yorokonde",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734437b6a88739b0935c554307"
-            }
-          }
-        },
-        {
-          "_id": "6d02avZaDV4URKHIAlEJAk",
-          "count": 1,
-          "details": {
-            "id": "6d02avZaDV4URKHIAlEJAk",
-            "name": "Elf",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2739e1c223d7a087f9dfb3757fe"
-            }
-          }
-        },
-        {
-          "_id": "1udLXd43HalzNCDU5zPVpe",
-          "count": 1,
-          "details": {
-            "id": "1udLXd43HalzNCDU5zPVpe",
-            "name": "Change.",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bb855ccdccac068a12092193"
-            }
-          }
-        },
-        {
-          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
-          "count": 1,
-          "details": {
-            "id": "5hdH3H4sjF4OoGsTyzPTLI",
-            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95"
-            }
-          }
-        },
-        {
-          "_id": "4UaXs3GNHzkt4Tx1Eyq0YS",
-          "count": 1,
-          "details": {
-            "id": "4UaXs3GNHzkt4Tx1Eyq0YS",
-            "name": "\u6d41\u8ee2\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2 (\u6df1\u810a\u754c ver.)",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bc1cbb71e4a6e8bc3c2d07c3"
-            }
-          }
-        },
-        {
-          "_id": "5pZ8vurC6h4uSCwkjCHnHz",
-          "count": 1,
-          "details": {
-            "id": "5pZ8vurC6h4uSCwkjCHnHz",
-            "name": "The First Waltz",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ab14714a1ff5f28b1f398b28"
-            }
-          }
-        },
-        {
-          "_id": "2cdg7awsInW5fzf5qzqaaT",
-          "count": 1,
-          "details": {
-            "id": "2cdg7awsInW5fzf5qzqaaT",
-            "name": "SWIPE!",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273257b46c5fe615aa51cb38529"
-            }
-          }
-        },
-        {
-          "_id": "3pfmSgPB1VDO4yH1wbSNlY",
-          "count": 1,
-          "details": {
-            "id": "3pfmSgPB1VDO4yH1wbSNlY",
-            "name": "\u9b54\u5973\u3077\u3089\u3059",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737a588e5590325f6f395012d0"
+              "url": "https://i.scdn.co/image/ab67616d0000b273f724e5bdf4ae3e50082c2403"
             }
           }
         },
@@ -13052,21 +12904,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2733235b8176c379e609e7cad7d"
-            }
-          }
-        },
-        {
-          "_id": "5AGRcvyFgH1cz4PppI8cNM",
-          "count": 1,
-          "details": {
-            "id": "5AGRcvyFgH1cz4PppI8cNM",
-            "name": "new world (feat. \u30f0\u4e16\u754c\u60c5\u7dd2)",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734372902cde27bc15c49ac9e7"
             }
           }
         },
@@ -13101,6 +12938,21 @@
           }
         },
         {
+          "_id": "5AGRcvyFgH1cz4PppI8cNM",
+          "count": 1,
+          "details": {
+            "id": "5AGRcvyFgH1cz4PppI8cNM",
+            "name": "new world (feat. \u30f0\u4e16\u754c\u60c5\u7dd2)",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734372902cde27bc15c49ac9e7"
+            }
+          }
+        },
+        {
           "_id": "1AzkXE2hgeuHGPKAqcGgHD",
           "count": 1,
           "details": {
@@ -13112,6 +12964,306 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2732c3840e66768368e20042fe6"
+            }
+          }
+        },
+        {
+          "_id": "6d02avZaDV4URKHIAlEJAk",
+          "count": 1,
+          "details": {
+            "id": "6d02avZaDV4URKHIAlEJAk",
+            "name": "Elf",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739e1c223d7a087f9dfb3757fe"
+            }
+          }
+        },
+        {
+          "_id": "1udLXd43HalzNCDU5zPVpe",
+          "count": 1,
+          "details": {
+            "id": "1udLXd43HalzNCDU5zPVpe",
+            "name": "Change.",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bb855ccdccac068a12092193"
+            }
+          }
+        },
+        {
+          "_id": "1wz8OHzR2Z9DduiN8v86Tz",
+          "count": 1,
+          "details": {
+            "id": "1wz8OHzR2Z9DduiN8v86Tz",
+            "name": "Hai Yorokonde",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734437b6a88739b0935c554307"
+            }
+          }
+        },
+        {
+          "_id": "5hdH3H4sjF4OoGsTyzPTLI",
+          "count": 1,
+          "details": {
+            "id": "5hdH3H4sjF4OoGsTyzPTLI",
+            "name": "\u30b2\u30b7\u30e5\u30bf\u30eb\u30c8 (\u5d29\u58caRemix)",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737dee74002c4b00186e60af95"
+            }
+          }
+        },
+        {
+          "_id": "5pZ8vurC6h4uSCwkjCHnHz",
+          "count": 1,
+          "details": {
+            "id": "5pZ8vurC6h4uSCwkjCHnHz",
+            "name": "The First Waltz",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ab14714a1ff5f28b1f398b28"
+            }
+          }
+        },
+        {
+          "_id": "4UaXs3GNHzkt4Tx1Eyq0YS",
+          "count": 1,
+          "details": {
+            "id": "4UaXs3GNHzkt4Tx1Eyq0YS",
+            "name": "\u6d41\u8ee2\u30d5\u30a1\u30f3\u30bf\u30b8\u30a2 (\u6df1\u810a\u754c ver.)",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bc1cbb71e4a6e8bc3c2d07c3"
+            }
+          }
+        },
+        {
+          "_id": "2cdg7awsInW5fzf5qzqaaT",
+          "count": 1,
+          "details": {
+            "id": "2cdg7awsInW5fzf5qzqaaT",
+            "name": "SWIPE!",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273257b46c5fe615aa51cb38529"
+            }
+          }
+        },
+        {
+          "_id": "3pfmSgPB1VDO4yH1wbSNlY",
+          "count": 1,
+          "details": {
+            "id": "3pfmSgPB1VDO4yH1wbSNlY",
+            "name": "\u9b54\u5973\u3077\u3089\u3059",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737a588e5590325f6f395012d0"
+            }
+          }
+        },
+        {
+          "_id": "1Gi6ij4Jxc4qE35i3I0gqS",
+          "count": 1,
+          "details": {
+            "id": "1Gi6ij4Jxc4qE35i3I0gqS",
+            "name": "SHOOTING STAR",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2733f40fd20e67b865fca5391a3"
+            }
+          }
+        },
+        {
+          "_id": "4lAbwnXWT4yhwJnPe3M4we",
+          "count": 1,
+          "details": {
+            "id": "4lAbwnXWT4yhwJnPe3M4we",
+            "name": "\u5236\u5b9a\u306e\u30aa\u30fc\u30d0\u30fc\u30e9\u30c3\u30d7",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273d74c8dca9fdf453667b7e401"
+            }
+          }
+        },
+        {
+          "_id": "3CM6XVo41OSyfplg443RRj",
+          "count": 1,
+          "details": {
+            "id": "3CM6XVo41OSyfplg443RRj",
+            "name": "\u75db\u3044\u306e\u75db\u3044\u306e\u98db\u3093\u3067\u3044\u3051",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27347df2042449b23e0335337c0"
+            }
+          }
+        },
+        {
+          "_id": "5r1QsZtbl8ok0EBaI9SAXn",
+          "count": 1,
+          "details": {
+            "id": "5r1QsZtbl8ok0EBaI9SAXn",
+            "name": "Nighthawk (feat. \u305f\u306a\u304b)",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2739efa7eac0c3b4019bc4f8d4f"
+            }
+          }
+        },
+        {
+          "_id": "3Kjb4nYmLkGVCQX1ZVAa68",
+          "count": 1,
+          "details": {
+            "id": "3Kjb4nYmLkGVCQX1ZVAa68",
+            "name": "ADAM",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273023cef995df590013a1fbb83"
+            }
+          }
+        },
+        {
+          "_id": "4p31T98zC7yzMA2lQwNG57",
+          "count": 1,
+          "details": {
+            "id": "4p31T98zC7yzMA2lQwNG57",
+            "name": "\u7fbd\u5316",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b35ccc95c9f0c67b159057bb"
+            }
+          }
+        },
+        {
+          "_id": "0ywEDPSaZILN2h2FCCk1rr",
+          "count": 1,
+          "details": {
+            "id": "0ywEDPSaZILN2h2FCCk1rr",
+            "name": "\u899a\u9192\u30d2\u30b9\u30c8\u30ea\u30a2(\u88cf\u4e16\u754c ver.)",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273664bc5d7e4e1014aa8ba5cf9"
+            }
+          }
+        },
+        {
+          "_id": "3obgXX4aSK1cckluCjtmNH",
+          "count": 1,
+          "details": {
+            "id": "3obgXX4aSK1cckluCjtmNH",
+            "name": "My Life",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2734d5ea0f385091619c5b98074"
+            }
+          }
+        },
+        {
+          "_id": "4gYBihOhJ4LwOazK1bCp4E",
+          "count": 1,
+          "details": {
+            "id": "4gYBihOhJ4LwOazK1bCp4E",
+            "name": "\u30d6\u30eb\u30fc\u30ca\u30a4\u30c8\u30c0\u30fc\u30ea\u30f3",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2738cd3f2a09eae7ca99ad162b9"
+            }
+          }
+        },
+        {
+          "_id": "6n2pGYbSxV3RtXgJHcqMxz",
+          "count": 1,
+          "details": {
+            "id": "6n2pGYbSxV3RtXgJHcqMxz",
+            "name": "BANDAGE",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273ca126c9f954104ada739c7fe"
+            }
+          }
+        },
+        {
+          "_id": "2G3fFSzVxuYaLpK35fXkPB",
+          "count": 1,
+          "details": {
+            "id": "2G3fFSzVxuYaLpK35fXkPB",
+            "name": "\u3078\u3073",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27334821822f4ed93a97e460fd0"
+            }
+          }
+        },
+        {
+          "_id": "3ZM5smVHohm7YEhkZuqA7v",
+          "count": 1,
+          "details": {
+            "id": "3ZM5smVHohm7YEhkZuqA7v",
+            "name": "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273aa3f2562c06d20f70775bdae"
             }
           }
         }
@@ -13208,21 +13360,21 @@
           }
         },
         {
-          "_id": "52I9qA4Wh7DflQ92nnTBMs",
-          "count": 1,
-          "details": {
-            "id": "52I9qA4Wh7DflQ92nnTBMs",
-            "name": "\u5b58\u6d41",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "6Rs4z6XgltEI01UlDlu98B",
           "count": 1,
           "details": {
             "id": "6Rs4z6XgltEI01UlDlu98B",
             "name": "DUSTCELL",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
+          "count": 1,
+          "details": {
+            "id": "0ojt4tZJ0ud7qn25JdUyJW",
+            "name": "Albemuth",
             "img": null,
             "genres": null
           }
@@ -13268,16 +13420,6 @@
           }
         },
         {
-          "_id": "3qQKrWwcqJlE4OS4e1ox7x",
-          "count": 1,
-          "details": {
-            "id": "3qQKrWwcqJlE4OS4e1ox7x",
-            "name": "Kocchi no Kento",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "6mEQK9m2krja6X1cfsAjfl",
           "count": 1,
           "details": {
@@ -13288,11 +13430,11 @@
           }
         },
         {
-          "_id": "1mZtAFuxFAgqmTCqfKLWoj",
+          "_id": "3qQKrWwcqJlE4OS4e1ox7x",
           "count": 1,
           "details": {
-            "id": "1mZtAFuxFAgqmTCqfKLWoj",
-            "name": "DE DE MOUSE",
+            "id": "3qQKrWwcqJlE4OS4e1ox7x",
+            "name": "Kocchi no Kento",
             "img": null,
             "genres": null
           }
@@ -13303,6 +13445,16 @@
           "details": {
             "id": "7cvljqLNhWNFMb8wP2NImJ",
             "name": "Moe Shop",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1mZtAFuxFAgqmTCqfKLWoj",
+          "count": 1,
+          "details": {
+            "id": "1mZtAFuxFAgqmTCqfKLWoj",
+            "name": "DE DE MOUSE",
             "img": null,
             "genres": null
           }
@@ -13328,16 +13480,6 @@
           }
         },
         {
-          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
-          "count": 1,
-          "details": {
-            "id": "3RvUqTyR1WwQzNaGuBKnCY",
-            "name": "Empty old City",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "0LOK81e9H5lr61HlGGHqwA",
           "count": 1,
           "details": {
@@ -13348,11 +13490,11 @@
           }
         },
         {
-          "_id": "21N6KdZrWD4SqITQAb4qBI",
+          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
           "count": 1,
           "details": {
-            "id": "21N6KdZrWD4SqITQAb4qBI",
-            "name": "\u7fbd\u7d2f",
+            "id": "3RvUqTyR1WwQzNaGuBKnCY",
+            "name": "Empty old City",
             "img": null,
             "genres": null
           }
@@ -13363,6 +13505,16 @@
           "details": {
             "id": "4UK2Lzi6fBfUi9rpDt6cik",
             "name": "\u30e8\u30eb\u30b7\u30ab",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "21N6KdZrWD4SqITQAb4qBI",
+          "count": 1,
+          "details": {
+            "id": "21N6KdZrWD4SqITQAb4qBI",
+            "name": "\u7fbd\u7d2f",
             "img": null,
             "genres": null
           }
@@ -13398,16 +13550,6 @@
           }
         },
         {
-          "_id": "6NOuhUhXshepSHcBqwwZJt",
-          "count": 1,
-          "details": {
-            "id": "6NOuhUhXshepSHcBqwwZJt",
-            "name": "issey",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "51fH9mmZDwz1mSgUmgQIjM",
           "count": 1,
           "details": {
@@ -13418,11 +13560,11 @@
           }
         },
         {
-          "_id": "0FMBfzP2kK1RajdetEVL5c",
+          "_id": "6NOuhUhXshepSHcBqwwZJt",
           "count": 1,
           "details": {
-            "id": "0FMBfzP2kK1RajdetEVL5c",
-            "name": "VESPERBELL",
+            "id": "6NOuhUhXshepSHcBqwwZJt",
+            "name": "issey",
             "img": null,
             "genres": null
           }
@@ -13448,11 +13590,21 @@
           }
         },
         {
-          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
+          "_id": "0FMBfzP2kK1RajdetEVL5c",
           "count": 1,
           "details": {
-            "id": "0ojt4tZJ0ud7qn25JdUyJW",
-            "name": "Albemuth",
+            "id": "0FMBfzP2kK1RajdetEVL5c",
+            "name": "VESPERBELL",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "52I9qA4Wh7DflQ92nnTBMs",
+          "count": 1,
+          "details": {
+            "id": "52I9qA4Wh7DflQ92nnTBMs",
+            "name": "\u5b58\u6d41",
             "img": null,
             "genres": null
           }
