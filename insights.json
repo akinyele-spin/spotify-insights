@@ -1,11 +1,131 @@
 {
-  "updated_at": 1743465619,
+  "updated_at": 1743465907,
   "data": {
     "today": {
-      "top_songs": [],
-      "top_albums": [],
-      "top_artists": [],
-      "total_listen_time": []
+      "top_songs": [
+        {
+          "_id": "5ZeTXi7uJgTlZJVqljyqHY",
+          "count": 1,
+          "details": {
+            "id": "5ZeTXi7uJgTlZJVqljyqHY",
+            "name": "Override",
+            "progress": 99.42757415771484,
+            "duration_ms": 138533,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce62f7cf737ee41a816149f05530a0bff43e141e?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "40dkMslN1IMcKknT4eTjNE",
+                "name": "Yoshida Yasei",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "0DxpTpSwUiOKLDelTQW0Gp",
+              "name": "Override",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2730bf699ca7b246f8626048e21"
+              }
+            },
+            "time": 1743465680816
+          }
+        },
+        {
+          "_id": "45npVQc7KoD5q9WdLiuaeZ",
+          "count": 1,
+          "details": {
+            "id": "45npVQc7KoD5q9WdLiuaeZ",
+            "name": "\u30ed\u30ad",
+            "progress": 37.93820571899414,
+            "duration_ms": 226977,
+            "preview_url": "https://p.scdn.co/mp3-preview/837b5ebd098fe57245b70ff61c65dfe17c5fa64b?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "4rDjKnJ4UDzfROtTs37kDT",
+                "name": "\u9ebb\u5a46\u8c46\u8150",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "3dt9pdbDXYgG3EbiALM0TE",
+              "name": "\u30ed\u30ad",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27352fefe23d9823bcf772cdc3e"
+              }
+            },
+            "time": 1743465819652
+          }
+        }
+      ],
+      "top_albums": [
+        {
+          "_id": "3dt9pdbDXYgG3EbiALM0TE",
+          "count": 1,
+          "details": {
+            "id": "3dt9pdbDXYgG3EbiALM0TE",
+            "name": "\u30ed\u30ad",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27352fefe23d9823bcf772cdc3e"
+            }
+          }
+        },
+        {
+          "_id": "0DxpTpSwUiOKLDelTQW0Gp",
+          "count": 1,
+          "details": {
+            "id": "0DxpTpSwUiOKLDelTQW0Gp",
+            "name": "Override",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2730bf699ca7b246f8626048e21"
+            }
+          }
+        }
+      ],
+      "top_artists": [
+        {
+          "_id": "4rDjKnJ4UDzfROtTs37kDT",
+          "count": 1,
+          "details": {
+            "id": "4rDjKnJ4UDzfROtTs37kDT",
+            "name": "\u9ebb\u5a46\u8c46\u8150",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "40dkMslN1IMcKknT4eTjNE",
+          "count": 1,
+          "details": {
+            "id": "40dkMslN1IMcKknT4eTjNE",
+            "name": "Yoshida Yasei",
+            "img": null,
+            "genres": null
+          }
+        }
+      ],
+      "total_listen_time": [
+        {
+          "_id": null,
+          "listened_ms": 223851.00250270843
+        }
+      ]
     },
     "yesterday": {
       "top_songs": [
@@ -2519,6 +2639,21 @@
           }
         },
         {
+          "_id": "7EOJL0BLufYxwQ5SmQcan5",
+          "count": 3,
+          "details": {
+            "id": "7EOJL0BLufYxwQ5SmQcan5",
+            "name": "Okiteru daisakusen",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2737bb8837c3687761e8392c53e"
+            }
+          }
+        },
+        {
           "_id": "1SRt87DNilJpkux34yJMxU",
           "count": 3,
           "details": {
@@ -2729,21 +2864,6 @@
           }
         },
         {
-          "_id": "7EOJL0BLufYxwQ5SmQcan5",
-          "count": 3,
-          "details": {
-            "id": "7EOJL0BLufYxwQ5SmQcan5",
-            "name": "Okiteru daisakusen",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2737bb8837c3687761e8392c53e"
-            }
-          }
-        },
-        {
           "_id": "49ELlmc6ykxao1ovjxl57b",
           "count": 2,
           "details": {
@@ -2770,21 +2890,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2731485c58b78717025c7938e27"
-            }
-          }
-        },
-        {
-          "_id": "4iCLx6HHi8QSfeMloqtsPh",
-          "count": 2,
-          "details": {
-            "id": "4iCLx6HHi8QSfeMloqtsPh",
-            "name": "BOW AND ARROW",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273660a7f50e11a592250e80b56"
             }
           }
         },
@@ -3025,6 +3130,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b27306a87cd3b834b98452eb5ac9"
+            }
+          }
+        },
+        {
+          "_id": "4iCLx6HHi8QSfeMloqtsPh",
+          "count": 2,
+          "details": {
+            "id": "4iCLx6HHi8QSfeMloqtsPh",
+            "name": "BOW AND ARROW",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273660a7f50e11a592250e80b56"
             }
           }
         },
@@ -3836,21 +3956,21 @@
           }
         },
         {
-          "_id": "7samVyTa42GWxA0DedqZL2",
-          "count": 2,
-          "details": {
-            "id": "7samVyTa42GWxA0DedqZL2",
-            "name": "\u30de\u30b5\u30e9\u30c0",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "7cvljqLNhWNFMb8wP2NImJ",
           "count": 2,
           "details": {
             "id": "7cvljqLNhWNFMb8wP2NImJ",
             "name": "Moe Shop",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "7samVyTa42GWxA0DedqZL2",
+          "count": 2,
+          "details": {
+            "id": "7samVyTa42GWxA0DedqZL2",
+            "name": "\u30de\u30b5\u30e9\u30c0",
             "img": null,
             "genres": null
           }
@@ -4159,7 +4279,7 @@
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 21922586.99687018
+          "listened_ms": 21983571.99648718
         }
       ]
     },
@@ -5268,37 +5388,6 @@
           }
         },
         {
-          "_id": "41aJ8bHDhV2kTw51biHvoq",
-          "count": 1,
-          "details": {
-            "id": "41aJ8bHDhV2kTw51biHvoq",
-            "name": "Heart Pie Dancehall",
-            "progress": 8.836575508117676,
-            "duration_ms": 219361,
-            "preview_url": "https://p.scdn.co/mp3-preview/f4bce58a4c07f4c9219797359abb83ea7478619f?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "5OBmR4AY53SS26qHZ4uwnq",
-                "name": "HIMEHINA",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "61tTiO6FyVL5KunTKQAkbb",
-              "name": "Heart Pie Dancehall",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cd1dd210e25532f5231959d5"
-              }
-            },
-            "time": 1742910613520
-          }
-        },
-        {
           "_id": "57oeTR6VMKaqpsWd6OZaFZ",
           "count": 1,
           "details": {
@@ -5327,6 +5416,37 @@
               }
             },
             "time": 1742921270611
+          }
+        },
+        {
+          "_id": "41aJ8bHDhV2kTw51biHvoq",
+          "count": 1,
+          "details": {
+            "id": "41aJ8bHDhV2kTw51biHvoq",
+            "name": "Heart Pie Dancehall",
+            "progress": 8.836575508117676,
+            "duration_ms": 219361,
+            "preview_url": "https://p.scdn.co/mp3-preview/f4bce58a4c07f4c9219797359abb83ea7478619f?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "5OBmR4AY53SS26qHZ4uwnq",
+                "name": "HIMEHINA",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "61tTiO6FyVL5KunTKQAkbb",
+              "name": "Heart Pie Dancehall",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cd1dd210e25532f5231959d5"
+              }
+            },
+            "time": 1742910613520
           }
         },
         {
@@ -5540,37 +5660,6 @@
           }
         },
         {
-          "_id": "1hOJ6SW735Z03hWHdbvKf9",
-          "count": 1,
-          "details": {
-            "id": "1hOJ6SW735Z03hWHdbvKf9",
-            "name": "\u30c0\u30fc\u30ea\u30f3\u30c0\u30f3\u30b9",
-            "progress": 100.0,
-            "duration_ms": 207120,
-            "preview_url": "https://p.scdn.co/mp3-preview/00a23f28261109b0b2142d740389f6c3d81386d8?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "01nMGyw9a98Vm03DM2rspb",
-                "name": "Kotone",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "3xndKLWVTGE8HVIiXshb8l",
-              "name": "I scream",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e94da46bb08bb191b0939df4"
-              }
-            },
-            "time": 1742909983823
-          }
-        },
-        {
           "_id": "7FN4l3ORF68GwwOavytbps",
           "count": 1,
           "details": {
@@ -5599,6 +5688,37 @@
               }
             },
             "time": 1742922410668
+          }
+        },
+        {
+          "_id": "1hOJ6SW735Z03hWHdbvKf9",
+          "count": 1,
+          "details": {
+            "id": "1hOJ6SW735Z03hWHdbvKf9",
+            "name": "\u30c0\u30fc\u30ea\u30f3\u30c0\u30f3\u30b9",
+            "progress": 100.0,
+            "duration_ms": 207120,
+            "preview_url": "https://p.scdn.co/mp3-preview/00a23f28261109b0b2142d740389f6c3d81386d8?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "01nMGyw9a98Vm03DM2rspb",
+                "name": "Kotone",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "3xndKLWVTGE8HVIiXshb8l",
+              "name": "I scream",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e94da46bb08bb191b0939df4"
+              }
+            },
+            "time": 1742909983823
           }
         },
         {
@@ -6208,37 +6328,6 @@
           }
         },
         {
-          "_id": "0LWfcbyKEdi7BKofXlYtEN",
-          "count": 1,
-          "details": {
-            "id": "0LWfcbyKEdi7BKofXlYtEN",
-            "name": "\u30b7\u30e3\u30f3\u30c6\u30a3 (feat. KAITO)",
-            "progress": 99.71197509765625,
-            "duration_ms": 165958,
-            "preview_url": "https://p.scdn.co/mp3-preview/d5aaaea8be30081e44c47fe4e2f242fee1177e28?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "0685luDRQZRkN4JnhnRSKX",
-                "name": "wotaku",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "1X1YaU65nIfjTpd23hPskH",
-              "name": "\u30b7\u30e3\u30f3\u30c6\u30a3",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273cfc769ef2e93cc3f809cbda9"
-              }
-            },
-            "time": 1742912045169
-          }
-        },
-        {
           "_id": "7M8agzksQC0giz4xtthLQL",
           "count": 1,
           "details": {
@@ -6267,6 +6356,37 @@
               }
             },
             "time": 1742922191817
+          }
+        },
+        {
+          "_id": "0LWfcbyKEdi7BKofXlYtEN",
+          "count": 1,
+          "details": {
+            "id": "0LWfcbyKEdi7BKofXlYtEN",
+            "name": "\u30b7\u30e3\u30f3\u30c6\u30a3 (feat. KAITO)",
+            "progress": 99.71197509765625,
+            "duration_ms": 165958,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5aaaea8be30081e44c47fe4e2f242fee1177e28?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "0685luDRQZRkN4JnhnRSKX",
+                "name": "wotaku",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "1X1YaU65nIfjTpd23hPskH",
+              "name": "\u30b7\u30e3\u30f3\u30c6\u30a3",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273cfc769ef2e93cc3f809cbda9"
+              }
+            },
+            "time": 1742912045169
           }
         },
         {
@@ -6827,6 +6947,43 @@
           }
         },
         {
+          "_id": "5zRlUlC3MXAxGgBbAZwlRh",
+          "count": 1,
+          "details": {
+            "id": "5zRlUlC3MXAxGgBbAZwlRh",
+            "name": "\u30a2\u30a4\u30ce\u6700\u9069\u89e3",
+            "progress": 99.39425659179688,
+            "duration_ms": 190510,
+            "preview_url": "https://p.scdn.co/mp3-preview/0349e93b206ef0830c5ae0f94e20b28e51f524a5?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "1rFELoNfdLOYWPwtrBN6zS",
+                "name": "\u7406\u82bd",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "71e65rSv8Dh3bfWNPQ1V1Q",
+                "name": "\u660e\u900f",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "4Bhq6Qw7ijYrCzC33gz0Tf",
+              "name": "\u30a2\u30a4\u30ce\u6700\u9069\u89e3",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e3582e0cc7c83631fc20de5e"
+              }
+            },
+            "time": 1742904272320
+          }
+        },
+        {
           "_id": "5tpqd0yLeTsRSlYrPMcheM",
           "count": 1,
           "details": {
@@ -6867,43 +7024,6 @@
               }
             },
             "time": 1742916212836
-          }
-        },
-        {
-          "_id": "5zRlUlC3MXAxGgBbAZwlRh",
-          "count": 1,
-          "details": {
-            "id": "5zRlUlC3MXAxGgBbAZwlRh",
-            "name": "\u30a2\u30a4\u30ce\u6700\u9069\u89e3",
-            "progress": 99.39425659179688,
-            "duration_ms": 190510,
-            "preview_url": "https://p.scdn.co/mp3-preview/0349e93b206ef0830c5ae0f94e20b28e51f524a5?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "1rFELoNfdLOYWPwtrBN6zS",
-                "name": "\u7406\u82bd",
-                "img": null,
-                "genres": null
-              },
-              {
-                "id": "71e65rSv8Dh3bfWNPQ1V1Q",
-                "name": "\u660e\u900f",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "4Bhq6Qw7ijYrCzC33gz0Tf",
-              "name": "\u30a2\u30a4\u30ce\u6700\u9069\u89e3",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e3582e0cc7c83631fc20de5e"
-              }
-            },
-            "time": 1742904272320
           }
         },
         {
@@ -10300,17 +10420,17 @@
       ],
       "top_albums": [
         {
-          "_id": "3Kjb4nYmLkGVCQX1ZVAa68",
+          "_id": "4GtyJUAMuebV32kbcMJJpv",
           "count": 1,
           "details": {
-            "id": "3Kjb4nYmLkGVCQX1ZVAa68",
-            "name": "ADAM",
+            "id": "4GtyJUAMuebV32kbcMJJpv",
+            "name": "RULE THE WORLD",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273023cef995df590013a1fbb83"
+              "url": "https://i.scdn.co/image/ab67616d0000b27330c22d223b365f786caf09a0"
             }
           }
         },
@@ -10330,28 +10450,28 @@
           }
         },
         {
-          "_id": "4GtyJUAMuebV32kbcMJJpv",
+          "_id": "3Kjb4nYmLkGVCQX1ZVAa68",
           "count": 1,
           "details": {
-            "id": "4GtyJUAMuebV32kbcMJJpv",
-            "name": "RULE THE WORLD",
+            "id": "3Kjb4nYmLkGVCQX1ZVAa68",
+            "name": "ADAM",
             "img": null,
             "genres": null,
             "image": {
               "height": 640,
               "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27330c22d223b365f786caf09a0"
+              "url": "https://i.scdn.co/image/ab67616d0000b273023cef995df590013a1fbb83"
             }
           }
         }
       ],
       "top_artists": [
         {
-          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
+          "_id": "44D3MnQihKkhALgAxoMiOL",
           "count": 1,
           "details": {
-            "id": "0ojt4tZJ0ud7qn25JdUyJW",
-            "name": "Albemuth",
+            "id": "44D3MnQihKkhALgAxoMiOL",
+            "name": "\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c",
             "img": null,
             "genres": null
           }
@@ -10367,16 +10487,6 @@
           }
         },
         {
-          "_id": "44D3MnQihKkhALgAxoMiOL",
-          "count": 1,
-          "details": {
-            "id": "44D3MnQihKkhALgAxoMiOL",
-            "name": "\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c\u306c",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "3m4eychsgfjZtqppOdaThY",
           "count": 1,
           "details": {
@@ -10387,11 +10497,11 @@
           }
         },
         {
-          "_id": "39fp9WgXJxPo1pYxt96w6l",
+          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
           "count": 1,
           "details": {
-            "id": "39fp9WgXJxPo1pYxt96w6l",
-            "name": "\u6625\u733f\u706b",
+            "id": "0ojt4tZJ0ud7qn25JdUyJW",
+            "name": "Albemuth",
             "img": null,
             "genres": null
           }
@@ -10402,6 +10512,16 @@
           "details": {
             "id": "52I9qA4Wh7DflQ92nnTBMs",
             "name": "\u5b58\u6d41",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "39fp9WgXJxPo1pYxt96w6l",
+          "count": 1,
+          "details": {
+            "id": "39fp9WgXJxPo1pYxt96w6l",
+            "name": "\u6625\u733f\u706b",
             "img": null,
             "genres": null
           }
