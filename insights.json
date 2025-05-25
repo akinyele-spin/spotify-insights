@@ -1,11 +1,75 @@
 {
-  "updated_at": 1748132425,
+  "updated_at": 1748132725,
   "data": {
     "today": {
-      "top_songs": [],
-      "top_albums": [],
-      "top_artists": [],
-      "total_listen_time": []
+      "top_songs": [
+        {
+          "_id": "1mri7kWJ2nruF4gmGaeo6R",
+          "count": 1,
+          "details": {
+            "id": "1mri7kWJ2nruF4gmGaeo6R",
+            "name": "Sion",
+            "progress": 3.8525969982147217,
+            "duration_ms": 237580,
+            "preview_url": "https://p.scdn.co/mp3-preview/cc4198763baef5247f26ec4c5103997692ae5df3?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "22geWzdiGIPezlnNgoifJM",
+                "name": "niKu",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "5Odo5qA1oR0HGvzAMHXLFh",
+              "name": "Sion",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273735a0a6065ab066c3887c46f"
+              }
+            },
+            "time": 1748132713509
+          }
+        }
+      ],
+      "top_albums": [
+        {
+          "_id": "5Odo5qA1oR0HGvzAMHXLFh",
+          "count": 1,
+          "details": {
+            "id": "5Odo5qA1oR0HGvzAMHXLFh",
+            "name": "Sion",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273735a0a6065ab066c3887c46f"
+            }
+          }
+        }
+      ],
+      "top_artists": [
+        {
+          "_id": "22geWzdiGIPezlnNgoifJM",
+          "count": 1,
+          "details": {
+            "id": "22geWzdiGIPezlnNgoifJM",
+            "name": "niKu",
+            "img": null,
+            "genres": null
+          }
+        }
+      ],
+      "total_listen_time": [
+        {
+          "_id": null,
+          "listened_ms": 11355.00017375946
+        }
+      ]
     },
     "yesterday": {
       "top_songs": [
@@ -301,6 +365,37 @@
           }
         },
         {
+          "_id": "4Mf64yz8BPvc4YeZu5Typ7",
+          "count": 1,
+          "details": {
+            "id": "4Mf64yz8BPvc4YeZu5Typ7",
+            "name": "\u3080\u3059\u3093\u3067\u3072\u3089\u3044\u3066",
+            "progress": 99.80523681640625,
+            "duration_ms": 279828,
+            "preview_url": "https://p.scdn.co/mp3-preview/8ce1ab759b11de520e8c784cc7bf09cb9989aee4?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "1oM8EdalXNF4uSK5k2dzLh",
+                "name": "\u5e78\u795c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "3CD9srOcl0t0f33BAQsV00",
+              "name": "\u3080\u3059\u3093\u3067\u3072\u3089\u3044\u3066",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273b2dbe231945fb61ce9b452e3"
+              }
+            },
+            "time": 1748049103050
+          }
+        },
+        {
           "_id": "4q5eIzOsAW7Xsd6QpNe7Nn",
           "count": 1,
           "details": {
@@ -335,37 +430,6 @@
               }
             },
             "time": 1748051304089
-          }
-        },
-        {
-          "_id": "4Mf64yz8BPvc4YeZu5Typ7",
-          "count": 1,
-          "details": {
-            "id": "4Mf64yz8BPvc4YeZu5Typ7",
-            "name": "\u3080\u3059\u3093\u3067\u3072\u3089\u3044\u3066",
-            "progress": 99.80523681640625,
-            "duration_ms": 279828,
-            "preview_url": "https://p.scdn.co/mp3-preview/8ce1ab759b11de520e8c784cc7bf09cb9989aee4?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "1oM8EdalXNF4uSK5k2dzLh",
-                "name": "\u5e78\u795c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "3CD9srOcl0t0f33BAQsV00",
-              "name": "\u3080\u3059\u3093\u3067\u3072\u3089\u3044\u3066",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273b2dbe231945fb61ce9b452e3"
-              }
-            },
-            "time": 1748049103050
           }
         },
         {
@@ -3832,7 +3896,7 @@
           "details": {
             "id": "2LEk86uN9BRFvn0huhDrry",
             "name": "HONEY BEES",
-            "progress": 38.86745071411133,
+            "progress": 99.92815399169922,
             "duration_ms": 263053,
             "preview_url": "https://p.scdn.co/mp3-preview/67a4fbe64584775530efc6a4bf8b6f2df257dbb9?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
@@ -8186,21 +8250,21 @@
           }
         },
         {
-          "_id": "2KJvs9nIWfFTZ1lk7bBFlW",
-          "count": 2,
-          "details": {
-            "id": "2KJvs9nIWfFTZ1lk7bBFlW",
-            "name": "R Sound Design",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "0bkkiFN0ghGl4j9aLi3oQx",
           "count": 2,
           "details": {
             "id": "0bkkiFN0ghGl4j9aLi3oQx",
             "name": "Nanahira",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2KJvs9nIWfFTZ1lk7bBFlW",
+          "count": 2,
+          "details": {
+            "id": "2KJvs9nIWfFTZ1lk7bBFlW",
+            "name": "R Sound Design",
             "img": null,
             "genres": null
           }
@@ -8979,7 +9043,7 @@
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 36450683.07803867
+          "listened_ms": 36611305.089831464
         }
       ]
     },
@@ -13972,21 +14036,6 @@
           }
         },
         {
-          "_id": "31LvSRXGPVhYs2EZFK0BEU",
-          "count": 1,
-          "details": {
-            "id": "31LvSRXGPVhYs2EZFK0BEU",
-            "name": "Ado \"Ready For My Show Playlist\"",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731b1310c35fad57bc85027f19"
-            }
-          }
-        },
-        {
           "_id": "2bTfUWWhDsyehtTvaegNP6",
           "count": 1,
           "details": {
@@ -13998,6 +14047,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273a5b834da0a612b9e4260ec1f"
+            }
+          }
+        },
+        {
+          "_id": "31LvSRXGPVhYs2EZFK0BEU",
+          "count": 1,
+          "details": {
+            "id": "31LvSRXGPVhYs2EZFK0BEU",
+            "name": "Ado \"Ready For My Show Playlist\"",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731b1310c35fad57bc85027f19"
             }
           }
         },
@@ -15269,37 +15333,6 @@
           }
         },
         {
-          "_id": "79zgdvnTPyWSuTrd48Ik5O",
-          "count": 2,
-          "details": {
-            "id": "79zgdvnTPyWSuTrd48Ik5O",
-            "name": "\u767e\u82b1\u7e5a\u4e71",
-            "progress": 99.1910171508789,
-            "duration_ms": 179238,
-            "preview_url": "https://p.scdn.co/mp3-preview/dbe7a7f3b65b4d3500e8cc7d0d5b12c079fc83cb?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "1qM11R4ylJyQiPJ0DffE9z",
-                "name": "Lilas",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "3LDV2xGL9HiqCsQujEPQLb",
-              "name": "\u767e\u82b1\u7e5a\u4e71",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273e77e06b4aa422658900b529c"
-              }
-            },
-            "time": 1745558816112
-          }
-        },
-        {
           "_id": "1GxIZOxgXi3GfE1zqsrS5H",
           "count": 2,
           "details": {
@@ -15334,6 +15367,37 @@
               }
             },
             "time": 1745541958541
+          }
+        },
+        {
+          "_id": "79zgdvnTPyWSuTrd48Ik5O",
+          "count": 2,
+          "details": {
+            "id": "79zgdvnTPyWSuTrd48Ik5O",
+            "name": "\u767e\u82b1\u7e5a\u4e71",
+            "progress": 99.1910171508789,
+            "duration_ms": 179238,
+            "preview_url": "https://p.scdn.co/mp3-preview/dbe7a7f3b65b4d3500e8cc7d0d5b12c079fc83cb?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "1qM11R4ylJyQiPJ0DffE9z",
+                "name": "Lilas",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "3LDV2xGL9HiqCsQujEPQLb",
+              "name": "\u767e\u82b1\u7e5a\u4e71",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e77e06b4aa422658900b529c"
+              }
+            },
+            "time": 1745558816112
           }
         },
         {
@@ -15974,37 +16038,6 @@
           }
         },
         {
-          "_id": "2Lsz5ZTcaDsf7TVs8MsEEy",
-          "count": 1,
-          "details": {
-            "id": "2Lsz5ZTcaDsf7TVs8MsEEy",
-            "name": "Lullaby",
-            "progress": 99.56723022460938,
-            "duration_ms": 272200,
-            "preview_url": "https://p.scdn.co/mp3-preview/3d6e5c8a3cd035c3aa6e922fe40e64a6e77620a8?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "1oM8EdalXNF4uSK5k2dzLh",
-                "name": "\u5e78\u795c",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "5CqhZSxcWa3tjQno9gY86K",
-              "name": "prayer2",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2732169f7d83303b533bda002cb"
-              }
-            },
-            "time": 1745557811881
-          }
-        },
-        {
           "_id": "1LgmAYBdEeQg3dDmHv8xit",
           "count": 1,
           "details": {
@@ -16033,6 +16066,37 @@
               }
             },
             "time": 1745556711612
+          }
+        },
+        {
+          "_id": "2Lsz5ZTcaDsf7TVs8MsEEy",
+          "count": 1,
+          "details": {
+            "id": "2Lsz5ZTcaDsf7TVs8MsEEy",
+            "name": "Lullaby",
+            "progress": 99.56723022460938,
+            "duration_ms": 272200,
+            "preview_url": "https://p.scdn.co/mp3-preview/3d6e5c8a3cd035c3aa6e922fe40e64a6e77620a8?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "1oM8EdalXNF4uSK5k2dzLh",
+                "name": "\u5e78\u795c",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "5CqhZSxcWa3tjQno9gY86K",
+              "name": "prayer2",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2732169f7d83303b533bda002cb"
+              }
+            },
+            "time": 1745557811881
           }
         },
         {
@@ -17973,40 +18037,40 @@
           }
         },
         {
-          "_id": "3JzAKk0CpUlgzS1mPqzBwk",
+          "_id": "4q5eIzOsAW7Xsd6QpNe7Nn",
           "count": 1,
           "details": {
-            "id": "3JzAKk0CpUlgzS1mPqzBwk",
-            "name": "Curtain Call",
-            "progress": 2.0113160610198975,
-            "duration_ms": 267586,
-            "preview_url": "https://p.scdn.co/mp3-preview/0566a556dd4969c2e0c572e89529a0852104d589?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "4q5eIzOsAW7Xsd6QpNe7Nn",
+            "name": "DEADPOOL feat. \u82b1\u8b5c",
+            "progress": 99.10887145996094,
+            "duration_ms": 204909,
+            "preview_url": "https://p.scdn.co/mp3-preview/aaa2351de4d3d2b3d8a4fc41028bde6845bd6e87?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "id": "2ZjWbNQAjL74Pf4aqikIz2",
-                "name": "Shota Shimizu",
+                "id": "726WiFmWkohzodUxK3XjHX",
+                "name": "Hoshimachi Suisei",
                 "img": null,
                 "genres": null
               },
               {
-                "id": "3xYFPpQA4Hp8BTusV6um2e",
-                "name": "Taka",
+                "id": "2c32JruIkUyfdycHmhIph4",
+                "name": "\u82b1\u8b5c",
                 "img": null,
                 "genres": null
               }
             ],
             "album": {
-              "id": "7KDcEG3mcB0g6XWwFNZ6KR",
-              "name": "HOPE",
+              "id": "1mBitF64U7CZPQW7uEit3z",
+              "name": "\u65b0\u661f\u76ee\u9332",
               "img": null,
               "genres": null,
               "image": {
                 "height": 640,
                 "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2735f4f42d27a37573e95c11164"
+                "url": "https://i.scdn.co/image/ab67616d0000b2738c55e4155ad68e18d3816198"
               }
             },
-            "time": 1745590508277
+            "time": 1745597409594
           }
         },
         {
@@ -18072,40 +18136,40 @@
           }
         },
         {
-          "_id": "4q5eIzOsAW7Xsd6QpNe7Nn",
+          "_id": "3JzAKk0CpUlgzS1mPqzBwk",
           "count": 1,
           "details": {
-            "id": "4q5eIzOsAW7Xsd6QpNe7Nn",
-            "name": "DEADPOOL feat. \u82b1\u8b5c",
-            "progress": 99.10887145996094,
-            "duration_ms": 204909,
-            "preview_url": "https://p.scdn.co/mp3-preview/aaa2351de4d3d2b3d8a4fc41028bde6845bd6e87?cid=ffce38f98386483bbbee2d4831104c2b",
+            "id": "3JzAKk0CpUlgzS1mPqzBwk",
+            "name": "Curtain Call",
+            "progress": 2.0113160610198975,
+            "duration_ms": 267586,
+            "preview_url": "https://p.scdn.co/mp3-preview/0566a556dd4969c2e0c572e89529a0852104d589?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
               {
-                "id": "726WiFmWkohzodUxK3XjHX",
-                "name": "Hoshimachi Suisei",
+                "id": "2ZjWbNQAjL74Pf4aqikIz2",
+                "name": "Shota Shimizu",
                 "img": null,
                 "genres": null
               },
               {
-                "id": "2c32JruIkUyfdycHmhIph4",
-                "name": "\u82b1\u8b5c",
+                "id": "3xYFPpQA4Hp8BTusV6um2e",
+                "name": "Taka",
                 "img": null,
                 "genres": null
               }
             ],
             "album": {
-              "id": "1mBitF64U7CZPQW7uEit3z",
-              "name": "\u65b0\u661f\u76ee\u9332",
+              "id": "7KDcEG3mcB0g6XWwFNZ6KR",
+              "name": "HOPE",
               "img": null,
               "genres": null,
               "image": {
                 "height": 640,
                 "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2738c55e4155ad68e18d3816198"
+                "url": "https://i.scdn.co/image/ab67616d0000b2735f4f42d27a37573e95c11164"
               }
             },
-            "time": 1745597409594
+            "time": 1745590508277
           }
         },
         {
@@ -18904,21 +18968,6 @@
           }
         },
         {
-          "_id": "3La40n3qbHz4V0il9R1aUA",
-          "count": 1,
-          "details": {
-            "id": "3La40n3qbHz4V0il9R1aUA",
-            "name": "USHIROJIKAN",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27370610588e7acb9ca718992b5"
-            }
-          }
-        },
-        {
           "_id": "0ywEDPSaZILN2h2FCCk1rr",
           "count": 1,
           "details": {
@@ -18930,6 +18979,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273664bc5d7e4e1014aa8ba5cf9"
+            }
+          }
+        },
+        {
+          "_id": "3La40n3qbHz4V0il9R1aUA",
+          "count": 1,
+          "details": {
+            "id": "3La40n3qbHz4V0il9R1aUA",
+            "name": "USHIROJIKAN",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27370610588e7acb9ca718992b5"
             }
           }
         },
@@ -19414,21 +19478,6 @@
           }
         },
         {
-          "_id": "1AzkXE2hgeuHGPKAqcGgHD",
-          "count": 1,
-          "details": {
-            "id": "1AzkXE2hgeuHGPKAqcGgHD",
-            "name": "\u30e2\u30a8\u30c1\u30e3\u30c3\u30ab\u30d5\u30a1\u30a4\u30a2",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2732c3840e66768368e20042fe6"
-            }
-          }
-        },
-        {
           "_id": "0u5ozzfqDP6wt2ihQAzKYc",
           "count": 1,
           "details": {
@@ -19440,6 +19489,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2737e45b6ac2d0900a187d90afd"
+            }
+          }
+        },
+        {
+          "_id": "1AzkXE2hgeuHGPKAqcGgHD",
+          "count": 1,
+          "details": {
+            "id": "1AzkXE2hgeuHGPKAqcGgHD",
+            "name": "\u30e2\u30a8\u30c1\u30e3\u30c3\u30ab\u30d5\u30a1\u30a4\u30a2",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2732c3840e66768368e20042fe6"
             }
           }
         },
@@ -20071,21 +20135,21 @@
           }
         },
         {
-          "_id": "2beGqnoMiYHPQJSES6M8A5",
-          "count": 2,
-          "details": {
-            "id": "2beGqnoMiYHPQJSES6M8A5",
-            "name": "\u5409\u7530\u591c\u4e16",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "4hUWwJ0fRLx9rYtUvT26Ii",
           "count": 2,
           "details": {
             "id": "4hUWwJ0fRLx9rYtUvT26Ii",
             "name": "P\u4e38\u69d8\uff61",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2beGqnoMiYHPQJSES6M8A5",
+          "count": 2,
+          "details": {
+            "id": "2beGqnoMiYHPQJSES6M8A5",
+            "name": "\u5409\u7530\u591c\u4e16",
             "img": null,
             "genres": null
           }
@@ -20401,21 +20465,21 @@
           }
         },
         {
-          "_id": "1mHZT1y9KKMq3YsGFLR9xH",
-          "count": 1,
-          "details": {
-            "id": "1mHZT1y9KKMq3YsGFLR9xH",
-            "name": "ReGLOSS",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "7samVyTa42GWxA0DedqZL2",
           "count": 1,
           "details": {
             "id": "7samVyTa42GWxA0DedqZL2",
             "name": "\u30de\u30b5\u30e9\u30c0",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1mHZT1y9KKMq3YsGFLR9xH",
+          "count": 1,
+          "details": {
+            "id": "1mHZT1y9KKMq3YsGFLR9xH",
+            "name": "ReGLOSS",
             "img": null,
             "genres": null
           }
