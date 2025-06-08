@@ -1,11 +1,75 @@
 {
-  "updated_at": 1749342636,
+  "updated_at": 1749342927,
   "data": {
     "today": {
-      "top_songs": [],
-      "top_albums": [],
-      "top_artists": [],
-      "total_listen_time": []
+      "top_songs": [
+        {
+          "_id": "58ZuqOEtYK4gR0PmPrPEJ5",
+          "count": 1,
+          "details": {
+            "id": "58ZuqOEtYK4gR0PmPrPEJ5",
+            "name": "\u305f\u3093\u307d\u307d",
+            "progress": 73.09025573730469,
+            "duration_ms": 193272,
+            "preview_url": "https://p.scdn.co/mp3-preview/823233df5bfac350b221e85ede745d02d6e96656?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "539Z6h1XU1IripGR4rTtbz",
+                "name": "\u5927\u795e\u30df\u30aa",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "2KKLudkxI2IzU0BPyB2t6N",
+              "name": "\u305f\u3093\u307d\u307d",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273a917e5e0c99e58d4ff66cd1f"
+              }
+            },
+            "time": 1749342657992
+          }
+        }
+      ],
+      "top_albums": [
+        {
+          "_id": "2KKLudkxI2IzU0BPyB2t6N",
+          "count": 1,
+          "details": {
+            "id": "2KKLudkxI2IzU0BPyB2t6N",
+            "name": "\u305f\u3093\u307d\u307d",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273a917e5e0c99e58d4ff66cd1f"
+            }
+          }
+        }
+      ],
+      "top_artists": [
+        {
+          "_id": "539Z6h1XU1IripGR4rTtbz",
+          "count": 1,
+          "details": {
+            "id": "539Z6h1XU1IripGR4rTtbz",
+            "name": "\u5927\u795e\u30df\u30aa",
+            "img": null,
+            "genres": null
+          }
+        }
+      ],
+      "total_listen_time": [
+        {
+          "_id": null,
+          "listened_ms": 141262.99906860353
+        }
+      ]
     },
     "yesterday": {
       "top_songs": [
@@ -1272,7 +1336,7 @@
           "details": {
             "id": "7fcEOJGsOOVyz8XeDwvLRZ",
             "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8",
-            "progress": 21.167224884033203,
+            "progress": 34.682830810546875,
             "duration_ms": 179400,
             "preview_url": "https://p.scdn.co/mp3-preview/4abfe69cbfa40e92c1ff42ce2e5c3bde4c25d10f?cid=ffce38f98386483bbbee2d4831104c2b",
             "artists": [
@@ -2887,6 +2951,21 @@
           }
         },
         {
+          "_id": "5PspMN2vVNgEvV3KMD3mxb",
+          "count": 1,
+          "details": {
+            "id": "5PspMN2vVNgEvV3KMD3mxb",
+            "name": "Lazy person",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b2731bcdaf6da2424cb943db6e5d"
+            }
+          }
+        },
+        {
           "_id": "5caSwBLTwvq0mk7cQwtf2O",
           "count": 1,
           "details": {
@@ -2913,21 +2992,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2732187d434525647f5cf5b630c"
-            }
-          }
-        },
-        {
-          "_id": "5PspMN2vVNgEvV3KMD3mxb",
-          "count": 1,
-          "details": {
-            "id": "5PspMN2vVNgEvV3KMD3mxb",
-            "name": "Lazy person",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731bcdaf6da2424cb943db6e5d"
             }
           }
         },
@@ -3224,21 +3288,21 @@
           }
         },
         {
-          "_id": "6mEgpqXA4yzhhncW4cBHlh",
-          "count": 2,
-          "details": {
-            "id": "6mEgpqXA4yzhhncW4cBHlh",
-            "name": "Vivid BAD SQUAD",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "4XdblOIqVvdJSX3e1zKRyZ",
           "count": 2,
           "details": {
             "id": "4XdblOIqVvdJSX3e1zKRyZ",
             "name": "I WiSH",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "6mEgpqXA4yzhhncW4cBHlh",
+          "count": 2,
+          "details": {
+            "id": "6mEgpqXA4yzhhncW4cBHlh",
+            "name": "Vivid BAD SQUAD",
             "img": null,
             "genres": null
           }
@@ -3364,21 +3428,21 @@
           }
         },
         {
-          "_id": "1dMlek4eXZns9FyjBcvrF8",
-          "count": 2,
-          "details": {
-            "id": "1dMlek4eXZns9FyjBcvrF8",
-            "name": "\u767e\u9b3c\u3042\u3084\u3081",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "3xYcccivSuAU13ZHypWoNW",
           "count": 2,
           "details": {
             "id": "3xYcccivSuAU13ZHypWoNW",
             "name": "\u5929\u97f3\u304b\u306a\u305f",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1dMlek4eXZns9FyjBcvrF8",
+          "count": 2,
+          "details": {
+            "id": "1dMlek4eXZns9FyjBcvrF8",
+            "name": "\u767e\u9b3c\u3042\u3084\u3081",
             "img": null,
             "genres": null
           }
@@ -3637,7 +3701,7 @@
       "total_listen_time": [
         {
           "_id": null,
-          "listened_ms": 11343136.063295195
+          "listened_ms": 11365146.062555144
         }
       ]
     },
@@ -4071,6 +4135,37 @@
           }
         },
         {
+          "_id": "0UlvynsPJqAtxiFplzGm8s",
+          "count": 2,
+          "details": {
+            "id": "0UlvynsPJqAtxiFplzGm8s",
+            "name": "Odd Night",
+            "progress": 100.0,
+            "duration_ms": 222106,
+            "preview_url": "https://p.scdn.co/mp3-preview/653c244c4ebd83e8c3f868d6587fb96f2053e2c3?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "4yi8PpyIoHTMe0pV1wZBYk",
+                "name": "\u5009\u6301\u3081\u308b\u3068",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "5og2SVJ1ZsHMzXp83Na9cy",
+              "name": "Odd Night",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27398c56521c0c8a9f3ea239388"
+              }
+            },
+            "time": 1748794005755
+          }
+        },
+        {
           "_id": "0b2whN1iIjVewsVG0iZRHZ",
           "count": 2,
           "details": {
@@ -4130,37 +4225,6 @@
               }
             },
             "time": 1748744437617
-          }
-        },
-        {
-          "_id": "0UlvynsPJqAtxiFplzGm8s",
-          "count": 2,
-          "details": {
-            "id": "0UlvynsPJqAtxiFplzGm8s",
-            "name": "Odd Night",
-            "progress": 100.0,
-            "duration_ms": 222106,
-            "preview_url": "https://p.scdn.co/mp3-preview/653c244c4ebd83e8c3f868d6587fb96f2053e2c3?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "4yi8PpyIoHTMe0pV1wZBYk",
-                "name": "\u5009\u6301\u3081\u308b\u3068",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "5og2SVJ1ZsHMzXp83Na9cy",
-              "name": "Odd Night",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27398c56521c0c8a9f3ea239388"
-              }
-            },
-            "time": 1748794005755
           }
         },
         {
@@ -4818,43 +4882,6 @@
           }
         },
         {
-          "_id": "3jWY97kLdEDCjxLYyVXfaM",
-          "count": 1,
-          "details": {
-            "id": "3jWY97kLdEDCjxLYyVXfaM",
-            "name": "Palm Karuma (feat. Zero Aimiya)",
-            "progress": 2.747290849685669,
-            "duration_ms": 143960,
-            "preview_url": "https://p.scdn.co/mp3-preview/fc13b609c26420c938bc839871862524b61d702b?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "4yUIW4t2Jp0Ywa8O2UAeeb",
-                "name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
-                "img": null,
-                "genres": null
-              },
-              {
-                "id": "0PYG88qjZsEpbxMqDWvlke",
-                "name": "Zero Aimiya",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "0bYyZ02OtRaOmMT6TSPLjW",
-              "name": "KAGEROU Relation CHUNITHM Original Sound Track",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b2734b0f9efad04a8a65381bd91c"
-              }
-            },
-            "time": 1748801660334
-          }
-        },
-        {
           "_id": "35kKhFznwdJGE51Mj6E44V",
           "count": 1,
           "details": {
@@ -4895,6 +4922,43 @@
               }
             },
             "time": 1748795787477
+          }
+        },
+        {
+          "_id": "3jWY97kLdEDCjxLYyVXfaM",
+          "count": 1,
+          "details": {
+            "id": "3jWY97kLdEDCjxLYyVXfaM",
+            "name": "Palm Karuma (feat. Zero Aimiya)",
+            "progress": 2.747290849685669,
+            "duration_ms": 143960,
+            "preview_url": "https://p.scdn.co/mp3-preview/fc13b609c26420c938bc839871862524b61d702b?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "4yUIW4t2Jp0Ywa8O2UAeeb",
+                "name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
+                "img": null,
+                "genres": null
+              },
+              {
+                "id": "0PYG88qjZsEpbxMqDWvlke",
+                "name": "Zero Aimiya",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "0bYyZ02OtRaOmMT6TSPLjW",
+              "name": "KAGEROU Relation CHUNITHM Original Sound Track",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734b0f9efad04a8a65381bd91c"
+              }
+            },
+            "time": 1748801660334
           }
         },
         {
@@ -7974,21 +8038,21 @@
           }
         },
         {
-          "_id": "1dMlek4eXZns9FyjBcvrF8",
-          "count": 2,
-          "details": {
-            "id": "1dMlek4eXZns9FyjBcvrF8",
-            "name": "\u767e\u9b3c\u3042\u3084\u3081",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "61CPRQBnU83J9FIcdPincG",
           "count": 2,
           "details": {
             "id": "61CPRQBnU83J9FIcdPincG",
             "name": "\u706b\u5a01\u9752",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "1dMlek4eXZns9FyjBcvrF8",
+          "count": 2,
+          "details": {
+            "id": "1dMlek4eXZns9FyjBcvrF8",
+            "name": "\u767e\u9b3c\u3042\u3084\u3081",
             "img": null,
             "genres": null
           }
@@ -8276,37 +8340,6 @@
           }
         },
         {
-          "_id": "1DgpQpu0xqj1nh618nkuvd",
-          "count": 2,
-          "details": {
-            "id": "1DgpQpu0xqj1nh618nkuvd",
-            "name": "\u4eca\u56de\u306e\u9a12\u52d5\u306b\u3064\u304d\u307e\u3057\u3066\u3002",
-            "progress": 99.81676483154297,
-            "duration_ms": 200293,
-            "preview_url": "https://p.scdn.co/mp3-preview/3c110213b724a14c476a2542bb64551a9de92d15?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "01nMGyw9a98Vm03DM2rspb",
-                "name": "Kotone",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "5XNO2jLIrvR9YVM33hhRG5",
-              "name": "RESIST",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b273c35ef67ba5825c7535acf41e"
-              }
-            },
-            "time": 1746816453748
-          }
-        },
-        {
           "_id": "6rDPC7PWJERDEGWo475WBq",
           "count": 2,
           "details": {
@@ -8366,6 +8399,37 @@
               }
             },
             "time": 1746774765741
+          }
+        },
+        {
+          "_id": "1DgpQpu0xqj1nh618nkuvd",
+          "count": 2,
+          "details": {
+            "id": "1DgpQpu0xqj1nh618nkuvd",
+            "name": "\u4eca\u56de\u306e\u9a12\u52d5\u306b\u3064\u304d\u307e\u3057\u3066\u3002",
+            "progress": 99.81676483154297,
+            "duration_ms": 200293,
+            "preview_url": "https://p.scdn.co/mp3-preview/3c110213b724a14c476a2542bb64551a9de92d15?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "01nMGyw9a98Vm03DM2rspb",
+                "name": "Kotone",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "5XNO2jLIrvR9YVM33hhRG5",
+              "name": "RESIST",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c35ef67ba5825c7535acf41e"
+              }
+            },
+            "time": 1746816453748
           }
         },
         {
@@ -8722,37 +8786,6 @@
           }
         },
         {
-          "_id": "5TJc53yutGzyWh58ZI9KZL",
-          "count": 1,
-          "details": {
-            "id": "5TJc53yutGzyWh58ZI9KZL",
-            "name": "The Ambroid",
-            "progress": 11.622251510620117,
-            "duration_ms": 261920,
-            "preview_url": "https://p.scdn.co/mp3-preview/a30bde3150850272ab7ca029f4e509f011b5f11e?cid=ffce38f98386483bbbee2d4831104c2b",
-            "artists": [
-              {
-                "id": "5OBmR4AY53SS26qHZ4uwnq",
-                "name": "HIMEHINA",
-                "img": null,
-                "genres": null
-              }
-            ],
-            "album": {
-              "id": "6y1NLYucw6SHfSPxpAPEk6",
-              "name": "Divine Flowers",
-              "img": null,
-              "genres": null,
-              "image": {
-                "height": 640,
-                "width": 640,
-                "url": "https://i.scdn.co/image/ab67616d0000b27395d4f563a813ef22e4e16b29"
-              }
-            },
-            "time": 1746774469887
-          }
-        },
-        {
           "_id": "64RcdAiNSV8huAwLYnGYHa",
           "count": 1,
           "details": {
@@ -8781,6 +8814,37 @@
               }
             },
             "time": 1746762442706
+          }
+        },
+        {
+          "_id": "5TJc53yutGzyWh58ZI9KZL",
+          "count": 1,
+          "details": {
+            "id": "5TJc53yutGzyWh58ZI9KZL",
+            "name": "The Ambroid",
+            "progress": 11.622251510620117,
+            "duration_ms": 261920,
+            "preview_url": "https://p.scdn.co/mp3-preview/a30bde3150850272ab7ca029f4e509f011b5f11e?cid=ffce38f98386483bbbee2d4831104c2b",
+            "artists": [
+              {
+                "id": "5OBmR4AY53SS26qHZ4uwnq",
+                "name": "HIMEHINA",
+                "img": null,
+                "genres": null
+              }
+            ],
+            "album": {
+              "id": "6y1NLYucw6SHfSPxpAPEk6",
+              "name": "Divine Flowers",
+              "img": null,
+              "genres": null,
+              "image": {
+                "height": 640,
+                "width": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27395d4f563a813ef22e4e16b29"
+              }
+            },
+            "time": 1746774469887
           }
         },
         {
@@ -12302,21 +12366,6 @@
           }
         },
         {
-          "_id": "3DiyycE2ZmGL2B0DtWBr8R",
-          "count": 1,
-          "details": {
-            "id": "3DiyycE2ZmGL2B0DtWBr8R",
-            "name": "ASU",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27341293d0fb563fc87b6802d1f"
-            }
-          }
-        },
-        {
           "_id": "5ymnTrQfshAt4F4pemrlYE",
           "count": 1,
           "details": {
@@ -12328,6 +12377,21 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b2739941746bc3508bbf9876ab8b"
+            }
+          }
+        },
+        {
+          "_id": "3DiyycE2ZmGL2B0DtWBr8R",
+          "count": 1,
+          "details": {
+            "id": "3DiyycE2ZmGL2B0DtWBr8R",
+            "name": "ASU",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b27341293d0fb563fc87b6802d1f"
             }
           }
         },
@@ -12587,6 +12651,21 @@
           }
         },
         {
+          "_id": "0G8w8ttvhcCCbacXzYAAbD",
+          "count": 1,
+          "details": {
+            "id": "0G8w8ttvhcCCbacXzYAAbD",
+            "name": "RAMPAGE",
+            "img": null,
+            "genres": null,
+            "image": {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273b42adb7c62180b4a0a2c1714"
+            }
+          }
+        },
+        {
           "_id": "2aig4lobvtGAVzneCVSwyt",
           "count": 1,
           "details": {
@@ -12613,21 +12692,6 @@
               "height": 640,
               "width": 640,
               "url": "https://i.scdn.co/image/ab67616d0000b273e743da999e60c15d87fa7949"
-            }
-          }
-        },
-        {
-          "_id": "0G8w8ttvhcCCbacXzYAAbD",
-          "count": 1,
-          "details": {
-            "id": "0G8w8ttvhcCCbacXzYAAbD",
-            "name": "RAMPAGE",
-            "img": null,
-            "genres": null,
-            "image": {
-              "height": 640,
-              "width": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273b42adb7c62180b4a0a2c1714"
             }
           }
         },
@@ -12894,21 +12958,21 @@
           }
         },
         {
-          "_id": "726WiFmWkohzodUxK3XjHX",
-          "count": 5,
-          "details": {
-            "id": "726WiFmWkohzodUxK3XjHX",
-            "name": "Hoshimachi Suisei",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "4hFBhdNVZZuVk5FYThUwaN",
           "count": 5,
           "details": {
             "id": "4hFBhdNVZZuVk5FYThUwaN",
             "name": "\u30a2\u30c8\u30e9\u30b9\u30b5\u30a6\u30f3\u30c9\u30c1\u30fc\u30e0",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "726WiFmWkohzodUxK3XjHX",
+          "count": 5,
+          "details": {
+            "id": "726WiFmWkohzodUxK3XjHX",
+            "name": "Hoshimachi Suisei",
             "img": null,
             "genres": null
           }
@@ -12924,11 +12988,11 @@
           }
         },
         {
-          "_id": "5OBmR4AY53SS26qHZ4uwnq",
+          "_id": "4UK2Lzi6fBfUi9rpDt6cik",
           "count": 3,
           "details": {
-            "id": "5OBmR4AY53SS26qHZ4uwnq",
-            "name": "HIMEHINA",
+            "id": "4UK2Lzi6fBfUi9rpDt6cik",
+            "name": "\u30e8\u30eb\u30b7\u30ab",
             "img": null,
             "genres": null
           }
@@ -12944,11 +13008,11 @@
           }
         },
         {
-          "_id": "4UK2Lzi6fBfUi9rpDt6cik",
+          "_id": "5OBmR4AY53SS26qHZ4uwnq",
           "count": 3,
           "details": {
-            "id": "4UK2Lzi6fBfUi9rpDt6cik",
-            "name": "\u30e8\u30eb\u30b7\u30ab",
+            "id": "5OBmR4AY53SS26qHZ4uwnq",
+            "name": "HIMEHINA",
             "img": null,
             "genres": null
           }
@@ -12959,6 +13023,26 @@
           "details": {
             "id": "0FMBfzP2kK1RajdetEVL5c",
             "name": "VESPERBELL",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "24HASvYQG1OvEFRWVWmOfx",
+          "count": 2,
+          "details": {
+            "id": "24HASvYQG1OvEFRWVWmOfx",
+            "name": "Kano",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
+          "count": 2,
+          "details": {
+            "id": "3RvUqTyR1WwQzNaGuBKnCY",
+            "name": "Empty old City",
             "img": null,
             "genres": null
           }
@@ -12984,26 +13068,6 @@
           }
         },
         {
-          "_id": "3RvUqTyR1WwQzNaGuBKnCY",
-          "count": 2,
-          "details": {
-            "id": "3RvUqTyR1WwQzNaGuBKnCY",
-            "name": "Empty old City",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "24HASvYQG1OvEFRWVWmOfx",
-          "count": 2,
-          "details": {
-            "id": "24HASvYQG1OvEFRWVWmOfx",
-            "name": "Kano",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
           "_id": "2sd5k8N8cAOm6Q8OCcePw4",
           "count": 1,
           "details": {
@@ -13014,141 +13078,51 @@
           }
         },
         {
-          "_id": "2ZjWbNQAjL74Pf4aqikIz2",
+          "_id": "1k5LyiTCRzPjORzcgHqJxF",
           "count": 1,
           "details": {
-            "id": "2ZjWbNQAjL74Pf4aqikIz2",
-            "name": "Shota Shimizu",
+            "id": "1k5LyiTCRzPjORzcgHqJxF",
+            "name": "Kanaria",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "3Vl9fyKMIdLMswk8ai3mm9",
+          "_id": "6bDWAcdtVR3WHz2xtiIPUi",
           "count": 1,
           "details": {
-            "id": "3Vl9fyKMIdLMswk8ai3mm9",
-            "name": "Rebecca Black",
+            "id": "6bDWAcdtVR3WHz2xtiIPUi",
+            "name": "Fujii Kaze",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
+          "_id": "59MlkqYtMCEDrBp4hgwBJW",
           "count": 1,
           "details": {
-            "id": "71e65rSv8Dh3bfWNPQ1V1Q",
-            "name": "\u660e\u900f",
+            "id": "59MlkqYtMCEDrBp4hgwBJW",
+            "name": "\u591c\u6cb3\u4e16\u754c",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "2gTl6PiqJBvrrWSTOdGWnv",
+          "_id": "16ROxNSgWNSQIuIO8gNQyz",
           "count": 1,
           "details": {
-            "id": "2gTl6PiqJBvrrWSTOdGWnv",
-            "name": "La pri\u00e8re",
+            "id": "16ROxNSgWNSQIuIO8gNQyz",
+            "name": "Shiyui",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "7uugnrrGcHNunhme3bP1y3",
+          "_id": "6Rs4z6XgltEI01UlDlu98B",
           "count": 1,
           "details": {
-            "id": "7uugnrrGcHNunhme3bP1y3",
-            "name": "Sasuke Haraguchi",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
-          "count": 1,
-          "details": {
-            "id": "0ojt4tZJ0ud7qn25JdUyJW",
-            "name": "Albemuth",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "4WrbpHc8hLKQZkBGX8k1ay",
-          "count": 1,
-          "details": {
-            "id": "4WrbpHc8hLKQZkBGX8k1ay",
-            "name": "VALIS",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "7yDJ7xS3dASPaycSUqRy9G",
-          "count": 1,
-          "details": {
-            "id": "7yDJ7xS3dASPaycSUqRy9G",
-            "name": "\u5ec9",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "5EbbrgwO8jl2KXJmHySSeZ",
-          "count": 1,
-          "details": {
-            "id": "5EbbrgwO8jl2KXJmHySSeZ",
-            "name": "Suisei Hosimati",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "7EOnGG4jIYo7o8jt5Mnhox",
-          "count": 1,
-          "details": {
-            "id": "7EOnGG4jIYo7o8jt5Mnhox",
-            "name": "EastNewSound",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "5DH7HpmAYi04gZdPzo1myS",
-          "count": 1,
-          "details": {
-            "id": "5DH7HpmAYi04gZdPzo1myS",
-            "name": "\u751f\u7530\u9df9\u53f8",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "3xYFPpQA4Hp8BTusV6um2e",
-          "count": 1,
-          "details": {
-            "id": "3xYFPpQA4Hp8BTusV6um2e",
-            "name": "Taka",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "4yUIW4t2Jp0Ywa8O2UAeeb",
-          "count": 1,
-          "details": {
-            "id": "4yUIW4t2Jp0Ywa8O2UAeeb",
-            "name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
-            "img": null,
-            "genres": null
-          }
-        },
-        {
-          "_id": "6mEQK9m2krja6X1cfsAjfl",
-          "count": 1,
-          "details": {
-            "id": "6mEQK9m2krja6X1cfsAjfl",
-            "name": "Ado",
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
             "img": null,
             "genres": null
           }
@@ -13174,51 +13148,141 @@
           }
         },
         {
-          "_id": "6Rs4z6XgltEI01UlDlu98B",
+          "_id": "6mEQK9m2krja6X1cfsAjfl",
           "count": 1,
           "details": {
-            "id": "6Rs4z6XgltEI01UlDlu98B",
-            "name": "DUSTCELL",
+            "id": "6mEQK9m2krja6X1cfsAjfl",
+            "name": "Ado",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "16ROxNSgWNSQIuIO8gNQyz",
+          "_id": "4yUIW4t2Jp0Ywa8O2UAeeb",
           "count": 1,
           "details": {
-            "id": "16ROxNSgWNSQIuIO8gNQyz",
-            "name": "Shiyui",
+            "id": "4yUIW4t2Jp0Ywa8O2UAeeb",
+            "name": "\u30dd\u30ea\u30b9\u30d4\u30ab\u30c7\u30ea\u30fc",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "59MlkqYtMCEDrBp4hgwBJW",
+          "_id": "7EOnGG4jIYo7o8jt5Mnhox",
           "count": 1,
           "details": {
-            "id": "59MlkqYtMCEDrBp4hgwBJW",
-            "name": "\u591c\u6cb3\u4e16\u754c",
+            "id": "7EOnGG4jIYo7o8jt5Mnhox",
+            "name": "EastNewSound",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "6bDWAcdtVR3WHz2xtiIPUi",
+          "_id": "5DH7HpmAYi04gZdPzo1myS",
           "count": 1,
           "details": {
-            "id": "6bDWAcdtVR3WHz2xtiIPUi",
-            "name": "Fujii Kaze",
+            "id": "5DH7HpmAYi04gZdPzo1myS",
+            "name": "\u751f\u7530\u9df9\u53f8",
             "img": null,
             "genres": null
           }
         },
         {
-          "_id": "1k5LyiTCRzPjORzcgHqJxF",
+          "_id": "7yDJ7xS3dASPaycSUqRy9G",
           "count": 1,
           "details": {
-            "id": "1k5LyiTCRzPjORzcgHqJxF",
-            "name": "Kanaria",
+            "id": "7yDJ7xS3dASPaycSUqRy9G",
+            "name": "\u5ec9",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "5EbbrgwO8jl2KXJmHySSeZ",
+          "count": 1,
+          "details": {
+            "id": "5EbbrgwO8jl2KXJmHySSeZ",
+            "name": "Suisei Hosimati",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "0ojt4tZJ0ud7qn25JdUyJW",
+          "count": 1,
+          "details": {
+            "id": "0ojt4tZJ0ud7qn25JdUyJW",
+            "name": "Albemuth",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "4WrbpHc8hLKQZkBGX8k1ay",
+          "count": 1,
+          "details": {
+            "id": "4WrbpHc8hLKQZkBGX8k1ay",
+            "name": "VALIS",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "3xYFPpQA4Hp8BTusV6um2e",
+          "count": 1,
+          "details": {
+            "id": "3xYFPpQA4Hp8BTusV6um2e",
+            "name": "Taka",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "71e65rSv8Dh3bfWNPQ1V1Q",
+          "count": 1,
+          "details": {
+            "id": "71e65rSv8Dh3bfWNPQ1V1Q",
+            "name": "\u660e\u900f",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "3Vl9fyKMIdLMswk8ai3mm9",
+          "count": 1,
+          "details": {
+            "id": "3Vl9fyKMIdLMswk8ai3mm9",
+            "name": "Rebecca Black",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2gTl6PiqJBvrrWSTOdGWnv",
+          "count": 1,
+          "details": {
+            "id": "2gTl6PiqJBvrrWSTOdGWnv",
+            "name": "La pri\u00e8re",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "2ZjWbNQAjL74Pf4aqikIz2",
+          "count": 1,
+          "details": {
+            "id": "2ZjWbNQAjL74Pf4aqikIz2",
+            "name": "Shota Shimizu",
+            "img": null,
+            "genres": null
+          }
+        },
+        {
+          "_id": "7uugnrrGcHNunhme3bP1y3",
+          "count": 1,
+          "details": {
+            "id": "7uugnrrGcHNunhme3bP1y3",
+            "name": "Sasuke Haraguchi",
             "img": null,
             "genres": null
           }
